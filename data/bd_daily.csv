@@ -1,0 +1,21 @@
+﻿id,status,kind,location,holder,type,owner,country,site,bu
+PLANT-DMS-14-0371,Active,Bulk Truck,Plant,,bulk,Newaz Ahammed,bangladesh,plant,bd
+PLANT-DMS-14-0377,Active,Bulk Truck,Plant,,bulk,Newaz Ahammed,bangladesh,plant,bd
+PLANT-DMS-14-0378,Active,Bulk Truck,Plant,,bulk,Newaz Ahammed,bangladesh,plant,bd
+PLANT-DMS-14-0156,Active,Bulk Truck,Plant,,bulk,Newaz Ahammed,bangladesh,plant,bd
+PLANT-DMS-11-1838,Active,Bulk Truck,Plant,,bulk,Newaz Ahammed,bangladesh,plant,bd
+PLANT-DMS-11-1839,Active,Bulk Truck,Plant,,bulk,Newaz Ahammed,bangladesh,plant,bd
+PLANT-FL-01,Active,-,Plant,SCCBD,forklift,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-01,Active,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-02,Active,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-03,Active,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-04,Active,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-05,Inactive,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-06,Active,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-RWL-07,Active,-,Plant,Rental Wheel Loader,loader,GMG Mostafa,bangladesh,plant,bd
+PLANT-R-BLK-02,,Rental Dump Truck,,,dump,Dipu Stone,bangladesh,plant,bd
+PLANT-BLK-01,,Dump Truck,,,dump,Plant,bangladesh,plant,bd
+PLANT-BLK-03,,Dump Truck,,,dump,Plant,bangladesh,plant,bd
+PLANT-R-BLK-01,,Rental Dump Truck,,,dump,Dipu Stone,bangladesh,plant,bd
+PLANT-BLK-02,,Dump Truck,,,dump,Plant,bangladesh,plant,bd
+PLANT-REXV-01,,Rental Excavator,,,excavator,Dipu Stone,bangladesh,plant,bd

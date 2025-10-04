@@ -1,0 +1,205 @@
+[
+  {
+    "id": "bd",
+    "howto": "পরীক্ষার পদ্ধতি",
+    "inspector": "পরিদর্শক",
+    "uploadedAt": "2025-07-22T15:50:43.826Z",
+    "accept": "গৃহীত মানদণ্ড",
+    "bu": "bd",
+    "choices": [
+      {
+        "value": "pass",
+        "text": "পাস",
+        "colorClass": "bg-green-400"
+      },
+      {
+        "colorClass": "bg-red-400",
+        "value": "fail",
+        "text": "পাস নয়"
+      },
+      {
+        "text": "রযোজ্য নয়",
+        "value": "na",
+        "colorClass": "bg-yellow-400"
+      }
+    ],
+    "picture": "ছবি সংযুক্ত করুন (ঐচ্ছিক)",
+    "remark": "ছবি সংযুক্ত করুন (ঐচ্ছিক)",
+    "remarkr": "এই প্রশ্নটির জন্য মন্তব্য",
+    "submit": "জমা দিন",
+    "remarka": "রুটি সংশোধনের জন্য ব্যবস্থা",
+    "flag": "🇧🇩",
+    "name": "Bangladesh",
+    "sites": [
+      "plant"
+    ]
+  },
+  {
+    "id": "cmic",
+    "uploadedAt": "2025-07-22T15:49:51.623Z",
+    "accept": "លក្ខណៈសម្បត្តិនៃការទទួលយក",
+    "bu": "cmic",
+    "choices": [
+      {
+        "text": "ប្រក្រតី",
+        "colorClass": "bg-green-400",
+        "value": "pass"
+      },
+      {
+        "value": "fail",
+        "text": "មិនប្រក្រតី",
+        "colorClass": "bg-red-400"
+      },
+      {
+        "text": "មិនពាក់ព័ន្ធ",
+        "colorClass": "bg-yellow-400",
+        "value": "na"
+      }
+    ],
+    "howto": "វិធីសាស្រ្តពិនិត្យ",
+    "inspector": "អ្នកត្រួតពិនិត្យ",
+    "picture": "ភ្ជាប់រូបភាព (ជាជម្រើស)",
+    "remark": "ចំណាំ (ជាជម្រើស)",
+    "remarkr": "ចំណាំសម្រាប់សំណួរនេះ",
+    "submit": "ដាក់ស្នើ",
+    "remarka": "វិធានការដើម្បីកែសម្រួលបំណងខ្វះខាត",
+    "flag": "🇰🇭",
+    "name": "Cambodia",
+    "sites": [
+      "cmic"
+    ]
+  },
+  {
+    "id": "lk",
+    "uploadedAt": "2025-07-22T15:48:59.518Z",
+    "accept": "පිළිගැනීම් ප්‍රමිතිය",
+    "bu": "lk",
+    "choices": [
+      {
+        "value": "pass",
+        "text": "ඇත",
+        "colorClass": "bg-green-400"
+      },
+      {
+        "colorClass": "bg-red-400",
+        "value": "fail",
+        "text": "නැත"
+      },
+      {
+        "value": "na",
+        "colorClass": "bg-yellow-400",
+        "text": "අදාල නැත"
+      }
+    ],
+    "howto": "පරික්ෂා කිරීමේ ක්‍රමය",
+    "inspector": "පරික්ෂකයා",
+    "picture": "පින්තූරයක් අමුණන්න (විකල්ප)",
+    "remark": "සටහන (විකල්ප)",
+    "remarkr": "මෙම ප්‍රශ්නය සඳහා සටහන",
+    "submit": "යවන්න",
+    "remarks": "කණගාටු සහ ගැටළු සකසන ක්‍රියාමාර්ග",
+    "flag": "🇱🇰",
+    "name": "Sri Lanka",
+    "sites": [
+      "pcw",
+      "rcw",
+      "elc",
+      "hbp",
+      "quarry"
+    ]
+  },
+  {
+    "id": "th",
+    "accept": "มาตรฐานการยอมรับ",
+    "bu": "th",
+    "howto": "วิธีการตรวจสอบ",
+    "inspector": "ผู้ตรวจสอบ",
+    "remark": "หมายเหตุ",
+    "uploadedAt": "2025-07-22T15:47:42.555Z",
+    "submit": "ส่ง",
+    "choices": [
+      {
+        "colorClass": "bg-green-400",
+        "text": "ผ่าน",
+        "value": "pass"
+      },
+      {
+        "value": "fail",
+        "text": "บกพร่อง",
+        "colorClass": "bg-red-400"
+      },
+      {
+        "value": "na",
+        "text": "ไม่เกี่ยวข้อง",
+        "colorClass": "bg-yellow-400"
+      }
+    ],
+    "remarkr": "หมายเหตุข้อบกพร่อง",
+    "picture": "แนบรูปภาพ (ไม่บังคับ)",
+    "remarka": "มาตราการในการแก้ไขข้อบกพร่อง",
+    "flag": "🇹🇭",
+    "name": "Thailand",
+    "sites": [
+      "srb",
+      "log",
+      "office",
+      "support",
+      "driver",
+      "sccc",
+      "isup",
+      "cwt",
+      "mortar",
+      "isubs",
+      "ray",
+      "cho",
+      "quarry",
+      "plant3",
+      "skl",
+      "plant2",
+      "ebkk",
+      "isubr",
+      "icho"
+    ]
+  },
+  {
+    "id": "vn",
+    "accept": "Tiêu chuẩn chấp nhận",
+    "bu": "vn",
+    "howto": "Cách kiểm tra",
+    "inspector": "Người kiểm tra",
+    "picture": "Định kèm hình ảnh",
+    "remark": "Ghi chú",
+    "remarkr": "Ghi chú bắt buộc",
+    "submit": "Ghi chú",
+    "choices": [
+      {
+        "colorClass": "bg-green-400",
+        "text": "Đã có",
+        "value": "pass"
+      },
+      {
+        "colorClass": "bg-red-400",
+        "text": "Thất bại",
+        "value": "fail"
+      },
+      {
+        "colorClass": "bg-yellow-400",
+        "text": "Không áp dụng",
+        "value": "na"
+      }
+    ],
+    "uploadedAt": "2025-07-22T15:44:01.590Z",
+    "remarka": "Biện pháp để khắc phục thiếu sót",
+    "flag": "🇻🇳",
+    "name": "Vietnam",
+    "sites": [
+      "honc",
+      "thiv",
+      "catl",
+      "hiep",
+      "nhon",
+      "cant",
+      "ho"
+    ]
+  }
+]

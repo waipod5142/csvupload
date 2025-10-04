@@ -1,0 +1,822 @@
+﻿place,bu,status,hydrostaticTest,location,email,type,kind,area,registerDate,id,country,site
+Shale ชั้นล่าง,th,Active,n-a,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),ไม่พบข้อมูล,PLANT3-CR3-D1-3-01No.1,thailand,plant3
+Shale ชั้นล่าง,th,Active,2003,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),1998,PLANT3-CR3-D1-3-01No.2,thailand,plant3
+Shale ชั้นล่าง,th,Active,2005,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2000,PLANT3-CR3-D1-3-01No.3,thailand,plant3
+Shale ชั้นบน,th,Active,2008,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2003,PLANT3-CR3-D1-2-02No.1,thailand,plant3
+Shale ชั้นบน,th,Active,2008,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2003,PLANT3-CR3-D1-2-02No.2,thailand,plant3
+L/S K5 ชั้นล่าง,th,Active,2024,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2019,PLANT3-CR3-D1-3-03No.1,thailand,plant3
+L/S K5 ชั้นล่าง,th,Active,n-a,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),ไม่พบข้อมูล,PLANT3-CR3-D1-3-03No.2,thailand,plant3
+L/S K5 ชั้นล่าง,th,Active,n-a,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),ไม่พบข้อมูล,PLANT3-CR3-D1-3-03No.3,thailand,plant3
+L/S K5 ชั้นบน,th,Active,2007,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2002,PLANT3-CR3-D1-2-04No.1,thailand,plant3
+L/S K5 ชั้นบน,th,Active,2007,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2002,PLANT3-CR3-D1-2-04No.2,thailand,plant3
+L/S K6 ชั้นล่าง,th,Active,n-a,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),ไม่พบข้อมูล,PLANT3-CR3-D1-3-05No.1,thailand,plant3
+L/S K6 ชั้นล่าง,th,Active,2003,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),1998,PLANT3-CR3-D1-3-05No.2,thailand,plant3
+L/S K6 ชั้นล่าง,th,Active,n-a,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),ไม่พบข้อมูล,PLANT3-CR3-D1-3-05No.3,thailand,plant3
+L/S K6 ชั้นบน,th,Active,2007,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2002,PLANT3-CR3-D1-2-06No.1,thailand,plant3
+L/S K6 ชั้นบน,th,Active,2007,-,Crusher(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Crusher),2002,PLANT3-CR3-D1-2-06No.2,thailand,plant3
+ชั้น 1 ข้าง R1M01,th,Active,2022,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2017,PLANT3-RM3-D1-3-01No.1,thailand,plant3
+ชั้น 1 ข้าง R1M01,th,Active,2022,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2017,PLANT3-RM3-D1-3-01No.2,thailand,plant3
+ชั้น 1 ข้าง R1M01,th,Inactive,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่มีถัง (สูญหาย),PLANT3-RM3-D1-3-01No.3,thailand,plant3
+ชั้น 1 ข้าง R2M01,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-02No.1,thailand,plant3
+ชั้น 1 ข้าง R2M01,th,Active,2022,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2017,PLANT3-RM3-D1-3-02No.2,thailand,plant3
+ชั้น 1 ข้าง R2M01,th,Active,2022,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2017,PLANT3-RM3-D1-3-02No.3,thailand,plant3
+ชั้น 1 ข้าง R1M01,th,Active,2022,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2017,PLANT3-RM3-D1-2-03No.1,thailand,plant3
+ชั้น 1 ข้าง R1M01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-03No.2,thailand,plant3
+ชั้น 2 ข้าง R2M01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-04No.1,thailand,plant3
+ชั้น 2 ข้าง R2M01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-04No.2,thailand,plant3
+ชั้น 3 ข้าง R2A01,th,Active,2008,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2003,PLANT3-RM3-D1-2-05No.1,thailand,plant3
+ชั้น 3 ข้าง R2A01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-05No.2,thailand,plant3
+ชั้น 3 ข้าง R1V01,th,Active,2010,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2005,PLANT3-RM3-D1-2-06No.1,thailand,plant3
+ชั้น 3 ข้าง R1V01,th,Active,2010,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2005,PLANT3-RM3-D1-2-06No.2,thailand,plant3
+ชั้น 3 ข้าง J1P21,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-07No.1,thailand,plant3
+ชั้น 3 ข้าง J1P21,th,Active,2019,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2014,PLANT3-RM3-D1-3-07No.2,thailand,plant3
+ชั้น 3 ข้าง J1P21,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-07No.3,thailand,plant3
+ชั้น 1 ข้าง R4M01,th,Active,2027,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2022,PLANT3-RM3-D1-3-08No.1,thailand,plant3
+ชั้น 1 ข้าง R4M01,th,Active,2027,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2022,PLANT3-RM3-D1-3-08No.2,thailand,plant3
+ชั้น 1 ข้าง R4M01,th,Active,2027,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2022,PLANT3-RM3-D1-3-08No.3,thailand,plant3
+ชั้น 1 ข้าง R3S29,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-09No.1,thailand,plant3
+ชั้น 1 ข้าง R3S29,th,Active,2022,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2017,PLANT3-RM3-D1-3-09No.2,thailand,plant3
+ชั้น 1 ข้าง R3S29,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-09No.3,thailand,plant3
+ชั้น 1 ข้าง R3M01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-10No.1,thailand,plant3
+ชั้น 1 ข้าง R3M01,th,Active,2010,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2005,PLANT3-RM3-D1-3-10No.2,thailand,plant3
+ชั้น 1 ข้าง R3M01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-10No.3,thailand,plant3
+ชั้น 2 ข้าง R4M01,th,Active,2027,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2022,PLANT3-RM3-D1-3-11No.1,thailand,plant3
+ชั้น 2 ข้าง R4M01,th,Active,2027,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2022,PLANT3-RM3-D1-3-11No.2,thailand,plant3
+ชั้น 2 ข้าง R4M01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-11No.3,thailand,plant3
+ชั้น 3 ข้าง R4A01,th,Active,2004,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),1999,PLANT3-RM3-D1-2-12No.1,thailand,plant3
+ชั้น 3 ข้าง R4A01,th,Active,2024,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2019,PLANT3-RM3-D1-2-12No.2,thailand,plant3
+ชั้น 3 ข้าง R3V01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-13No.1,thailand,plant3
+ชั้น 3 ข้าง R3V01,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-13No.2,thailand,plant3
+ชั้น 3 ข้าง R3V01,th,Active,2018,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2013,PLANT3-RM3-D1-2-14No.1,thailand,plant3
+ชั้น 3 ข้าง R3V01,th,Active,2011,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2006,PLANT3-RM3-D1-2-14No.2,thailand,plant3
+ชั้น 3 ข้าง J2P21,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-15No.1,thailand,plant3
+ชั้น 3 ข้าง J2P21,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-15No.2,thailand,plant3
+ชั้น 3 ข้าง J2P21,th,Active,2009,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2004,PLANT3-RM3-D1-3-15No.3,thailand,plant3
+หน้าห้อง Comp N1,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-16No.1,thailand,plant3
+หน้าห้อง Comp N1,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-16No.2,thailand,plant3
+หน้าห้อง Comp N4,th,Active,2003,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),1998,PLANT3-RM3-D1-2-17No.1,thailand,plant3
+หน้าห้อง Comp N4,th,Active,2005,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2000,PLANT3-RM3-D1-2-17No.2,thailand,plant3
+ห้องพัก Reclaimer,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-18No.1,thailand,plant3
+ห้องพัก Reclaimer,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-18No.2,thailand,plant3
+ห้องพัก Reclaimer,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-18No.3,thailand,plant3
+R/M/F ชั้น 1  (ข้างห้องเก็บของ),th,Active,2020,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2015,PLANT3-RM3-D1-2-19No.1,thailand,plant3
+R/M/F ชั้น 1  (ข้างห้องเก็บของ),th,Active,2007,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2002,PLANT3-RM3-D1-2-19No.2,thailand,plant3
+R/M/F ชั้น 2 (ข้าง R1J09),th,Active,2020,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2015,PLANT3-RM3-D1-3-20No.1,thailand,plant3
+R/M/F ชั้น 2 (ข้าง R1J09),th,Active,2010,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2005,PLANT3-RM3-D1-3-20No.2,thailand,plant3
+R/M/F ชั้น 2 (ข้าง R1J09),th,Active,2020,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2015,PLANT3-RM3-D1-3-20No.3,thailand,plant3
+R/M/F ชั้น 4 (ข้าง A2U02),th,Active,2003,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),1998,PLANT3-RM3-D1-3-21No.1,thailand,plant3
+R/M/F ชั้น 4 (ข้าง A2U02),th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-21No.2,thailand,plant3
+R/M/F ชั้น 4 (ข้าง A2U02),th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-21No.3,thailand,plant3
+R/M/F ชั้น 6 (ข้าง A1U01),th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-22No.1,thailand,plant3
+R/M/F ชั้น 6 (ข้าง A1U01),th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-22No.2,thailand,plant3
+R/M/F ชั้น 6 (ข้าง A1U01),th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-3-22No.3,thailand,plant3
+R/M/F K5 (Apron Feeder),th,Active,2019,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2014,PLANT3-RM3-D1-2-23No.1,thailand,plant3
+R/M/F K5 (Apron Feeder),th,Active,2018,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2013,PLANT3-RM3-D1-2-23No.2,thailand,plant3
+R/M/F K5 (ชั้นถัง Bin),th,Active,2019,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2014,PLANT3-RM3-D1-2-24No.1,thailand,plant3
+R/M/F K5 (ชั้นถัง Bin),th,Active,2019,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2014,PLANT3-RM3-D1-2-24No.2,thailand,plant3
+R/M/F K6 (ชั้นล่าง),th,Active,2010,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2005,PLANT3-RM3-D1-2-25No.1,thailand,plant3
+R/M/F K6 (ชั้นล่าง),th,Active,2021,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2016,PLANT3-RM3-D1-2-25No.2,thailand,plant3
+R/M/F K6 (ชั้น Dosimat),th,Active,2003,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),1998,PLANT3-RM3-D1-2-26No.1,thailand,plant3
+R/M/F K6 (ชั้น Dosimat),th,Active,2006,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2001,PLANT3-RM3-D1-2-26No.2,thailand,plant3
+R/M/F K6 (ชั้นถัง Bin),th,Active,2019,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2014,PLANT3-RM3-D1-2-27No.1,thailand,plant3
+R/M/F K6 (ชั้นถัง Bin),th,Active,2019,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),2014,PLANT3-RM3-D1-2-27No.2,thailand,plant3
+Copper Slag Storage,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-28No.1,thailand,plant3
+Copper Slag Storage,th,Active,n-a,-,Raw Mill(N),extinguisher,Dry Chemical,เตรียมวัตถุดิบ (Raw Mill),ไม่พบข้อมูล,PLANT3-RM3-D1-2-28No.2,thailand,plant3
+ข้างห้องพัก Oil Prep.,th,Active,2020,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2015,PLANT3-KK3-D1-3-01No.1,thailand,plant3
+ข้างห้องพัก Oil Prep.,th,Active,2020,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2015,PLANT3-KK3-D1-3-01No.2,thailand,plant3
+ข้างห้องพัก Oil Prep.,th,Active,2020,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2015,PLANT3-KK3-D1-3-01No.3,thailand,plant3
+ข้างห้องพัก Oil Prep.,th,Active,2020,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2015,PLANT3-KK3-D1-3-02No.1,thailand,plant3
+ข้างห้องพัก Oil Prep.,th,Active,2020,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2015,PLANT3-KK3-D1-3-02No.2,thailand,plant3
+ข้างห้องพัก Oil Prep.,th,Active,2020,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2015,PLANT3-KK3-D1-3-02No.3,thailand,plant3
+Cooler K5 ชั้น 1,th,Active,2025,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2020,PLANT3-KK3-D1-3-03No.1,thailand,plant3
+Cooler K5 ชั้น 1,th,Active,2025,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2020,PLANT3-KK3-D1-3-03No.2,thailand,plant3
+Cooler K5 ชั้น 1,th,Active,2025,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2020,PLANT3-KK3-D1-3-03No.3,thailand,plant3
+Cooler K5 ชั้น 2,th,Active,2009,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2004,PLANT3-KK3-D1-3-04No.1,thailand,plant3
+Cooler K5 ชั้น 2,th,Active,2011,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2006,PLANT3-KK3-D1-3-04No.2,thailand,plant3
+Cooler K5 ชั้น 2,th,Active,2022,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2017,PLANT3-KK3-D1-3-04No.3,thailand,plant3
+Cooler K5 ชั้น 3,th,Active,2004,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),1999,PLANT3-KK3-D1-3-05No.1,thailand,plant3
+Cooler K5 ชั้น 3,th,Active,2004,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),1999,PLANT3-KK3-D1-3-05No.2,thailand,plant3
+Cooler K5 ชั้น 3,th,Active,2007,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2002,PLANT3-KK3-D1-3-05No.3,thailand,plant3
+ห้อง 33/34 K5,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-3-06No.1,thailand,plant3
+ห้อง 33/34 K5,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-3-06No.2,thailand,plant3
+ห้อง 33/34 K5,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-3-06No.3,thailand,plant3
+P/H K5 ชั้น 3,th,Active,-,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),ไม่พบข้อมูล,PLANT3-KK3-D1-3-07No.1,thailand,plant3
+P/H K5 ชั้น 3,th,Active,-,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),ไม่พบข้อมูล,PLANT3-KK3-D1-3-07No.2,thailand,plant3
+P/H K5 ชั้น 3,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-3-07No.3,thailand,plant3
+P/H K5 ชั้น 2,th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-08No.1,thailand,plant3
+P/H K5 ชั้น 2,th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-08No.2,thailand,plant3
+P/H K5 ชั้น 1 ข้าง Silo 1,th,Active,2014,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2009,PLANT3-KK3-D1-2-09No.1,thailand,plant3
+P/H K5 ชั้น 1 ข้าง Silo 1,th,Active,2014,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2009,PLANT3-KK3-D1-2-09No.2,thailand,plant3
+Cooler K6 ชั้น 1,th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-3-10No.1,thailand,plant3
+Cooler K6 ชั้น 1,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-3-10No.2,thailand,plant3
+Cooler K6 ชั้น 1,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-3-10No.3,thailand,plant3
+Cooler K6 ชั้น 2,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-11No.1,thailand,plant3
+Cooler K6 ชั้น 2,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-11No.2,thailand,plant3
+Cooler K6 ชั้น 3,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-12No.1,thailand,plant3
+Cooler K6 ชั้น 3,th,Active,2007,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2002,PLANT3-KK3-D1-2-12No.2,thailand,plant3
+ห้อง 33/34 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-3-13No.1,thailand,plant3
+ห้อง 33/34 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-3-13No.2,thailand,plant3
+ห้อง 33/34 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-3-13No.3,thailand,plant3
+P/H K6 ชั้น 3,th,Active,-,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),ไม่พบข้อมูล,PLANT3-KK3-D1-3-14No.1,thailand,plant3
+P/H K6 ชั้น 3,th,Active,2025,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2020,PLANT3-KK3-D1-3-14No.2,thailand,plant3
+P/H K6 ชั้น 3,th,Active,2022,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2017,PLANT3-KK3-D1-3-14No.3,thailand,plant3
+P/H K6 ชั้น 3 Foil,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-15No.1,thailand,plant3
+P/H K6 ชั้น 3 Foil,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-15No.2,thailand,plant3
+P/H K6 ชั้น 3 Foil,th,Active,2029,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2024,PLANT3-KK3-D1-2-15No.3,thailand,plant3
+P/H K6 ชั้น 3 Foil,th,Active,2029,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2024,PLANT3-KK3-D1-2-15No.4,thailand,plant3
+P/H K6 ชั้น 2,th,Active,2022,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2017,PLANT3-KK3-D1-2-16No.1,thailand,plant3
+P/H K6 ชั้น 2,th,Active,2022,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2017,PLANT3-KK3-D1-2-16No.2,thailand,plant3
+P/H K6 ชั้น 2 Foil,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-17No.1,thailand,plant3
+P/H K6 ชั้น 2 Foil,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-17No.2,thailand,plant3
+P/H K6 ชั้น 2 Foil,th,Active,2027,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2022,PLANT3-KK3-D1-2-18No.1,thailand,plant3
+P/H K6 ชั้น 2 Foil,th,Active,2027,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2022,PLANT3-KK3-D1-2-18No.2,thailand,plant3
+P/H K6 ชั้น 2 Foil,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-19No.1,thailand,plant3
+P/H K6 ชั้น 2 Foil,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-19No.2,thailand,plant3
+P/H K5 ชั้น 1 ยก Foil,th,Active,2018,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2013,PLANT3-KK3-D1-2-20No.1,thailand,plant3
+P/H K5 ชั้น 1 ยก Foil,th,Active,2018,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2013,PLANT3-KK3-D1-2-20No.2,thailand,plant3
+ข้างโรงเก็บอิฐ,th,Active,2014,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2009,PLANT3-KK3-D1-3-21No.1,thailand,plant3
+ข้างโรงเก็บอิฐ,th,Active,2014,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2009,PLANT3-KK3-D1-3-21No.2,thailand,plant3
+ข้างโรงเก็บอิฐ,th,Inactive,n-a,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),ไม่มีถัง (สูญหาย),PLANT3-KK3-D1-3-21No.3,thailand,plant3
+P/H K5 ชั้น 2 Foil,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-22No.1,thailand,plant3
+P/H K5 ชั้น 2 Foil,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-22No.2,thailand,plant3
+P/H K5 ชั้น 3,th,Active,-,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),ไม่พบข้อมูล,PLANT3-KK3-D1-1-23No.1,thailand,plant3
+P/H K5 ชั้น 2 Foil,th,Active,-,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),ไม่พบข้อมูล,PLANT3-KK3-D1-2-24No.1,thailand,plant3
+P/H K5 ชั้น 2 Foil,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-24No.2,thailand,plant3
+P/H K5 ชั้น 2 Foil,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-26No.1,thailand,plant3
+P/H K5 ชั้น 2 Foil,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-26No.2,thailand,plant3
+P/H K5 ชั้น 1,th,Active,2016,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2011,PLANT3-KK3-D1-1-27No.1,thailand,plant3
+P/H K5 ชั้น 2,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-28No.1,thailand,plant3
+P/H K5 ชั้น 3,th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-1-29No.1,thailand,plant3
+P/H K5 ชั้น 4,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-30No.1,thailand,plant3
+P/H K5 ชั้น 5,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-31No.1,thailand,plant3
+P/H K5 ชั้น 6,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-32No.1,thailand,plant3
+P/H K5 ชั้น 7,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-33No.1,thailand,plant3
+P/H K5 ชั้น 8,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-34No.1,thailand,plant3
+P/H K6 ชั้น 1,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-35No.1,thailand,plant3
+P/H K6 ชั้น 2,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-36No.1,thailand,plant3
+P/H K6 ชั้น 3,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-37No.1,thailand,plant3
+P/H K6 ชั้น 4,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-38No.1,thailand,plant3
+P/H K6 ชั้น 5,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-39No.1,thailand,plant3
+P/H K6 ชั้น 6,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-40No.1,thailand,plant3
+P/H K6 ชั้น 7,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-41No.1,thailand,plant3
+P/H K6 ชั้น 8,th,Active,2023,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2018,PLANT3-KK3-D1-1-42No.1,thailand,plant3
+P/H K5 ชั้น 2 ชั้น Riser Pipe,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-43No.1,thailand,plant3
+P/H K5 ชั้น 2 ชั้น Riser Pipe,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-43No.2,thailand,plant3
+P/H K5 ชั้น 2 Foil Feed,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-44No.1,thailand,plant3
+P/H K5 ชั้น 2 Foil Feed,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-44No.2,thailand,plant3
+Chloride Bypass ชั้น 1 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-45No.1,thailand,plant3
+Chloride Bypass ชั้น 2 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-46No.1,thailand,plant3
+Chloride Bypass ชั้น 3 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-47No.1,thailand,plant3
+Chloride Bypass ชั้น 4 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-48No.1,thailand,plant3
+Chloride Bypass ชั้น 5 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-49No.1,thailand,plant3
+Chloride Bypass ชั้น 6 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-50No.1,thailand,plant3
+Chloride Bypass ชั้น 7 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-51No.1,thailand,plant3
+Chloride Bypass ชั้น 8 K6,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-1-52No.1,thailand,plant3
+Plant Diesel จุดที่ 1,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-53No.1,thailand,plant3
+Plant Diesel จุดที่ 1,th,Active,2024,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2019,PLANT3-KK3-D1-2-53No.2,thailand,plant3
+Plant Diesel จุดที่ 2,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-54No.1,thailand,plant3
+Plant Diesel จุดที่ 2,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-54No.2,thailand,plant3
+Plant Diesel จุดที่ 3,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-55No.1,thailand,plant3
+Plant Diesel จุดที่ 3,th,Active,2021,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2016,PLANT3-KK3-D1-2-55No.2,thailand,plant3
+P/H K5 ชั้น 2 Biomass จุดที่ 1 (ข้าง Cyclone W1B56),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-56No.1,thailand,plant3
+P/H K5 ชั้น 2 Biomass จุดที่ 1 (ข้าง Cyclone W1B56),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-56No.2,thailand,plant3
+"P/H K5 ชั้น 2 Biomass จุดที่ 2 (ข้างบันไดถัง Bin W1A02, W1A03)",th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-57No.1,thailand,plant3
+"P/H K5 ชั้น 2 Biomass จุดที่ 2 (ข้างบันไดถัง Bin W1A02, W1A03)",th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-57No.2,thailand,plant3
+P/H K5 ชั้น 2 Biomass จุดที่ 3 (ข้าง B/F J1P41),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-58No.1,thailand,plant3
+P/H K5 ชั้น 2 Biomass จุดที่ 3 (ข้าง B/F J1P41),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-58No.2,thailand,plant3
+ลาน Biomass จุดที่ 1 (หน้าทางเข้าลาน Biomass),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-59No.1,thailand,plant3
+ลาน Biomass จุดที่ 1 (หน้าทางเข้าลาน Biomass),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-59No.2,thailand,plant3
+ลาน Biomass จุดที่ 2 (โรง Feed biomass 1),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-60No.1,thailand,plant3
+ลาน Biomass จุดที่ 2 (โรง Feed biomass 1),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-60No.2,thailand,plant3
+ลาน Biomass จุดที่ 3 (โรง Feed biomass 2),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-61No.1,thailand,plant3
+ลาน Biomass จุดที่ 3 (โรง Feed biomass 2),th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-61No.2,thailand,plant3
+"ลาน Biomass จุดที่ 4 (ข้างสายพาน Biomass W1J31, W1J32)",th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-62No.1,thailand,plant3
+"ลาน Biomass จุดที่ 4 (ข้างสายพาน Biomass W1J31, W1J32)",th,Active,2028,-,Kiln(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Kiln),2023,PLANT3-KK3-D1-2-62No.2,thailand,plant3
+กลาง Plant K5 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-001No.1,thailand,plant3
+กลาง Plant K5 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-001No.2,thailand,plant3
+กลาง Plant K5 ชั้น 1,th,Active,1995,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1990,PLANT3-CL3-D2-3-001No.3,thailand,plant3
+Pfister K5 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-002No.1,thailand,plant3
+Pfister K5 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-002No.2,thailand,plant3
+Pfister K5 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-002No.3,thailand,plant3
+ชั้น 1 ด้าน K1T36,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-003No.1,thailand,plant3
+ชั้น 1 ด้าน K1T36,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-003No.2,thailand,plant3
+ชั้น 1 ด้าน K1T36,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-003No.3,thailand,plant3
+K5 ชั้นลอยระหว่าง Silo B-C,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-004No.1,thailand,plant3
+K5 ชั้นลอยระหว่าง Silo B-C,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-004No.2,thailand,plant3
+K5 ชั้นลอยระหว่าง Silo B-C,th,Active,1996,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1991,PLANT3-CL3-D2-3-004No.3,thailand,plant3
+K5 ชั้น 2,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-005No.1,thailand,plant3
+K5 ชั้น 2,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-005No.2,thailand,plant3
+K5 ชั้น 2,th,Active,2001,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1996,PLANT3-CL3-D2-3-005No.3,thailand,plant3
+กลาง Plant K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-006No.1,thailand,plant3
+กลาง Plant K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-006No.2,thailand,plant3
+กลาง Plant K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-006No.3,thailand,plant3
+Pfister K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-007No.1,thailand,plant3
+Pfister K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-007No.2,thailand,plant3
+Pfister K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-007No.3,thailand,plant3
+ชั้น 1 K6 ด้าน K1T36,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-008No.1,thailand,plant3
+ชั้น 1 K6 ด้าน K1T36,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-008No.2,thailand,plant3
+ชั้น 1 K6 ด้าน K1T36,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-008No.3,thailand,plant3
+K6 ชั้นลอยระหว่าง Silo B-C,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-009No.1,thailand,plant3
+K6 ชั้นลอยระหว่าง Silo B-C,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-009No.2,thailand,plant3
+K6 ชั้นลอยระหว่าง Silo B-C,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-009No.3,thailand,plant3
+K6 ชั้น 2,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-010No.1,thailand,plant3
+K6 ชั้น 2,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-010No.2,thailand,plant3
+K6 ชั้น 2,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-010No.3,thailand,plant3
+Unload K5,th,Active,2005,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2000,PLANT3-CL3-D2-2-011No.1,thailand,plant3
+Unload K5,th,Active,2003,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1998,PLANT3-CL3-D2-2-011No.2,thailand,plant3
+Unload K6,th,Active,2008,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2003,PLANT3-CL3-D2-2-012No.1,thailand,plant3
+Unload K6,th,Active,2008,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2003,PLANT3-CL3-D2-2-012No.2,thailand,plant3
+Unload K5 ด้านอุโมงค์,th,Active,2028,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2023,PLANT3-CL3-D2-1-013No.1,thailand,plant3
+Unload K6 ด้านอุโมงค์,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-1-014No.1,thailand,plant3
+Crusher K5 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-015No.1,thailand,plant3
+Crusher K5 ชั้น 1,th,Active,2009,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2004,PLANT3-CL3-D2-3-015No.2,thailand,plant3
+Crusher K5 ชั้น 1,th,Active,2009,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2004,PLANT3-CL3-D2-3-015No.3,thailand,plant3
+Crusher K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-016No.1,thailand,plant3
+Crusher K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-016No.2,thailand,plant3
+Crusher K6 ชั้น 1,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D2-3-016No.3,thailand,plant3
+ห้อง Comp K5,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-017No.1,thailand,plant3
+ห้อง Comp K5,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-017No.2,thailand,plant3
+ห้อง Comp K5,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-017No.3,thailand,plant3
+ห้อง Comp K6,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-018No.1,thailand,plant3
+ห้อง Comp K6,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-018No.2,thailand,plant3
+ห้อง Comp K6,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-018No.3,thailand,plant3
+ข้างห้องคุม Coal Unload,th,Active,2014,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2009,PLANT3-CL3-D2-3-019No.1,thailand,plant3
+ข้างห้องคุม Coal Unload,th,Active,2014,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2009,PLANT3-CL3-D2-3-019No.2,thailand,plant3
+ข้างห้องคุม Coal Unload,th,Active,2020,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),2015,PLANT3-CL3-D2-3-019No.3,thailand,plant3
+K6 ชั้น 2 ระหว่างถัง Bin K3L01-K4L01,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-023No.1,thailand,plant3
+K6 ชั้น 2 ระหว่างถัง Bin K3L01-K4L01,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-023No.2,thailand,plant3
+K6 ชั้น 2 ระหว่างถัง Bin K3L01-K4L01,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-023No.3,thailand,plant3
+K5 ชั้น 2 ระหว่างถัง Bin K1L01-K2L01,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-024No.1,thailand,plant3
+K5 ชั้น 2 ระหว่างถัง Bin K1L01-K2L01,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-024No.2,thailand,plant3
+K5 ชั้น 2 ระหว่างถัง Bin K1L01-K2L01,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-3-024No.3,thailand,plant3
+Coal fine feed 3 K5 ชั้น 1; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-025No.1,thailand,plant3
+Coal fine feed 3 K5 ชั้น 1; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-025No.2,thailand,plant3
+Coal fine feed 3 K5 ชั้น 2; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-026No.2,thailand,plant3
+Coal fine feed 3 K5 ชั้น 3; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-027No.1,thailand,plant3
+Coal fine feed 3 K6 ชั้น 3; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-028No.1,thailand,plant3
+Coal fine feed 3 K6 ชั้น 3; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-028No.2,thailand,plant3
+Coal fine feed 3 K6 ชั้น 3; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-029No.2,thailand,plant3
+Coal fine feed 3 K6 ชั้น 3; Silo D,th,Active,1999,-,Coal Mill(N),extinguisher,Dry Chemical,ผลิตปูนเม็ด (Coal Mill),1994,PLANT3-CL3-D1-2-030No.1,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005601,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005662,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005593,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005598,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005604,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005631,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005637,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005627,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005596,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005603,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005600,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005659,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005591,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005661,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005594,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005639,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005628,thailand,plant3
+(อาคาร TG) (ชั้น 3 ในห้อง Patrol LCR),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005638,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005636,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005632,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005634,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005633,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005650,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005635,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005630,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005626,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005590,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005655,thailand,plant3
+(อาคาร TG) (ชั้น 2 ในห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005656,thailand,plant3
+(อาคาร TG) (ชั้น 2 นอกห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005652,thailand,plant3
+(อาคาร TG) (ชั้น 2 นอกห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005660,thailand,plant3
+(อาคาร TG) (ชั้น 2 นอกห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005653,thailand,plant3
+(อาคาร TG) (ชั้น 2 นอกห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005553,thailand,plant3
+(อาคาร TG) (ชั้น 2 นอกห้อง Sub),th,Active,-,-,WHR3,extinguisher,CO2,ผลิตกระแสไฟฟ้า,ไม่พบข้อมูล,PLANT3-10-PK-C-005658,thailand,plant3
+ข้าง Motor Z3M01,th,Active,2018,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2013,PLANT3-CM3-D1-3-01No.1,thailand,plant3
+ข้าง Motor Z3M01,th,Active,2024,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2019,PLANT3-CM3-D1-3-01No.2,thailand,plant3
+ข้าง Motor Z3M01,th,Active,n-a,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,ถังหาย,PLANT3-CM3-D1-3-01No.3,thailand,plant3
+ชั้น P/C Z5M32,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-3-02No.1,thailand,plant3
+ชั้น P/C Z5M32,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-3-02No.2,thailand,plant3
+ชั้น P/C Z5M32,th,Active,2009,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2004,PLANT3-CM3-D1-3-02No.3,thailand,plant3
+ชั้น R/P Z1M32,th,Active,2004,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,1999,PLANT3-CM3-D1-3-03No.1,thailand,plant3
+ชั้น R/P Z1M32,th,Active,2009,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2004,PLANT3-CM3-D1-3-03No.2,thailand,plant3
+ชั้น R/P Z1M32,th,Active,2009,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2004,PLANT3-CM3-D1-3-03No.3,thailand,plant3
+ข้างท้ายสายพาน U1U06,th,Active,2008,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2003,PLANT3-CM3-D1-3-04No.1,thailand,plant3
+ข้างท้ายสายพาน U1U06,th,Active,2003,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,1998,PLANT3-CM3-D1-3-04No.2,thailand,plant3
+ข้างท้ายสายพาน U1U06,th,Active,n-a,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,ถังหาย,PLANT3-CM3-D1-3-04No.3,thailand,plant3
+ข้าง Motor Z1M01,th,Active,2018,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2013,PLANT3-CM3-D1-3-05No.1,thailand,plant3
+ข้าง Motor Z1M01,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-3-05No.2,thailand,plant3
+ข้าง Motor Z1M01,th,Active,n-a,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,ไม่พบข้อมูลปีที่ผลิต,PLANT3-CM3-D1-3-05No.3,thailand,plant3
+ท้ายสายพาน Z5J11,th,Active,2017,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2012,PLANT3-CM3-D1-3-06No.1,thailand,plant3
+ท้ายสายพาน Z5J11,th,Active,2003,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,1998,PLANT3-CM3-D1-3-06No.2,thailand,plant3
+ท้ายสายพาน Z5J11,th,Active,n-a,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,ถังหาย,PLANT3-CM3-D1-3-06No.3,thailand,plant3
+ข้างท้ายสายพาน Z3A13,th,Active,2017,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2012,PLANT3-CM3-D1-3-07No.1,thailand,plant3
+ข้างท้ายสายพาน Z3A13,th,Active,2021,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2016,PLANT3-CM3-D1-3-07No.2,thailand,plant3
+ข้างท้ายสายพาน Z3A13,th,Active,2024,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2019,PLANT3-CM3-D1-3-07No.3,thailand,plant3
+โม่ Gypsum,th,Active,2003,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,1998,PLANT3-CM3-D1-3-08No.1,thailand,plant3
+โม่ Gypsum,th,Active,2003,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,1998,PLANT3-CM3-D1-3-08No.2,thailand,plant3
+โม่ Gypsum,th,Active,2003,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,1998,PLANT3-CM3-D1-3-08No.3,thailand,plant3
+หน้าห้อง Compressor N3,th,Active,ไม่พบข้อมูลปีที่ผลิต,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,*ถัง/ตู้ชำรุด,PLANT3-CM3-D1-3-09No.1,thailand,plant3
+หน้าห้อง Compressor N3,th,Active,ไม่พบข้อมูลปีที่ผลิต,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,*ถัง/ตู้ชำรุด,PLANT3-CM3-D1-3-09No.2,thailand,plant3
+หน้าห้อง Compressor N3,th,Active,ไม่พบข้อมูลปีที่ผลิต,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,*ถัง/ตู้ชำรุด,PLANT3-CM3-D1-3-09No.3,thailand,plant3
+หน้าห้อง Compressor N6,th,Active,ไม่พบข้อมูลปีที่ผลิต,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,*ถัง/ตู้ชำรุด,PLANT3-CM3-D1-3-10No.1,thailand,plant3
+หน้าห้อง Compressor N6,th,Active,ไม่พบข้อมูลปีที่ผลิต,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,*ถัง/ตู้ชำรุด,PLANT3-CM3-D1-3-10No.2,thailand,plant3
+หน้าห้อง Compressor N6,th,Active,ไม่พบข้อมูลปีที่ผลิต,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,*ถัง/ตู้ชำรุด,PLANT3-CM3-D1-3-10No.3,thailand,plant3
+ยอดสายพานและหัวสายพาน Z1U09,th,Active,2009,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2004,PLANT3-CM3-D1-3-11No.1,thailand,plant3
+ยอดสายพานและหัวสายพาน Z1U09,th,Active,2009,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2004,PLANT3-CM3-D1-3-11No.2,thailand,plant3
+ยอดสายพานและหัวสายพาน Z1U09,th,Active,n-a,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,ถังหาย,PLANT3-CM3-D1-3-11No.3,thailand,plant3
+ชั้นสายพาน G2J10,th,Active,2019,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2014,PLANT3-CM3-D1-2-12No.1,thailand,plant3
+ชั้นสายพาน G2J10,th,Active,2019,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2014,PLANT3-CM3-D1-2-12No.2,thailand,plant3
+ชั้นสายพาน Z5J16,th,Active,2017,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2012,PLANT3-CM3-D1-2-13No.1,thailand,plant3
+ชั้นสายพาน Z5J16,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-2-13No.2,thailand,plant3
+ชั้น Separator Z5S21,th,Active,2017,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2012,PLANT3-CM3-D1-2-14No.1,thailand,plant3
+ชั้น Separator Z5S21,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-2-14No.2,thailand,plant3
+"ชั้น E.P. Z1, Z2",th,Active,2017,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2012,PLANT3-CM3-D1-2-15No.1,thailand,plant3
+"ชั้น E.P. Z1, Z2",th,Active,2024,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2019,PLANT3-CM3-D1-2-15No.2,thailand,plant3
+ชั้นสายพาน G1J11,th,Active,2017,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2012,PLANT3-CM3-D1-2-16No.1,thailand,plant3
+ชั้นสายพาน G1J11,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-2-16No.2,thailand,plant3
+ชั้น P/C Z3M32,th,Active,2009,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2004,PLANT3-CM3-D1-2-17No.1,thailand,plant3
+ชั้น P/C Z3M32,th,Active,2022,-,Cement(N),extinguisher,Dry Chemical,ผลิตปูนซีเมนต์,2017,PLANT3-CM3-D1-2-17No.2,thailand,plant3
+หน้าทางเข้าสำนักงาน Office Workshop,th,Active,2021,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2016,PLANT3-ME3-D1-2-01No.1,thailand,plant3
+หน้าทางเข้าสำนักงาน Office Workshop,th,Active,2022,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2017,PLANT3-ME3-D1-2-01No.2,thailand,plant3
+ข้างโรงซ่อม Work shop,th,Active,2022,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2017,PLANT3-ME3-D1-2-02No.1,thailand,plant3
+ข้างโรงซ่อม Work shop,th,Active,2027,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2022,PLANT3-ME3-D1-2-02No.2,thailand,plant3
+หน้าห้อง Roller Press,th,Active,2024,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2019,PLANT3-ME3-D1-2-03No.1,thailand,plant3
+หน้าห้อง Roller Press,th,Active,2005,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2000,PLANT3-ME3-D1-2-03No.2,thailand,plant3
+ข้างทางเดินเข้า โรงซ่อม Work shop,th,Active,1996,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,1991,PLANT3-ME3-D1-2-04No.1,thailand,plant3
+ข้างทางเดินเข้า โรงซ่อม Work shop,th,Active,2027,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2022,PLANT3-ME3-D1-2-04No.2,thailand,plant3
+ข้างเครื่อง Press ภายในโรงซ่อม Workshop,th,Active,1999,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,1994,PLANT3-ME3-D1-2-05No.1,thailand,plant3
+ข้างเครื่อง Press ภายในโรงซ่อม Workshop,th,Active,2020,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2015,PLANT3-ME3-D1-2-05No.2,thailand,plant3
+ลานเก็บเศษเหล็ก (ล่าง),th,Active,2027,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2022,PLANT3-ME3-D1-2-08No.1,thailand,plant3
+ลานเก็บเศษเหล็ก (ล่าง),th,Active,2027,Work shop,ME3(Workshop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2022,PLANT3-ME3-D1-2-08No.2,thailand,plant3
+ห้อง Lubrication,th,Active,2021,Preventive Maintenance,ME3(Lubrication shop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2016,PLANT3-ME3-D1-2-06No.1,thailand,plant3
+ห้อง Lubrication,th,Active,2021,Preventive Maintenance,ME3(Lubrication shop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2016,PLANT3-ME3-D1-2-06No.2,thailand,plant3
+อาคารโรงเก็บถังเปล่า/Lubricant,th,Active,2025,Preventive Maintenance,ME3(Lubrication shop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2020,PLANT3-ME3-D1-2-07No.1,thailand,plant3
+อาคารโรงเก็บถังเปล่า/Lubricant,th,Active,2022,Preventive Maintenance,ME3(Lubrication shop)N,extinguisher,Dry Chemical,Preventive Maintenance & Planning,2017,PLANT3-ME3-D1-2-07No.2,thailand,plant3
+บริเวณสโมสร โรงงาน 3,th,Active,2007,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2002,PLANT3-AV3-D1-2-01No.1,thailand,plant3
+บริเวณสโมสร โรงงาน 3,th,Active,2004,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,1999,PLANT3-AV3-D1-2-01No.2,thailand,plant3
+บริเวณ Work shop ชั้น 3,th,Active,2009,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2004,PLANT3-AV3-D1-2-02No.1,thailand,plant3
+บริเวณ Work shop ชั้น 3,th,Active,2007,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2002,PLANT3-AV3-D1-2-02No.2,thailand,plant3
+บริเวณ Work shop ชั้น 2,th,Active,2009,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2004,PLANT3-AV3-D1-2-03No.1,thailand,plant3
+บริเวณ Work shop ชั้น 2,th,Active,2009,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2004,PLANT3-AV3-D1-2-03No.2,thailand,plant3
+บริเวณหน้าอาคาร Work shop ชั้น 1,th,Active,2011,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2006,PLANT3-AV3-D1-2-04No.1,thailand,plant3
+บริเวณหน้าอาคาร Work shop ชั้น 1,th,Active,2009,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2004,PLANT3-AV3-D1-2-04No.2,thailand,plant3
+บริเวณทางขึ้นบันไดอาคาร Workshop ชั้น 1,th,Active,2011,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2006,PLANT3-AV3-D1-2-05No.1,thailand,plant3
+บริเวณทางขึ้นบันไดอาคาร Workshop ชั้น 1,th,Active,2011,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2006,PLANT3-AV3-D1-2-05No.2,thailand,plant3
+ห้องน้ำ CCR ชั้น 1,th,Active,2010,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2005,PLANT3-AV3-C1-1-06No.1,thailand,plant3
+ห้องน้ำ CCR ชั้น 2,th,Active,2009,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2004,PLANT3-AV3-C1-1-07No.1,thailand,plant3
+หน้าห้อง Control Room,th,Active,2024,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2019,PLANT3-AV3-D1-1-09No.1,thailand,plant3
+ป้อมยาม 2 รง.3,th,Active,2027,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2022,PLANT3-AV3-D1-1-09No.2,thailand,plant3
+ห้องบริการโรงงาน,th,Active,2026,หน่วยงานบริการโรงงาน,AV3(N),extinguisher,Dry Chemical,หน่วยงานบริการโรงงาน,2021,PLANT3-AV3-C2-1-10No.1,thailand,plant3
+บริเวณหน้าห้อง Lab อาคาร Workshop ชั้น 1,th,Active,n-a,หน่วยงานควบคุมคุณภาพ,QC3(N),extinguisher,Dry Chemical,หน่วยงานควบคุมคุณภาพ,ไม่พบข้อมูล,PLANT3-QC3-C2-2-01No.1,thailand,plant3
+บริเวณหน้าห้อง Lab อาคาร Workshop ชั้น 1,th,Active,2019,หน่วยงานควบคุมคุณภาพ,QC3(N),extinguisher,Dry Chemical,หน่วยงานควบคุมคุณภาพ,2014,PLANT3-QC3-C2-2-01No.2,thailand,plant3
+Sub Raw Mill K6,th,Active,2007,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2002,PLANT3-EE3-C2-1-45No.1,thailand,plant3
+Sub Raw Mill K5,th,Active,2007,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2002,PLANT3-EE3-C2-1-49No.1,thailand,plant3
+Sub Raw Mill Feed,th,Active,2007,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2002,PLANT3-EE3-C2-1-50No.1,thailand,plant3
+Sub Water Treatment K6,th,Active,2009,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2004,PLANT3-EE3-C2-1-03No.1,thailand,plant3
+Sub Water Treatment K5,th,Active,1999,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,1994,PLANT3-EE3-C2-1-04No.1,thailand,plant3
+Sub Kiln K5,th,Active,2002,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,1997,PLANT3-EE3-C2-1-05No.1,thailand,plant3
+Sub Cooler K5,th,Active,2011,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2006,PLANT3-EE3-C2-1-06No.1,thailand,plant3
+Sub Cooler K6,th,Active,2028,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2023,PLANT3-EE3-C2-1-09No.1,thailand,plant3
+Sub Kiln K6,th,Active,2011,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2006,PLANT3-EE3-C2-1-10No.1,thailand,plant3
+Sub Main E.P. K5,th,Active,2011,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2006,PLANT3-EE3-C2-1-36No.1,thailand,plant3
+Sub Main E.P. K6,th,Active,2026,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2021,PLANT3-EE3-C2-1-52No.1,thailand,plant3
+Oil Preparation,th,Active,2009,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2004,PLANT3-EE3-C2-1-55No.1,thailand,plant3
+P/H K5 ชั้น 3 หน้า Sub ยาง,th,Active,2013,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2008,PLANT3-EE3-C2-2-56No.1,thailand,plant3
+P/H K5 ชั้น 3 หน้า Sub ยาง,th,Active,2013,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2008,PLANT3-EE3-C2-2-56No.2,thailand,plant3
+Cl bypass,th,Active,n-a,ซ่อมไฟฟ้า 2 (Kiln),EE3-2 Kiln(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูล,PLANT3-EE3-C2-1-58No.1,thailand,plant3
+Sub Coal Mill K5,th,Active,2011,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2006,PLANT3-EE3-C2-1-07No.1,thailand,plant3
+Sub Coal Mill K6,th,Active,2011,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2006,PLANT3-EE3-C2-1-08No.1,thailand,plant3
+Sub E.P. Coal Mill K6,th,Active,2011,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2006,PLANT3-EE3-C2-1-12No.1,thailand,plant3
+Coal Stacker F2L01,th,Active,2014,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2009,PLANT3-EE3-D1-1-13No.1,thailand,plant3
+Coal Stacker F2L02,th,Active,2014,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2009,PLANT3-EE3-D1-1-14No.1,thailand,plant3
+Coal Reclaimer F1L03,th,Active,2014,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2009,PLANT3-EE3-D1-1-15No.1,thailand,plant3
+Coal Reclaimer F1L02,th,Active,2009,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2004,PLANT3-EE3-D1-1-16No.1,thailand,plant3
+Sub E.P. Coal Mill K5,th,Active,n-a,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูล,PLANT3-EE3-C2-1-41No.1,thailand,plant3
+Sub Coal Crusher,th,Active,n-a,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูล,PLANT3-EE3-D1-1-51No.1,thailand,plant3
+Coal stacker F1L01,th,Active,2025,ซ่อมไฟฟ้า 2 (Coal Mill),EE3-2 CoalMill(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2020,PLANT3-EE3-D1-1-48No.1,thailand,plant3
+ห้อง Gas Analyzer K6;ชั้น 2 Main E.P.,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-C2-1-11No.1,thailand,plant3
+ห้อง Gas Analyzer K6;ชั้น 7 อาคาร P/H ด้าน A,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-C2-1-33No.1,thailand,plant3
+ห้อง Gas Analyzer K6;ชั้น 8 อาคาร P/H ด้าน B,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-D2-1-34No.1,thailand,plant3
+ห้อง Gas Analyzer K6;ชั้น 2 อาคาร Preheater,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-D2-1-35No.1,thailand,plant3
+ห้อง Gas Analyzer K5;อาคาร Main E.P.,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-D1-1-37No.1,thailand,plant3
+ห้อง Gas Analyzer K5;ชั้น 7 อาคาร P/H ด้าน A,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-C2-1-38No.1,thailand,plant3
+ห้อง Gas Analyzer K5;ชั้น 8 อาคาร P/H ด้าน B,th,Active,2026,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2021,PLANT3-EE3-C2-1-39No.1,thailand,plant3
+ห้อง Gas Analyzer K5;ชั้น 2 อาคาร Preheater,th,Active,n-a,Instrument (ห้อง Gas analyser),Instru(N)-Sommai,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-EE3-C2-1-40No.1,thailand,plant3
+อาคาร CCR ชั้น 1,th,Active,2010,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2005,PLANT3-EE3-H1-4-42No.1,thailand,plant3
+อาคาร CCR ชั้น 1,th,Active,2010,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2005,PLANT3-EE3-H1-4-42No.2,thailand,plant3
+อาคาร CCR ชั้น 1,th,Active,n-a,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูล,PLANT3-EE3-H1-4-42No.3,thailand,plant3
+อาคาร CCR ชั้น 1,th,Active,2016,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2011,PLANT3-EE3-H1-4-42No.4,thailand,plant3
+หน้าห้อง QC CCR.,th,Active,n-a,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูล,PLANT3-EE3-H1-1-43No.1,thailand,plant3
+หน้าห้อง Control Room,th,Active,n-a,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,ไม่พบข้อมูล,PLANT3-EE3-H1-1-44No.1,thailand,plant3
+ห้อง Master CCR.,th,Active,2010,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2005,PLANT3-EE3-C2-1-53No.1,thailand,plant3
+ห้อง Master CCR.,th,Active,2010,Instrument (อาคาร CCR.),Instru(N)-SaNgiam,extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2005,PLANT3-EE3-C2-1-54No.1,thailand,plant3
+Main Station 115 KV,th,Active,2015,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2010,PLANT3-EE3-C2-3-01No.1,thailand,plant3
+Main Station 115 KV,th,Active,2025,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2020,PLANT3-EE3-C2-3-01No.2,thailand,plant3
+Main Station 115 KV,th,Active,2025,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2020,PLANT3-EE3-C2-3-01No.3,thailand,plant3
+อาคาร Workshop,th,Active,2008,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2003,PLANT3-EE3-D1-4-02No.1,thailand,plant3
+อาคาร Workshop,th,Active,2022,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2017,PLANT3-EE3-D1-4-02No.2,thailand,plant3
+อาคาร Workshop,th,Active,2022,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2017,PLANT3-EE3-D1-4-02No.3,thailand,plant3
+อาคาร Workshop,th,Active,2027,Power,Power(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2022,PLANT3-EE3-D1-4-02No.4,thailand,plant3
+L/S Reclaimer A2L02,th,Active,2024,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C1-1-17No.1,thailand,plant3
+L/S Stacker A1L03,th,Active,2012,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-18No.1,thailand,plant3
+L/S Reclaimer A1L02,th,Active,2024,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C1-1-19No.1,thailand,plant3
+Shale Side Scraper C1L06,th,Active,2024,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C1-1-20No.1,thailand,plant3
+Shale Stacker C1L03,th,Active,2021,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-1-21No.1,thailand,plant3
+Shale Reclaimer C1L05,th,Active,2024,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C1-1-22No.1,thailand,plant3
+Sub Raw Mill Storage,th,Active,2021,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-1-23No.1,thailand,plant3
+Sub L/S Crusher K6,th,Active,2017,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2012,PLANT3-EE3-C1-1-24No.1,thailand,plant3
+Sub L/S Crusher K5,th,Active,2021,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-1-25No.1,thailand,plant3
+Shale K5 (MCC/MDB),th,Active,2017,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2012,PLANT3-EE3-C1-1-46No.1,thailand,plant3
+Shale K5 (Control Room),th,Active,2017,ซ่อมไฟฟ้า 1 (Crusher),EE3-1 Crusher(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2012,PLANT3-EE3-C1-1-47No.1,thailand,plant3
+Sub Cement Z1,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-26No.1,thailand,plant3
+Sub Cement Z2,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-27No.1,thailand,plant3
+Sub Cement Z3,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-28No.1,thailand,plant3
+Sub Cement Z5-Z6,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-3-29No.1,thailand,plant3
+Sub Cement Z5-Z6,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-3-29No.2,thailand,plant3
+Sub Cement Z5-Z6,th,Active,2016,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2011,PLANT3-EE3-C2-3-29No.3,thailand,plant3
+Sub EP Cement Z1,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-30No.1,thailand,plant3
+Sub EP Cement Z2,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-31No.1,thailand,plant3
+Sub EP Cement Z3,th,Active,2012,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2007,PLANT3-EE3-C2-1-32No.2,thailand,plant3
+Mixing Plant,th,Active,2009,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2004,PLANT3-EE3-C1-2-57No.1,thailand,plant3
+Mixing Plant,th,Active,2027,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2022,PLANT3-EE3-C1-2-57No.2,thailand,plant3
+"ชั้นล่าง MDB, MCC  (Z8, Z9)",th,Active,2024,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C2-5-59No.1,thailand,plant3
+"ชั้นล่าง MDB, MCC  (Z8, Z9)",th,Active,2024,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C2-5-59No.2,thailand,plant3
+"ชั้นล่าง MDB, MCC  (Z8, Z9)",th,Active,2024,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2019,PLANT3-EE3-C2-5-59No.3,thailand,plant3
+"ชั้นล่าง MDB, MCC  (Z8, Z9)",th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C2-5-59No.4,thailand,plant3
+"ชั้นล่าง MDB, MCC  (Z8, Z9)",th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C2-5-59No.5,thailand,plant3
+ชั้น 2 ห้อง Drive Z8,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-60No.1,thailand,plant3
+ชั้น 2 ห้อง Drive Z8,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-60No.2,thailand,plant3
+ชั้น 2 ห้อง Drive Z8,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-60No.3,thailand,plant3
+ชั้น 2 ห้อง Drive Z9,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-61No.1,thailand,plant3
+ชั้น 2 ห้อง Drive Z9,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-61No.2,thailand,plant3
+ชั้น 2 ห้อง Drive Z9,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-61No.3,thailand,plant3
+ชั้น 3 ห้อง I/O Z8,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-62No.1,thailand,plant3
+ชั้น 3 ห้อง I/O Z8,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-62No.2,thailand,plant3
+ชั้น 3 ห้อง I/O Z8,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-62No.3,thailand,plant3
+ชั้น 3 ห้อง I/O Z9,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-63No.1,thailand,plant3
+ชั้น 3 ห้อง I/O Z9,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-63No.2,thailand,plant3
+ชั้น 3 ห้อง I/O Z9,th,Active,2021,ซ่อมไฟฟ้า 1 (Cement),EE3-1 CM(N),extinguisher,Dry Chemical,ซ่อมไฟฟ้า,2016,PLANT3-EE3-C1-3-63No.3,thailand,plant3
+อาคาร Cooling Tower ชั้น 1 ข้างห้อง Patrol RM,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-001No.1,thailand,plant3
+อาคาร Cooling Tower ชั้น 1 ข้างบันได,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-002No.1,thailand,plant3
+อาคาร Cooling Tower ชั้น 1 หน้า Sand tank,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-003No.1,thailand,plant3
+อาคาร Cooling Tower ชั้น 2 ข้าง พัดลม,th,Active,2019,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2014,PLANT3-WR3-D1-1-004No.1,thailand,plant3
+อาคารโรงกรองน้ำ ชั้น 1 ข้าง ถังปรับสภาพน้ำ,th,Active,2027,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2022,PLANT3-WR3-D1-1-005No.1,thailand,plant3
+อาคารโรงกรองน้ำ ชั้น 1 ข้าง Water pump,th,Active,2027,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2022,PLANT3-WR3-D1-1-006No.1,thailand,plant3
+อาคารโรงกรองน้ำชั้น 1 ในห้อง Comp.,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-007No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2019,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2014,PLANT3-WR3-D1-1-008No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-009No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-010No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-011No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-012No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-013No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-014No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-015No.1,thailand,plant3
+อาคาร TG ชั้น 1 ภายในอาคาร TG,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-016No.1,thailand,plant3
+อาคาร TG ชั้น 1 ข้างห้อง Sub,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-017No.1,thailand,plant3
+อาคาร TG ชั้น 1 ข้างห้อง Generator,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-018No.1,thailand,plant3
+อาคาร TG ชั้น 2 Hot oil tank,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-019No.1,thailand,plant3
+อาคาร TG ชั้น 2 Hot oil tank,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-020No.1,thailand,plant3
+อาคาร TG ชั้น 2 Hot oil tank,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-021No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-022No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-023No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-024No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-025No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-026No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-027No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-028No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-029No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-030No.1,thailand,plant3
+อาคาร TG ชั้น 3 ข้าง Turbine,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-031No.1,thailand,plant3
+อาคาร TG ชั้น 4 ข้าง De-aerator,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-032No.1,thailand,plant3
+อาคาร TG ชั้น 4 ข้าง De-aerator,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-033No.1,thailand,plant3
+อาคาร TG ชั้น 4 ข้าง De-aerator,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-034No.1,thailand,plant3
+อาคาร AQC.5 ชั้น 3 ข้าง Drag chain,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-035No.1,thailand,plant3
+อาคาร AQC.5 ชั้น 2 ข้าง Drag chain,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-036No.1,thailand,plant3
+อาคาร AQC.6 ชั้น 2 ข้าง Drag chain,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-037No.1,thailand,plant3
+อาคาร AQC.6 ชั้น 2 ข้าง Drag chain,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-038No.1,thailand,plant3
+อาคาร SP 5 ชั้น 2 ข้าง Drag chain,th,Active,2015,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,2010,PLANT3-WR3-D1-1-039No.1,thailand,plant3
+อาคาร TG ชั้น 3 ในห้อง LCR,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-040No.1,thailand,plant3
+อาคาร TG ชั้น 3 ในห้อง LCR,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-041No.1,thailand,plant3
+อาคาร TG ชั้น 3 หน้าห้อง LCR,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-042No.1,thailand,plant3
+อาคาร TG ชั้น 3 หน้าห้อง LCR,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-043No.1,thailand,plant3
+อาคาร TG ชั้น 1 หน้าห้อง Substation,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-044No.1,thailand,plant3
+อาคาร TG ชั้น 1 หน้าห้อง Substation,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-045No.1,thailand,plant3
+อาคาร TG ชั้น 1 หน้าห้อง Substation,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-046No.1,thailand,plant3
+อาคาร TG ชั้น 2 หน้าห้อง Substation,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-047No.1,thailand,plant3
+อาคาร TG ชั้น 2 หน้าห้อง Substation,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-048No.1,thailand,plant3
+อาคาร TG ชั้น 2 หน้าห้อง Substation,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-049No.1,thailand,plant3
+อาคาร CWT หน้าห้อง Substation CWT,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-050No.1,thailand,plant3
+อาคาร SP5 ชั้น 2 หน้าห้อง Substation SP5,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-051No.1,thailand,plant3
+อาคาร AQC5 ชั้น 2 หน้าห้อง Substation AQC5,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-052No.1,thailand,plant3
+อาคาร SP6 ชั้น 2 หน้าห้อง Substation SP6,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-053No.1,thailand,plant3
+อาคาร AQC6 ชั้น 2 หน้าห้อง Substation AQC6,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-054No.1,thailand,plant3
+อาคาร TG ชั้น 1 หน้าห้อง Substation Switch Gear,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-055No.1,thailand,plant3
+อาคาร TG ชั้น 1 หน้าห้อง Substation หม้อแปลงไฟ,th,Active,n-a,หน่วยงานผลิตกระแสไฟฟ้า,WHR(N),extinguisher,Dry Chemical,หน่วยงานผลิตกระแสไฟฟ้า,ไม่พบข้อมูลปีที่ผลิต,PLANT3-WR3-C2-1-056No.1,thailand,plant3
+,th,Active,,,,hydrant,Rental Car,,,SUPPORT-1นจ1765,thailand,support
+,th,Active,,,,hydrant,Rental Car,,,SUPPORT-3ขน3757,thailand,support
+,th,Active,,,,hydrant,Rental Car,,,SUPPORT-3ขน3767,thailand,support
+,th,Active,,,,hydrant,Rental Car,,,SUPPORT-3ฒศ4403,thailand,support
+,th,Active,,,,hydrant,Rental Car,,,SUPPORT-4ขต1057,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1นค9154,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒร6531,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1นจ1746,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1นจ1745,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1นจ1744,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1นจ1743,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว494,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7916,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7913,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7905,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7903,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7902,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7901,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7880,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4ขค7875,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360277,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360260,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360188,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360186,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360174,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360085,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360072,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360071,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-360052,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-นข5961,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305809,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305789,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305788,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305787,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305786,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305785,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305784,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305783,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305782,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-305781,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1ฒข629,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4กน3243,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ถษ1051,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บบ5084,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บษ7264,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร3986,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล7004,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒอ7915,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กว9942,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว7707,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห8078,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บม4603,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บม6573,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บธ3641,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บย1752,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บย473,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-2ฒฉ1095,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล96,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บค4614,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บท3186,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-7กก8057,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บธ9517,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร9868,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บม555,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ณจ4158,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บจ7751,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร62,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บต5668,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1ฒฌ3576,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1ฒฎ1765,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ฒฉ4014,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล7255,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร5321,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร9496,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บท9907,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กจ4407,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บบ4179,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บพ2467,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ฒพ3641,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร6154,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-1ฒย4998,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ณพ6023,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บย6001,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-2ฒฌ6819,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒห1294,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒภ2333,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว6802,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บพ8928,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล7433,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร1081,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว4510,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บม999,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บม715,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว1350,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว4667,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บษ8335,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-2ฒส8337,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว6421,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กว229,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กว1152,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล3493,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-4กด3914,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บบ2448,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กฉ5463,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กธ9593,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กพ5836,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-2ฒณ2503,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-2ฒง6700,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล8389,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒฐ6841,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒณ5926,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บพ5391,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ผจ1629,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ขก283,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ผก7704,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ขย2657,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ฒษ7185,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บล6518,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒส5236,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห6850,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห6798,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บต9972,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กง182,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒพ6503,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห7740,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒภ8639,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ผท7425,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒษ895,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บธ8830,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-นข7620,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ตษ8579,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒย7521,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร1367,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บว9645,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บพ6274,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บจ4194,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บพ95,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บธ5285,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บย1496,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บน2065,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ถฬ8503,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บษ3092,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-3ฒษ8579,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห6433,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บจ8448,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-นข5354,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กธ7562,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห2744,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บร497สบ,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ยน694,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-ชถ232กท,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กม1008,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-บห-9637สบ,thailand,support
+,th,Active,,,,hydrant,Contractor Car,,,SUPPORT-กย-1028พล,thailand,support
+,th,Active,,,,car,Rental Car,,,1นจ1765,thailand,support
+,th,Active,,,,car,Rental Car,,,3ขน3757,thailand,support
+,th,Active,,,,car,Rental Car,,,3ขน3767,thailand,support
+,th,Active,,,,car,Rental Car,,,3ฒศ4403,thailand,support
+,th,Active,,,,car,Rental Car,,,4ขต1057,thailand,support
+,th,Active,,,,car,Contractor Car,,,1นค9154,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒร6531,thailand,support
+,th,Active,,,,car,Contractor Car,,,1นจ1746,thailand,support
+,th,Active,,,,car,Contractor Car,,,1นจ1745,thailand,support
+,th,Active,,,,car,Contractor Car,,,1นจ1744,thailand,support
+,th,Active,,,,car,Contractor Car,,,1นจ1743,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว494,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7916,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7913,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7905,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7903,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7902,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7901,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7880,thailand,support
+,th,Active,,,,car,Contractor Car,,,4ขค7875,thailand,support
+,th,Active,,,,car,Contractor Car,,,360277,thailand,support
+,th,Active,,,,car,Contractor Car,,,360260,thailand,support
+,th,Active,,,,car,Contractor Car,,,360188,thailand,support
+,th,Active,,,,car,Contractor Car,,,360186,thailand,support
+,th,Active,,,,car,Contractor Car,,,360174,thailand,support
+,th,Active,,,,car,Contractor Car,,,360085,thailand,support
+,th,Active,,,,car,Contractor Car,,,360072,thailand,support
+,th,Active,,,,car,Contractor Car,,,360071,thailand,support
+,th,Active,,,,car,Contractor Car,,,360052,thailand,support
+,th,Active,,,,car,Contractor Car,,,นข5961,thailand,support
+,th,Active,,,,car,Contractor Car,,,305809,thailand,support
+,th,Active,,,,car,Contractor Car,,,305789,thailand,support
+,th,Active,,,,car,Contractor Car,,,305788,thailand,support
+,th,Active,,,,car,Contractor Car,,,305787,thailand,support
+,th,Active,,,,car,Contractor Car,,,305786,thailand,support
+,th,Active,,,,car,Contractor Car,,,305785,thailand,support
+,th,Active,,,,car,Contractor Car,,,305784,thailand,support
+,th,Active,,,,car,Contractor Car,,,305783,thailand,support
+,th,Active,,,,car,Contractor Car,,,305782,thailand,support
+,th,Active,,,,car,Contractor Car,,,305781,thailand,support
+,th,Active,,,,car,Contractor Car,,,1ฒข629,thailand,support
+,th,Active,,,,car,Contractor Car,,,4กน3243,thailand,support
+,th,Active,,,,car,Contractor Car,,,ถษ1051,thailand,support
+,th,Active,,,,car,Contractor Car,,,บบ5084,thailand,support
+,th,Active,,,,car,Contractor Car,,,บษ7264,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร3986,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล7004,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒอ7915,thailand,support
+,th,Active,,,,car,Contractor Car,,,กว9942,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว7707,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห8078,thailand,support
+,th,Active,,,,car,Contractor Car,,,บม4603,thailand,support
+,th,Active,,,,car,Contractor Car,,,บม6573,thailand,support
+,th,Active,,,,car,Contractor Car,,,บธ3641,thailand,support
+,th,Active,,,,car,Contractor Car,,,บย1752,thailand,support
+,th,Active,,,,car,Contractor Car,,,บย473,thailand,support
+,th,Active,,,,car,Contractor Car,,,2ฒฉ1095,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล96,thailand,support
+,th,Active,,,,car,Contractor Car,,,บค4614,thailand,support
+,th,Active,,,,car,Contractor Car,,,บท3186,thailand,support
+,th,Active,,,,car,Contractor Car,,,7กก8057,thailand,support
+,th,Active,,,,car,Contractor Car,,,บธ9517,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร9868,thailand,support
+,th,Active,,,,car,Contractor Car,,,บม555,thailand,support
+,th,Active,,,,car,Contractor Car,,,ณจ4158,thailand,support
+,th,Active,,,,car,Contractor Car,,,บจ7751,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร62,thailand,support
+,th,Active,,,,car,Contractor Car,,,บต5668,thailand,support
+,th,Active,,,,car,Contractor Car,,,1ฒฌ3576,thailand,support
+,th,Active,,,,car,Contractor Car,,,1ฒฎ1765,thailand,support
+,th,Active,,,,car,Contractor Car,,,ฒฉ4014,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล7255,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร5321,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร9496,thailand,support
+,th,Active,,,,car,Contractor Car,,,บท9907,thailand,support
+,th,Active,,,,car,Contractor Car,,,กจ4407,thailand,support
+,th,Active,,,,car,Contractor Car,,,บบ4179,thailand,support
+,th,Active,,,,car,Contractor Car,,,บพ2467,thailand,support
+,th,Active,,,,car,Contractor Car,,,ฒพ3641,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร6154,thailand,support
+,th,Active,,,,car,Contractor Car,,,1ฒย4998,thailand,support
+,th,Active,,,,car,Contractor Car,,,ณพ6023,thailand,support
+,th,Active,,,,car,Contractor Car,,,บย6001,thailand,support
+,th,Active,,,,car,Contractor Car,,,2ฒฌ6819,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒห1294,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒภ2333,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว6802,thailand,support
+,th,Active,,,,car,Contractor Car,,,บพ8928,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล7433,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร1081,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว4510,thailand,support
+,th,Active,,,,car,Contractor Car,,,บม999,thailand,support
+,th,Active,,,,car,Contractor Car,,,บม715,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว1350,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว4667,thailand,support
+,th,Active,,,,car,Contractor Car,,,บษ8335,thailand,support
+,th,Active,,,,car,Contractor Car,,,2ฒส8337,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว6421,thailand,support
+,th,Active,,,,car,Contractor Car,,,กว229,thailand,support
+,th,Active,,,,car,Contractor Car,,,กว1152,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล3493,thailand,support
+,th,Active,,,,car,Contractor Car,,,4กด3914,thailand,support
+,th,Active,,,,car,Contractor Car,,,บบ2448,thailand,support
+,th,Active,,,,car,Contractor Car,,,กฉ5463,thailand,support
+,th,Active,,,,car,Contractor Car,,,กธ9593,thailand,support
+,th,Active,,,,car,Contractor Car,,,กพ5836,thailand,support
+,th,Active,,,,car,Contractor Car,,,2ฒณ2503,thailand,support
+,th,Active,,,,car,Contractor Car,,,2ฒง6700,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล8389,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒฐ6841,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒณ5926,thailand,support
+,th,Active,,,,car,Contractor Car,,,บพ5391,thailand,support
+,th,Active,,,,car,Contractor Car,,,ผจ1629,thailand,support
+,th,Active,,,,car,Contractor Car,,,ขก283,thailand,support
+,th,Active,,,,car,Contractor Car,,,ผก7704,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ขย2657,thailand,support
+,th,Active,,,,car,Contractor Car,,,ฒษ7185,thailand,support
+,th,Active,,,,car,Contractor Car,,,บล6518,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒส5236,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห6850,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห6798,thailand,support
+,th,Active,,,,car,Contractor Car,,,บต9972,thailand,support
+,th,Active,,,,car,Contractor Car,,,กง182,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒพ6503,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห7740,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒภ8639,thailand,support
+,th,Active,,,,car,Contractor Car,,,ผท7425,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒษ895,thailand,support
+,th,Active,,,,car,Contractor Car,,,บธ8830,thailand,support
+,th,Active,,,,car,Contractor Car,,,นข7620,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ตษ8579,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒย7521,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร1367,thailand,support
+,th,Active,,,,car,Contractor Car,,,บว9645,thailand,support
+,th,Active,,,,car,Contractor Car,,,บพ6274,thailand,support
+,th,Active,,,,car,Contractor Car,,,บจ4194,thailand,support
+,th,Active,,,,car,Contractor Car,,,บพ95,thailand,support
+,th,Active,,,,car,Contractor Car,,,บธ5285,thailand,support
+,th,Active,,,,car,Contractor Car,,,บย1496,thailand,support
+,th,Active,,,,car,Contractor Car,,,บน2065,thailand,support
+,th,Active,,,,car,Contractor Car,,,ถฬ8503,thailand,support
+,th,Active,,,,car,Contractor Car,,,บษ3092,thailand,support
+,th,Active,,,,car,Contractor Car,,,3ฒษ8579,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห6433,thailand,support
+,th,Active,,,,car,Contractor Car,,,บจ8448,thailand,support
+,th,Active,,,,car,Contractor Car,,,นข5354,thailand,support
+,th,Active,,,,car,Contractor Car,,,กธ7562,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห2744,thailand,support
+,th,Active,,,,car,Contractor Car,,,บร497สบ,thailand,support
+,th,Active,,,,car,Contractor Car,,,ยน694,thailand,support
+,th,Active,,,,car,Contractor Car,,,ชถ232กท,thailand,support
+,th,Active,,,,car,Contractor Car,,,กม1008,thailand,support
+,th,Active,,,,car,Contractor Car,,,บห-9637สบ,thailand,support
+,th,Active,,,,car,Contractor Car,,,กย-1028พล,thailand,support

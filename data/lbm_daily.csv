@@ -1,0 +1,158 @@
+﻿site,type,country,bu,id,holder,kind,area,company,details,ownerID,status,email,remark,department
+mortar,motorbike,thailand,th,1กข9243สบ,คุณเบ็ญจะ อุดมพงษ์,รถมอเตอร์ไซต์,Mortar Plant,SCCC,Honda,,Active,,MLHJA2126D5076326,
+mortar,forklift,thailand,th,MORTAR-No.6,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 6 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.5,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 5 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.4,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 4 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.8,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 8 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-L3.5GAS,Mortar Plant,-,โรงงานมอร์ตาร์,,TOYOTA 30 รถแก๊ส L3.5 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.1,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 1 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.2,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 2 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.3,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 3 3 ตัน,,Active,,,-
+mortar,forklift,thailand,th,MORTAR-No.7,Mortar Plant,Battery Lithium,โรงงานมอร์ตาร์,,EP30 เบอร์ 7 3 ตัน,,Active,,,-
+isubs,truck,thailand,th,ISUBS-No.71-8212Isuzu,,รถเป่าเศษบล๊อกบด,ของ บ.P&K Limeใช้งาน,ISUB-Singburi,Isuzu FXZ 240 HF 240 10Ton,,Active,,71-8212 สระบุรี,
+isubs,truck,thailand,th,ISUBS-No.80-7987,,รถบรรทุก 10 ล้อ,คลังสินค้า,ISUB-Singburi,"MITSUBISHI FN527M, TD4432 190 -",,Active,,ทะเบียน 80-7987 อ่างทอง,
+isubs,truck,thailand,th,ISUBS-No.81-0055,,รถบรรทุก 10 ล้อ,คลังสินค้า,ISUB-Singburi,"MITSUBISHI FN527M, A27811 190 -",,Active,,ทะเบียน 81-0055 อ่างทอง,
+isubs,truck,thailand,th,ISUBS-No.81-2126,,รถบรรทุก 10 ล้อ,คลังสินค้า,ISUB-Singburi,"MITSUBISHI FN527M, TD5614 190 -",,Active,,ทะเบียน 81-2126 อ่างทอง,
+mortar,frontend,thailand,th,MORTAR-No.2-CPE-No30,,รถตักล้อยาง,โรงงานมอร์ตาร์,,"SANNY956, 220แรงม้า",,Active,,,เตรียมวัตถุดิบ
+mortar,frontend,thailand,th,MORTAR-No.4-CPE-No37,,รถตักล้อยาง,โรงงานมอร์ตาร์,,"DOOSAN, DL550, 379 แรงม้า",,Active,,,เตรียมวัตถุดิบ
+mortar,frontend,thailand,th,MORTAR-No.1-CPE-No26,,รถตักล้อยาง,โรงงานมอร์ตาร์,,"DOOSAN, DL420A, 281แรงม้า",,Active,,,เตรียมวัตถุดิบ
+mortar,frontend,thailand,th,MORTAR-No.3-CPE-No36,,รถตักล้อยาง,โรงงานมอร์ตาร์,,"DOOSAN, DL550, 379 แรงม้า",,Active,,,เตรียมวัตถุดิบ
+isubs,car,thailand,th,4ขบ8757,,Rental Car,,ISUB,"Job car, TOYOTA, REVO D CAB PRERUNNER 2.4E 2W AT W/R, ขาว",15600071,Active,,,
+isubs,car,thailand,th,2ขช4641,,Rental Car,,SCCC,"Position car, TOYOTA Fortuner 2.4V(2WD)  A/T",15600067,Active,,,
+isubs,car,thailand,th,2ขน3400,,Rental Car,,ISUB,"Job car, Toyota VIOS 1.5 Mid A/T",16100133,Active,,,
+isubs,car,thailand,th,2ขษ5017,,Rental Car,,ISUB,"Job car, TOYOTA REVO D CAB PRERUNNER 2.4E 2W AT W/R",16400160,Active,,,
+isubs,car,thailand,th,2ขษ5023,,Rental Car,,SCCC,"Job car, TOYOTA REVO D CAB PRERUNNER 2.4E 2W AT W/R",16200010,Active,,,
+isubs,car,thailand,th,2ขษ6620,,Rental Car,,SCCC,"Job car, TOYOTA REVO D CAB PRERUNNER 2.4E 2W AT W/R",15900598,Active,,,
+isubs,car,thailand,th,3ขศ6130,,Rental Car,,SCCC,"Job car, TOYOTA REVO Double  Cab 2WD 2.4 MID AT RG3",15600066,Active,,,
+isubs,car,thailand,th,3ฒฎ1656,,Rental Car,,ISUB,"Job car, TOYOTA REVO SMART CAB PRERUNNER 2.4E 2W MT",16200043,Active,,,
+isubs,car,thailand,th,4ขฌ6660,,Rental Car,,ISUB,"Job car, TOYOTA REVO Double  Cab 2WD 2.4 MID AT RG3",16100055,Active,,,
+isubs,car,thailand,th,4ขท8770,,Rental Car,,ISUB,"Job car, TOYOTA REVO D CAB PRERUNNER 2.4E 2W AT W/R",16700114,Active,,,
+isubs,car,thailand,th,4ฒก9295,,Rental Car,,ISUB,"Job car, TOYOTA RevoSmartCab ZEdition 2.4 MID ATG3Roof",16200317,InActive,,,
+isubs,car,thailand,th,3ฒส4480,,Rental Car,,ISUB,"Operational car, Toyota, Hilux Revo Improvemen",15600087,Active,,,
+isubs,car,thailand,th,2ขน3317,,Rental Car,,ISUB,"Job car, Toyota VIOS  1.5 MID  A/T",16800033,Active,,,
+cwt,crane,thailand,th,CWT-WH-001,,เครนขนาด3ตัน,,,,,,,,
+cwt,crane,thailand,th,CWT-MT-002,,เครนขนาด3ตัน,,,,,,,,
+cwt,crane,thailand,th,CWT-LM-003,,เครนขนาด5ตัน,,,,,,,,
+cwt,crane,thailand,th,CWT-LM-004,,เครนขนาด5ตัน,,,,,,,,
+cwt,crane,thailand,th,CWT-LM-005,,เครนขนาด1ตัน,,,,,,,,
+mortar,car,thailand,th,9กจ3402,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16600056,Active,,,
+mortar,car,thailand,th,6ขด8382,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16500239,Active,,,
+mortar,car,thailand,th,3ขถ2411,,Rental Car,,SCCC,"Position car, TOYOTA Fortuner 2.4V(2WD)  A/T",15000056,Active,,,
+mortar,car,thailand,th,9กจ3402,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16600056,Active,,,
+mortar,car,thailand,th,3ขฎ2311,,Rental Car,,SCCC,"Job car, TOYOTA VIOS 1.5 MID A/T",16500239,Active,,,
+mortar,car,thailand,th,4ขฐ9660,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16100007,Active,,,
+mortar,car,thailand,th,6ขด8382,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16500239,Active,,,
+mortar,car,thailand,th,2ขศ9578,,Rental Car,,SCCC,"Position car, TOYOTA Camry 2.5 Sport AT",16100230,Active,,,
+mortar,car,thailand,th,3ฒว6967,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16100139,Active,,,
+mortar,car,thailand,th,1ขฌ2568,,Rental Car,,SCCC,"Job car, TOYOTA REVO D CAB PRERUNNER 2.4E 2W AT W/R",16700193,Active,,,
+mortar,car,thailand,th,2ขฎ3817,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16800067,Active,,,
+mortar,car,thailand,th,2ขฒ8570,,Rental Car,,SCCC,"Job car, TOYOTA VIOS 1.5 MID A/T",15600254,Active,,,
+mortar,car,thailand,th,2ขน3310,,Rental Car,,SCCC,"Job car, TOYOTA VIOS 1.5 MID A/T",15600284,Active,,,
+mortar,car,thailand,th,3ฒณ2731,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16500086,Active,,,
+mortar,car,thailand,th,3ฒภ7124,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16500092,Active,,,
+mortar,car,thailand,th,4ขง4633,,Rental Car,,SCCC,"Job car, Toyota REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16100012,Active,,,
+mortar,car,thailand,th,4ขฐ9701,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16400224,Active,,,
+mortar,car,thailand,th,3ขช3055,,Rental Car,,SCCC,"Position car, TOYOTA Camry 2.0 AT",14500030,Active,,,
+mortar,car,thailand,th,3ขฎ2317,,Rental Car,,SCCC,"Position car, TOYOTA Camry 2.0 AT",14900001,Active,,,
+mortar,car,thailand,th,3ขน6414,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16500234,Active,,,
+mortar,car,thailand,th,1ขฌ2641,,Rental Car,,SCCC,"Job car, Toyota REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16100007,Active,,,
+mortar,car,thailand,th,2ขฎ3797,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",14000056,Active,,,
+mortar,car,thailand,th,2ขฒ8574,,Rental Car,,SCCC,"Job car, TOYOTA VIOS 1.5 MID A/T",-,Active,,,
+mortar,car,thailand,th,3ขน3748,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16100222,Active,,,
+mortar,car,thailand,th,3ฒฒ5275,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16000061,Active,,,
+mortar,car,thailand,th,3ฒบ1645,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16400099,Active,,,
+mortar,car,thailand,th,4ขท2260,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16600051,Active,,,
+mortar,car,thailand,th,6ขด8377,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",15900081,Active,,,
+mortar,car,thailand,th,3ขท3776,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16500270,Active,,,
+mortar,car,thailand,th,3ขน3768,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16500041,Active,,,
+mortar,car,thailand,th,3ฒฒ5219,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",15700241,Active,,,
+mortar,car,thailand,th,3ฒบ1644,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16600009,Active,,,
+mortar,car,thailand,th,3ฒบ8274,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16600010,Active,,,
+mortar,car,thailand,th,6ขด8387,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",15700196,Active,,,
+mortar,car,thailand,th,6ขด8374,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16200104,Active,,,
+mortar,car,thailand,th,4ขถ2902,,Rental Car,,SCCC,"Job car, TOYOTA REVO DoubleC 4WD 2.4MT NoR(MNChange)Tire",14000145,Active,,,
+mortar,car,thailand,th,3ขท3766,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16200053,Active,,,
+mortar,car,thailand,th,3ฒฒ5272,,Rental Car,,SCCC,"Job car, Toyota VIGO 2.5 G  M/T Cab  G3",16000085,Active,,,
+mortar,car,thailand,th,9กจ7283,,Rental Car,,SCCC,"Job car, TOYOTA REVO  Double  Cab 2WD 2.4 MID A/T PRERUNNER  (With  Roof)",16400040,Active,,,
+isubs,car,thailand,th,6ขถ4810,,Rental Car,,ISUB,"Job car, Toyota All New Yaris ATIV - Sport AT",16800064,Active,,,
+cwt,forklift,thailand,th,CWT-No.16,Spare,น้ำมัน รถเช่า 3T,Spare เบอร์ 9,,"HELI CPCD30-LC30-M400 3,000Kg",,Active,SUNTHORN.BUNTAB@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.1,Store,ไฟฟ้า รถเช่า 3T,Store(Raw mat.),,"HELI CPD30-GB6LIS-ZSM 470B  3,000kg.",,Active,pichit.Choosiri@siamcitycement.com,,
+cwt,forklift,thailand,th,CWT-No.2,Lamination,ไฟฟ้า รถเช่า 3T,Fiber plant(paper),,"HELI CPD30-GB6LIS-ZSM 470B 15/21Kw 3,000kg.",,Active,theetawat.wongwattananurak@siamcitycement.com,,
+cwt,forklift,thailand,th,CWT-No.3,Lamination,ไฟฟ้า รถเช่า 3T,Final mix,,"HELI CPD30-GB6LIS-ZSM 470  3,000kg.",,Active,theetawat.wongwattananurak@siamcitycement.com,,
+cwt,forklift,thailand,th,CWT-No.4,Lamination,ไฟฟ้า รถเช่า 5T,Dryer(Load in),,"HELI CPD50-G2A11LI-M400S  5,000kg.",,Active,PRAMOTE.MOUNNUG@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.5,Finishing Goods,ไฟฟ้า รถเช่า 5T,Dryer(Load out),,"HELI CPD50-G2A11LI-M400S  5,000kg.",,Active,PHOOBET.SRIPASERT@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.6,Finishing Goods,ไฟฟ้า รถเช่า 3T,Finishing Cutting,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,PHOOBET.SRIPASERT@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.7,Finishing Goods,ไฟฟ้า รถเช่า 3T,Finishing Packing,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,THANAKORN.KORKITRATTANAKUL@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.8,Finishing Goods,ไฟฟ้า รถเช่า 3T,Finishing Packing,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,THANAKORN.KORKITRATTANAKUL@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.9,Finishing Goods,ไฟฟ้า รถเช่า 3T,Finishing Packing,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,CHAYATORN.HASSA@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.10,Finishing Goods,ไฟฟ้า รถเช่า 3T,Finishing Packing,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,CHAYATORN.HASSA@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.11,Warehouse,ไฟฟ้า รถเช่า 3T,Warehouse,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,itsarawuth.kongsiang@siamcitycement.com,,
+cwt,forklift,thailand,th,CWT-No.12,Warehouse,ไฟฟ้า รถเช่า 3T,Warehouse,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,itsarawuth.kongsiang@siamcitycement.com,,
+cwt,forklift,thailand,th,CWT-No.13,Warehouse,ไฟฟ้า รถเช่า 3T,Warehouse,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,itsarawuth.kongsiang@siamcitycement.com,,
+cwt,forklift,thailand,th,CWT-No.14,Spare,ไฟฟ้า รถเช่า 3T,Spare,,"HELI CPD30-GB6LIS-M400S  3,000kg.",,Active,PAVARIT.PHASHIRAPONGSAKUL@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.15,Spare,ไฟฟ้า รถเช่า 5T,Spare,,"HELI CPD50-GC70-M400  5,000kg.",,Active,PRAMOTE.MOUNNUG@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.16,Spare,น้ำมัน รถเช่า 3T,Spare เบอร์ 9,,"HELI CPCD30-LC30-M400 3,000Kg",,Active,SUNTHORN.BUNTAB@SIAMCITYCEMENT.COM,,
+cwt,forklift,thailand,th,CWT-No.17,Finishing Goods,รถดูดฝุ่น,Finishing Goods,,Armadillo SW9XKDSL 26.5Kw,,Active,CHAYATORN.HASSA@SIAMCITYCEMENT.COM,,
+isubs,forklift,thailand,th,ISUBS-No.889,บ.ทีแอลเอส กรุ๊ป,-,คลังสินค้า,,Hyundai 35D-7SA 47 3.5Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.020,บ.ทีแอลเอส กรุ๊ป,-,บ.นิรันด์ ใช้งานBlock,,MAXIMAL FD35T-M3 WV3 35.3 KW 3 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.028,ISUB,-,คลังสินค้า ใช้งาน,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.016,บ.ทีแอลเอส กรุ๊ป,-,ทรัพย์นิรันดร์ ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.018,บ.ทีแอลเอส กรุ๊ป,-,NTG ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.020,บ.ทีแอลเอส กรุ๊ป,-,ทรัพย์นิรันดร์ ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.028,บ.ทีแอลเอส กรุ๊ป,-,จัดส่ง ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,จัดส่่ง
+isubs,forklift,thailand,th,ISUBS-No.887,บ.ทีแอลเอส กรุ๊ป,-,บ.ภูผา ใช้งาน,,Hyundai  47 3Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.025,บ.ทีแอลเอส กรุ๊ป,-,บ.นิรันด์ ใช้งานBlock,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.015,บ.ทีแอลเอส กรุ๊ป,-,บ.NTG ใช้งานPanel,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.017,บ.ทีแอลเอส กรุ๊ป,-,บ.นิรันด์ ใช้งานPanel,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.024,บ.ทีแอลเอส กรุ๊ป,-,บ.NTG ใช้งานPanel,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.017,บจก.ทีแอลเอส กรุ๊ป,-,ทรัพย์นิรันดร์ ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.021,บ.ทีแอลเอส กรุ๊ป,-,ทรัพย์นิรันดร์ ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.680,บ.ทีแอลเอส กรุ๊ป,-,คลังสินค้า,,Hyundai 30D-7SA 47 3Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.018,บ.ทีแอลเอส กรุ๊ป,-,บ.นิรันด์ ใช้งานPanel,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.015,บ.ทีแอลเอส กรุ๊ป,-,NTG ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.022,บ.ทีแอลเอส กรุ๊ป,-,ทรัพย์นิรันดร์ ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.025,บ.ทีแอลเอส กรุ๊ป,-,ทรัพย์นิรันดร์ ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.890,บ.ทีแอลเอส กรุ๊ป,-,บ.ภูผา ใช้งาน,,Hyundai  47 3.5Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.891,บ.ทีแอลเอส กรุ๊ป,-,บ.ภูผา ใช้งาน,,Hyundai  47 3.5Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.892,บ.ทีแอลเอส กรุ๊ป,-,บ.ภูผา ใช้งาน,,Hyundai 30D -7 SA 35.5 3Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.022,บ.ทีแอลเอส กรุ๊ป,-,ISUB-ผลิต,,MAXIMAL FD35T-M3 WV3 94 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.016,บ.ทีแอลเอส กรุ๊ป,-,บ.ทรัพย์นิรันดร์ ใช้งานBlock,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.027,ISUB,-,คลังสินค้า ใช้งาน,,MAXIMAL FD35T-M3 WV3 35.3 KW 3.5 Ton,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.024,บ.ทีแอลเอส กรุ๊ป,-,NTG ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,ผลิต
+isubs,forklift,thailand,th,ISUBS-No.027,บ.ทีแอลเอส กรุ๊ป,-,จัดส่ง ใช้งาน,,Maximal รุ่น FD35T-M3 WV3,,Active,,,จัดส่ง
+isubs,frontend,thailand,th,ISUBS-No.1(SHANTUI),,รถตักล้อยางP&K Limeใช้งาน,ISUB-Singburi,,CTX 939,,Active,,, บ.P&K Limeใช้งาน
+isubs,frontend,thailand,th,ISUBS-No.3(SHANTUI),,รถตักล้อยางผลิต ใช้งาน,ISUB-Singburi,,CTX 939,,Active,,,ผลิต ใช้งาน (รถเช่า)
+isubr,frontend,thailand,th,ISUBR-QW28SHANTUI,,-,ISUB ราชบุรี,,"SHANTUI, L36-B5, 92แรงม้า ขนาด 3 ตัน",,Active,,-,"ผลิต,อัญชนา(ใช้งาน)"
+isubr,forklift,thailand,th,ISUBR-No.893,บ.ทีแอลเอส กรุ๊ป,-,รถสำรอง,,Hyundai 30D -7 SA 35.5 3Ton,,Inactive,,สำรอง,ผลิต
+isubr,forklift,thailand,th,ISUBR-No.023,บ.ทีแอลเอส กรุ๊ป,-,คลังสินค้า,,MAXIMAL FD30T-M3WV3  3 Ton,,Active,,,ผลิต
+isubr,forklift,thailand,th,ISUBR-No.895,บ.ทีแอลเอส กรุ๊ป,-,"ผลิต, บ.IQ Pro ใช้งาน",,Hyundai 30D-7SA 47 3.5Ton,,Active,,,ผลิต
+isubr,forklift,thailand,th,ISUBR-No.026,บ.ทีแอลเอส กรุ๊ป,-,"ผลิต, บ.IQ Pro ใช้งาน",,MAXIMAL FD35T-M3WV3  3.5Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubr,forklift,thailand,th,ISUBR-No.894,บ.ทีแอลเอส กรุ๊ป,-,"ผลิต, บ.IQ Pro ใช้งาน",,Hyundai 35D -7 SD 35.5 3.5Ton,,Inactive,,ยกเลิกใช้งาน,ผลิต
+isubr,forklift,thailand,th,ISUBR-No.882,บ.ทีแอลเอส กรุ๊ป,-,"ผลิต, บ.IQ Pro ใช้งาน",,Hyundai 35D -7 SD 35.5 3.5Ton,,Inactive,,,ผลิต
+cwt,car,thailand,th,2ขฒ4316,,Rental Car,,CONWOOD,"Job car, Toyota Toyota VIOS 1.5E A/T",15700063,Active,,,
+cwt,car,thailand,th,3ขย6583,,Rental Car,,CONWOOD,"Job car, Toyota Toyota VIOS 1.5 Mid A/T",15800141,Active,,,
+cwt,car,thailand,th,4ขท8774,,Rental Car,,CONWOOD,"Job car, Toyota REVO Double  Cab 2WD 2.4 MID AT RG3",15400048,Active,,,
+cwt,car,thailand,th,1ขบ2054,,Rental Car,,CONWOOD,"Job car, Toyota Toyota VIOS 1.5E A/T",15600072,Active,,,
+cwt,car,thailand,th,2ขฒ7584,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Camry 2.0 AT",14500021,Active,,,
+cwt,car,thailand,th,3ขท3784,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Hilux Revo Duuble Cab 2.4 Mid",15800378,Active,,,
+cwt,car,thailand,th,3ขท3792,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Hilux Revo Duuble Cab 2.4 Mid",16000080,Active,,,
+cwt,car,thailand,th,4ขถ3281,,Rental Car,,CONWOOD,"Operational car, Toyota Toyota Hilux Revo Duuble Cab 2.4 Mid",15700159,Active,,,
+cwt,car,thailand,th,4ขท8803,,Rental Car,,CONWOOD,"Job car, Toyota Toyota REVO D-CAB 2.4E 2W A/T w/R G3",16300046,Active,,,
+cwt,car,thailand,th,6ขฌ9940,,Rental Car,,CONWOOD,"Job car, Toyota REVO Double  Cab 2WD 2.4 MID AT RG3",16800078,Active,,,
+cwt,car,thailand,th,6ขฌ9941,,Rental Car,,CONWOOD,"Job car, Toyota, REVO Double  Cab 2WD 2.4 MID AT RG3",16500196,Active,,,
+cwt,car,thailand,th,1ขบ2045,,Rental Car,,CONWOOD,"Job car, Toyota Toyota VIOS 1.5E A/T",15500020,Active,,,
+cwt,car,thailand,th,1ขบ2050,,Rental Car,,CONWOOD,"Job car, Toyota Toyota VIOS 1.5E A/T",16500306,Active,,,
+cwt,car,thailand,th,2ขฐ643,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Camry 2.0 AT",15000028,Active,,,
+cwt,car,thailand,th,3ขถ8649,,Rental Car,,CONWOOD,"Job car, Toyota Revo Duuble Cab 2.4 Mid",16800117,Active,,,
+cwt,car,thailand,th,3ขท3807,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Hilux Revo Duuble Cab 2.4 Mid",15900568,Active,,,
+cwt,car,thailand,th,4ขฆ2752,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Yaris Ativ",16800008,Active,,,
+cwt,car,thailand,th,4ขท8807,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Hilux Revo Duuble Cab 2.4 Mid",16600097,Active,,,
+cwt,car,thailand,th,4ขย7135,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Yaris Ativ",16500232,Active,,,
+cwt,car,thailand,th,5ขว3548,,Rental Car,,CONWOOD,"Job car, Toyota Toyota Hilux Revo Duuble Cab Z Edition 2.4 Mid",16000099,Active,,,
+cwt,car,thailand,th,6ขฌ9971,,Rental Car,,CONWOOD,"Job car, Toyota REVO Double  Cab 2WD 2.4 MID AT RG3",15300050,Active,,,
+cwt,car,thailand,th,6ขฌ9952,,Rental Car,,CONWOOD,"Job car, Toyota REVO Double  Cab 2WD 2.4 MID AT RG4",16200122,Active,,,
+cwt,car,thailand,th,6ขฌ9960,,Rental Car,,CONWOOD,"Job car, Toyota, REVO Double  Cab 2WD 2.4 MID AT RG3",15600403,Active,,,
+cwt,car,thailand,th,6ขช5087,,Rental Car,,CONWOOD,"Job car, Toyota, All New Yaris Ativ 2022 1.2 Smart A/T",16400233,Active,,,
+cwt,car,thailand,th,1ขบ2051,,Rental Car,,CONWOOD,"Job car, Toyota Toyota VIOS 1.5E A/T",16200298,Active,,,
+cwt,car,thailand,th,2ขฎ3808,,Rental Car,,CONWOOD,"Job car, Toyota Toyota REVO D-CAB 2.4E 2W A/T w/R G3",15100043,Active,,,
+cwt,car,thailand,th,2ขฎ3815,,Rental Car,,CONWOOD,"Job car, Toyota Toyota REVO D-CAB 2.4E 2W A/T W/R",16800120,Active,,,

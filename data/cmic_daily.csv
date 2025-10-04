@@ -1,0 +1,240 @@
+﻿site,type,country,bu,id,kind,holder,location,area,detail,engineno,registerdate,capacity
+cmic,excavator,cambodia,cmic,CMIC-Eco1,Volvo,Ecocycle,Eco-Cycle,C&M,"Volvo, EW160C",,,3T
+cmic,excavator,cambodia,cmic,CMIC-Eco2,Volvo,Ecocycle,Eco-Cycle,C&M,"Volvo, EW145B",,,3T
+cmic,crane,cambodia,cmic,CMIC-MC-Main55T,Mobile Crane,Internal Cran,,CMIC,"ZOOMLION, ZLJ5420JQZ55D, 245kw",WP10.336,15/01/2025,55Tons
+cmic,crane,cambodia,cmic,CMIC-MC-Main8T,Mobile Crane,Internal Cran,,CMIC,FUSO,,15/01/2025,8Tons
+cmic,crane,cambodia,cmic,CMIC-MC-Q5T,Mobile Crane,Internal Cran,,CMIC,"FUSO, URV553",E5U0927,15/01/2025,5Tons
+cmic,loader,cambodia,cmic,CMIC-WLEco1,Wheel Loader,Ecocycle,Eco-Cycle,,"Doosan, SD200, 92Kw",WL01,2022-04-30T17:00:00.000Z,1.8 m3
+cmic,loader,cambodia,cmic,CMIC-WLPro4,Wheel Loader,Production,Outdoor Storage,,"Doosan, SD300, 156KW",WL04,2016-09-30T17:00:00.000Z,3.2m3
+cmic,loader,cambodia,cmic,CMIC-WLPro6,Wheel Loader,Production,Outdoor Storage,,"Doosan, SD300, 156KW",WL04,2021-09-30T17:00:00.000Z,3.2m3
+cmic,loader,cambodia,cmic,CMIC-WLEco3,Wheel Loader,Ecocycle,Eco-Cycle,,"Doosan, SD200, 92Kw",WL03,15/06/2022,1.8 m3
+cmic,loader,cambodia,cmic,CMIC-WLQ1,Wheel Loader,Quarry,Quarry,,"CAT, 986H, 305KW (409HP)",WL#1,,5.1 m3
+cmic,loader,cambodia,cmic,CMIC-WLPro2,Wheel Loader,Production,Outdoor Storage,,"Doosan, SD300, 156KW",WL02,2017-09-30T17:00:00.000Z,3.2m3
+cmic,loader,cambodia,cmic,CMIC-WLEco2,Wheel Loader,Ecocycle,Eco-Cycle,,"Doosan, SD200, 92Kw",WL02,2022-04-30T17:00:00.000Z,1.8 m3
+cmic,loader,cambodia,cmic,CMIC-WLPro1,Wheel Loader,Production,Outdoor Storage,,"Doosan, SD300, 156KW",WL01,2017-09-30T17:00:00.000Z,3.2m3
+cmic,loader,cambodia,cmic,CMIC-WLPro3,Wheel Loader,Production,Outdoor Storage,,"Doosan, SD300, 156KW",WL03,2019-09-30T17:00:00.000Z,3.2m3
+cmic,loader,cambodia,cmic,CMIC-WLPro5,Wheel Loader,Production,Outdoor Storage,,"Doosan, SD300, 156KW",WL04,2016-09-30T17:00:00.000Z,3.2m3
+cmic,forklift,cambodia,cmic,CMIC-Pro01,CMIC 3.5T,CMIC,,,TCM FD30T3S,2Y530620,15/01/2025,3.5T
+cmic,forklift,cambodia,cmic,CMIC-DSV-PP01,DSV-PP01 3.5T,DSV-PP01,,,TCM FDM35PT,CH14J-85001,15/01/2025,3.5T
+cmic,forklift,cambodia,cmic,CMIC-Main01,CMIC 3.5T,CMIC,,,TCM FD30T3S,2Y530625,15/01/2025,3.5T
+cmic,forklift,cambodia,cmic,CMIC-DSV01,DSV01 5T,DSV01,,,TCM FD50T9,43H33195,15/01/2025,5T
+cmic,forklift,cambodia,cmic,CMIC-Q01,CAT 3.5T,CAT,,,TCM FD30T3S,N/A,15/01/2025,3.5T
+cmic,forklift,cambodia,cmic,CMIC-DSV02,DSV02 5T,DSV02,,,TCM FD50T9,43H33196,15/01/2025,5T
+cmic,forklift,cambodia,cmic,CMIC-DSV-PP02,DSV-PP02 3.5T,DSV-PP02,,,TCM FDM35PT,CH14J-85002,15/01/2025,3.5T
+cmic,forklift,cambodia,cmic,CMIC-WSPP04,CMIC 3.5T,CMIC,,,TCM FD30T3S,2Y530626,15/01/2025,3.5T
+cmic,forklift,cambodia,cmic,CMIC-PP03,CMIC 5T,CMIC,,,TCM FD50T9,43H31669,15/01/2025,5T
+cmic,dump,cambodia,cmic,CMIC-3E-4264,Dump truck,Internal raw material,,,HYUNDAI,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-PP-2391,Dump truck,Internal raw material,,,HYUNDAI,N/A,19/04/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3F-6507,Dump truck,Internal raw material,,,DEAWO,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3D-9724,Dump truck,Internal raw material,,,SCANA,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3E-8521,Dump truck,Internal raw material,,,HOWO,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3F-5103,Dump truck,Internal raw material,,,HYUNDAI,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3A-2536,Dump truck,Internal raw material,,,HYUNDAI,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3E-8526,Dump truck,Internal raw material,,,HOWO,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3A-2534,Dump truck,Internal raw material,,,HINO,N/A,15/01/2025,N/A
+cmic,dump,cambodia,cmic,CMIC-3G-3248,Dump truck,Internal raw material,,,HYUNDAI,N/A,15/01/2025,N/A
+cmic,vehicle,cambodia,cmic,CMIC-2BD-9335,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BD-6871,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BJ-1371,SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-2154,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BY-6521,SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2B-4492,SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-2184,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BE-0740,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-6019,Mini SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-3E-7381,BUS,,PHN & TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-3A-2093,BUS,,PHN & TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BR-9752,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BP-9426,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BJ-4184,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BK-9220,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5929,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1029,Mini SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1027,Mini SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1023,Mini SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1022,Mini SUV,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-0281,Pick Up,,TMP,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-2164,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1013,Mini SUV,,Ecocycle PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1014,Mini SUV,,Ecocycle PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1015,Mini SUV,,Ecocycle PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BR-2092,Mini SUV,,Ecocycle PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BT-3280,Mini SUV,,Ecocycle PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BP-6077,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-2194,Pick Up,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-6735,Pick Up,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-2174,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BJ-1361,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1028,Mini SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2AI-4424,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BJ-1362,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BH-1050,Mini SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BJ-1379,SUV,,PHN,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1176,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1175,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3029,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3028,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3047,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3045,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3046,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1056,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3025,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1058,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1059,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1061,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1062,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1063,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1044,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1045,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1046,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1048,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1049,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1039,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1040,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1042,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1043,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1036,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1037,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1038,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1031,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1032,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1034,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1035,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1030,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1021,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-3792,Pick Up,,Sales (Industrail ),,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1055,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1054,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3026,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-3027,Pick Up,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1057,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1041,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1050,Mini SUV,,Commercial,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5312,Pick Up,,Marketing,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5213,Pick Up,,Marketing,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5743,Pick Up,,Marketing,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2B0-8535,Pick Up,,Marketing,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5741,Pick Up,,Marketing,,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5764,Pick Up,,Marketing (PAA),,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5664,Pick Up,,Marketing (PAA),,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5754,Pick Up,,Marketing (PAA),,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-5714,Pick Up,,Marketing (PAA),,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BW-1051,Mini SUV,,Marketing (PAA),,,,,
+cmic,vehicle,cambodia,cmic,CMIC-2BX-3873,Pick Up,,Marketing (PAA),,,,,
+cmic,bulk,cambodia,cmic,CMIC-3E-6474,Bulk Truck,APSOR,,,"HYUNDAI, 340 Horsepower",D6AB2064931,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-7277,Bulk Truck,KATTY,,,", 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-7630,Bulk Truck,MH INFINITY,,,"HYUNDAI, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3H-0366,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,20/04/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-7880,Bulk Truck,APSOR,,,"DAEWOO, 365 Horsepower",DV15T900135CB,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3AD-3909,Bulk Truck,KATTY,,,"ISUZU, 270HP Horsepower",6HK1434856,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-8939,Bulk Truck,KATTY,,,"HYUNDAI, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3B-9266,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-3267,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,18/04/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-0835,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",34960826,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-0931,Bulk Truck,KATTY,,,"PETER BILT, 300HP Horsepower",5A370098,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2595,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-2597,Bulk Truck,MH INFINITY,,,"HYUNDAI, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-9526,Bulk Truck,SOPHORN PP,,,"Asia Granto, 320HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3A-3256,Bulk Truck,SOPHORN PP,,,"Hyundai, 235HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-3840,Bulk Truck,APSOR,,,"HYUNDAI, 360 Horsepower",D6CA1051254,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-1870,Bulk Truck,KATTY,,,"SCANIA, 380 HP Horsepower",DC1104L18052797,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-4822,Bulk Truck,KATTY,,,"HYUNDAI, 235 HP Horsepower",D6ACV008937,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-3772,Bulk Truck,KATTY,,,"TRACTOR, 335HP Horsepower",34759439,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-3080,Bulk Truck,KATTY,,,"FRIGHT LINER, 360HP Horsepower",06R0007100,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-5938,Bulk Truck,KATTY,,,",  Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-7341,Bulk Truck,MH INFINITY,,,"HYUNDAI, 235HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-5208,Bulk Truck,MH INFINITY,,,"HYUNDAI, 181HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-3588,Bulk Truck,SOPHORN PP,,,"FUSO, 340HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3A-5595,Bulk Truck,SOPHORN PP,,,"Hyundai, 235HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-5847,Bulk Truck,APSOR,,,"HYUNDAI, 340 Horsepower",D6CB4102493,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-5040,Bulk Truck,APSOR,,,"HYUNDAI, 235HP Horsepower",D6AB3079584,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-5999,Bulk Truck,KATTY,,,"HYUNDAI, 320HP Horsepower",D8AYR130585,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-2797,Bulk Truck,KATTY,,,"FRIGHT LINER, 360HP Horsepower",2K515753,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2370,Bulk Truck,MH INFINITY,,,"HYUNDAI, 355HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6979,Bulk Truck,MH INFINITY,,,"HYUNDAI, 235HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-9785,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-4499,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 380HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-8094,Bulk Truck,MH INFINITY,,,"HYUNDAI, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-1714,Bulk Truck,SOPHORN PP,,,"Hino, 340HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3F-8004,Bulk Truck,SOPHORN PP,,,"Hyundai, 340HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3A-3255,Bulk Truck,SOPHORN PP,,,"Hyundai, 235HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3F-5851,Bulk Truck,KATTY,,,"INTERNA TIONAL, 300HP Horsepower",8YS06482,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-3585,Bulk Truck,KATTY,,,"FRIGHT LINER, 360HP Horsepower",06R0481318,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-6880,Bulk Truck,KATTY,,,"DAEWOO, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-0341,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6952,Bulk Truck,MH INFINITY,,,"HYUNDAI, 235HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-7347,Bulk Truck,MH INFINITY,,,"HYUNDAI, 235HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3-7358,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-4362,Bulk Truck,SOPHORN PP,,,"Asia Granto, 380HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-6476,Bulk Truck,APSOR,,,"HYUNDAI, 340 Horsepower",D6AB6128844,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-8795,Bulk Truck,APSOR,,,"DAEWOO, 420 Horsepower",DV15TIS000115GB,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-0932,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",06R0395655,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-1341,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-3259,Bulk Truck,MH INFINITY,,,"HYUNDAI, 235HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-0623,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3B-6767,Bulk Truck,SOPHORN PP,,,"FUSO, 340HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-6946,Bulk Truck,APSOR,,,"DAEWOO, 365 Horsepower",DV15T7OO259CB,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-4804,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",34719511,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-5888,Bulk Truck,KATTY,,,"HYUNDAI, 320HP Horsepower",D8YS131630,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-1648,Bulk Truck,KATTY,,,"DAEWOO, 380HP Horsepower",D12TI701789CA,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-8537,Bulk Truck,KATTY,,,"DAEWOO, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-0701,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 360HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-1908,Bulk Truck,MH INFINITY,,,"HYUNDAI, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2381,Bulk Truck,MH INFINITY,,,"HYUNDAI, 355HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2568,Bulk Truck,MH INFINITY,,,"ISUZU, 181HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6492,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-6349,Bulk Truck,MH INFINITY,,,"FUSO, 190HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2460,Bulk Truck,SOPHORN PP,,,"Hyundai, 235HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3F-1209,Bulk Truck,KATTY,,,"SCANIA, 380HP Horsepower",DC1140L018236,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-2446,Bulk Truck,KATTY,,,"SCANIA, 380 HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-1580,Bulk Truck,KATTY,,,"INTERNA TIONAL, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-0738,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 360HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2415,Bulk Truck,MH INFINITY,,,"HINO, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6309,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-7704,Bulk Truck,KATTY,,,"FRIGHT LINER, 380HP Horsepower",34749183,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-6887,Bulk Truck,KATTY,,,"DAEWOO, 360HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-5344,Bulk Truck,MH INFINITY,,,"FUSO, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-5958,Bulk Truck,MH INFINITY,,,"KIA, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-3521,Bulk Truck,MH INFINITY,,,"HYUNDAI, 355HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-9143,Bulk Truck,SOPHORN PP,,,"Hino, 355HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-5751,Bulk Truck,APSOR,,,"HYUNDAI, 440 Horsepower",D6CA3079174,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6791,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3-4010,Bulk Truck,MH INFINITY,,,"ISUZU, 280HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-3253,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,16/06/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2490,Bulk Truck,SOPHORN PP,,,"Asia Granto, 225HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3A-6305,Bulk Truck,SOPHORN PP,,,"Hyundai, 235HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-3842,Bulk Truck,APSOR,,,"DAEWOO, 310 Horsepower",DV15TIS200634CB,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-4344,Bulk Truck,KATTY,,,"FRIGHT LINER, 360Hp Horsepower",34864335,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-5411,Bulk Truck,KATTY,,,"PETERBILT TRACTOR, 380HP Horsepower",6NZ88882,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-7666,Bulk Truck,KATTY,,,"HYUNDAI, 340HP Horsepower",D6ACS134395,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-3606,Bulk Truck,KATTY,,,"INTERNA TIONAL, 360HP Horsepower",79037794,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3G-1594,Bulk Truck,KATTY,,,"SCANIA, 380 HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-7806,Bulk Truck,KATTY,,,"HYUNDAI, 290HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3-4450,Bulk Truck,MH INFINITY,,,"ISUZU, 280HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6221,Bulk Truck,SOPHORN PP,,,"Hyundai, 320HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3F-4814,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",34925519,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-2777,Bulk Truck,KATTY,,,"HYUNDAI, 340HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-0445,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 355HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-1744,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,03/07/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-3376,Bulk Truck,SOPHORN PP,,,"Hyundai, 320HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3C-9214,Bulk Truck,SOPHORN PP,,,"Hino, 355HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3D-2822,Bulk Truck,SOPHORN PP,,,"NISSAN, 320HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3D-4360,Bulk Truck,SOPHORN PP,,,"Hyundai, 340HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3F-4824,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",34985034,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-1208,Bulk Truck,KATTY,,,"DAEWOO TRACTOR, 440HP Horsepower",06R06735866067TK6,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-5993,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-7485,Bulk Truck,MH INFINITY,,,"HYUNDAI, 360HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-9834,Bulk Truck,MH INFINITY,,,"HYUNDAI, 355HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3C-9142,Bulk Truck,SOPHORN PP,,,"Hino, 355HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3F-4821,Bulk Truck,KATTY,,,"FRIGHT LINER, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-2382,Bulk Truck,MH INFINITY,,,"HYUNDAI, 335HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-5839,Bulk Truck,MH INFINITY,,,"HYUNDAI, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3D-4770,Bulk Truck,SOPHORN PP,,,"FUSO, 270HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3E-2073,Bulk Truck,SOPHORN PP,,,"Hyundai, 320HP Horsepower",N/A,15/01/2025,40 tones
+cmic,bulk,cambodia,cmic,CMIC-3D-3808,Bulk Truck,KATTY,,,"INTERNA TIONAL, 330HP Horsepower",06R0169405,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-2757,Bulk Truck,KATTY,,,"INTERNA TIONAL, 360HP Horsepower",79074173,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3E-3171,Bulk Truck,KATTY,,,"FRIGHT LINER, 360HP Horsepower",3469827,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-5405,Bulk Truck,KATTY,,,"INTERNA TIONAL, 300HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3F-7981,Bulk Truck,KATTY,,,"HYUNDAI, 355HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-7343,Bulk Truck,MH INFINITY,,,"ASIA GRANTO, 320HP Horsepower",N/A,15/01/2025,40T
+cmic,bulk,cambodia,cmic,CMIC-3A-6207,Bulk Truck,SOPHORN PP,,,"Hyundai, 320HP Horsepower",N/A,15/01/2025,40 tones

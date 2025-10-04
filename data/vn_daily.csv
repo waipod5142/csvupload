@@ -1,0 +1,484 @@
+﻿type,site,swl,id,area,latestInspection,email,esite,department,kind,owner,bu
+forklift,catl,5,CATL-691-4M1,INSEE,,,CAT LAI,SCN,Xe nâng 01 (Forklift),SCN,vn
+forklift,catl,5,CATL-691-4M2,INSEE,,,CAT LAI,SCN,Xe nâng 02 (Forklift),SCN,vn
+forklift,catl,5,CATL-691-4M3,INSEE,,,CAT LAI,SCN,Xe nâng 03 (Forklift),SCN,vn
+forklift,catl,7,CATL-FD70-JF_50LA-4855,SCN - Hùng Triệu,Tue May 07 2024 00:00:00 GMT+0700 (Indochina Time),,CAT LAI,SCN,Forklift 7T,SCN - Hùng Triệu,vn
+forklift,catl,3,CATL-50LA-2734,ECO - Việt Long,Tue May 07 2024 00:00:00 GMT+0700 (Indochina Time),,CAT LAI,ECO,Forklift,ECO - Việt Long,vn
+forklift,catl,3,CATL-ECO_Backup_01,ECO - Quốc Trí,,,CAT LAI,ECO,Forklift  Nishio,ECO - Quốc Trí,vn
+vehicle,catl,,CATL-VT_50H-16280,,Thu Jul 18 2024 00:00:00 GMT+0700 (Indochina Time),tri.le@siamcitycement.com,CAT LAI,SCN,Flat truck 16T,SCN - Van An,vn
+vehicle,catl,,CATL-VT_50H-16067,,Thu Jul 18 2024 00:00:00 GMT+0700 (Indochina Time),tri.le@siamcitycement.com,CAT LAI,SCN,Flat truck 16T,SCN - Van An,vn
+vehicle,catl,,CATL-VT_50H-08353,,Fri Mar 10 2023 00:00:00 GMT+0700 (Indochina Time),nghiem.vu@siamcitycement.com,CAT LAI,ECO,Xe tải cẩu,Eco Ops - INSEE,vn
+vehicle,catl,,CATL-VT_50LA-4554,,Fri Aug 11 2023 00:00:00 GMT+0700 (Indochina Time),nghiem.vu@siamcitycement.com,CAT LAI,ECO,Xe cẩu bánh lốp,Eco Ops - Viet Long,vn
+vehicle,catl,,CATL-VT_51D-07138,,Thu Jun 27 2024 00:00:00 GMT+0700 (Indochina Time),nghiem.vu@siamcitycement.com,CAT LAI,ECO,Xe tải,Eco Ops - Viet Long,vn
+vehicle,catl,,CATL-VT_51C-68797,,Fri Nov 10 2023 00:00:00 GMT+0700 (Indochina Time),nghiem.vu@siamcitycement.com,CAT LAI,ECO,Xe tải,Eco Ops - Viet Long,vn
+vehicle,catl,,CATL-VT_60C-37390,,Thu Oct 19 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60P-2673,,Mon Nov 13 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60H-10759,,Mon Feb 27 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_50H-22849,,Thu Mar 16 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_60H-11212,,Sun Feb 26 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60H-08131,,Sat Aug 17 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60H-12345,,Tue Jan 09 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_50H-35466,,Mon Mar 18 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_50LD-13631,,Fri Oct 06 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_52LD-5618,,Wed Aug 07 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_52LD-5689,,Thu Aug 08 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_52LD-3944,,Tue Jul 30 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_50LD-03445,,Fri Aug 16 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_50LD-01473,,7/30/2024,duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_50LD-03476,,Sat Aug 03 2024 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_51D-823.88,,Fri Jul 14 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải Van,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_51K_385.40,,Mon Jul 18 2022 00:00:00 GMT+0700 (Indochina Time),bao.tran@siamcitycement.com,CAT LAI,MNF,Xe 7 chỗ,PM - Thái Dương,vn
+vehicle,catl,,CATL-VT_60H-20952,,Mon Nov 13 2023 00:00:00 GMT+0700 (Indochina Time),duy.thien.le@siamcitycement.com,CAT LAI,ECO,Xe tải mui bạt (BS cũ: 60P-2673),Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_50LD_203.54,,Mon Jul 29 2024 00:00:00 GMT+0700 (Indochina Time),anil.kumara@siamcitycement.com,CAT LAI,MNF,Xe 7 chỗ,Capex_SBS,vn
+vehicle,catl,,CATL-VT_50G-507.67,,Fri Apr 28 2023 00:00:00 GMT+0700 (Indochina Time),hieu.vi.nguyen@siamcitycement.com,CAT LAI,MNF,Xe 7 chỗ,PRJ - Quốc Vinh,vn
+lifting,catl,2.5,CATL-J71-EH1,Silo 1,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Tời điện (Hoist),MNF - INSEE,vn
+lifting,catl,2.5,CATL-J71-EH2,Silo 2,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Tời điện (Hoist),MNF - INSEE,vn
+lifting,catl,2.5,CATL-K31-RE1,Reclaimer,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Tời điện (Hoist),MNF - INSEE,vn
+lifting,catl,3.2,CATL-621-BB1,Jumbo loader,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,20,CATL-K41-CA1,Roller Mill,,,CATL,,Cầu trục 2 dầm (Over head),MNF - INSEE,vn
+lifting,catl,6,CATL-K31-CA1,Crusher,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Cầu trục 1 dầm (Over head),MNF - INSEE,vn
+lifting,catl,10,CATL-G01-CA1,WORKSHOP,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Overhead Crane,MNF - INSEE,vn
+lifting,catl,0.5,CATL-661-EH3,Jetty,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,"Tời nâng 
+(xuồng cứu hộ)",SCN - INSEE,vn
+lifting,catl,"0,25",CATL-XCL-01,Xá 01,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Tời điện (Xạc xá),SCN - INSEE,vn
+lifting,catl,1T,CATL-FK-01,Workshop,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Xe nâng tay,MNF - INSEE,vn
+lifting,catl,1,CATL-G01-EH1,Workshop,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Palang chay điện,MNF - INSEE,vn
+lifting,catl,3.2,CATL-615-EH1,Flyash feeder,,,CATL,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,2,CATL-661-EH2,Ship loading (Thang),,,CATL,,Tời nâng (hoist),MNF - INSEE,vn
+lifting,catl,4,CATL-K91-EH1,Roller Mill,,,CATL,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,6.3/6.0,CATL-651-LM1,Truck loading 1,,,CATL,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6,CATL-651-LM2,Truck loading 2,,,CATL,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6.3/6.0,CATL-651-LM3,Truck loading 3,,,CATL,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6,CATL-651-LM4,Truck loading 4,,,CATL,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6,CATL-651-LM5,Truck loading 5,,,CATL,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6.3/6.0,CATL-651-LM6,Truck loading 6,,,CATL,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,8,CATL-661-LM1,Ship loading,,,CATL,,Tời nâng (Ship loader hoist),MNF - INSEE,vn
+lifting,catl,1.6,CATL-641-EH1,Empty bag,,,CATL,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,"0,25",CATL-XCL-02,Xá 02,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Tời điện (Xạc xá),SCN - INSEE,vn
+lifting,catl,,CATL-CL801-LT9,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Cần trục tay 2T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT1,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT2,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT3,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT4,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT5,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT6,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT7,AIC,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-50LD-083.53,Eco Ops - Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Xe cẩu thùng (Truck crane),Eco Ops - INSEE,vn
+lifting,catl,,CATL-52LD-5618,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-52LD-5689,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-50LD-03445,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-50LD-01473,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-50LD-03476,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,9.7-4.6T,CATL-XGC65_50XA-6178,SCN_Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Crawler crane,SCN - Hùng Triệu,vn
+lifting,catl,4/25T,CATL-50LA-4554,Eco Ops - Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Mobile crane,ECO - Việt Long,vn
+lifting,catl,1,CATL-60H-123.45,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-60H-081.31,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-60H-107.59,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-60H-112.12,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-50H-354.66,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - CPSG,vn
+lifting,catl,1,CATL-50LD-136.31,Eco Log - Lưu động,,,CATL,,Lifting table _ truck,Eco Log - CPSG,vn
+lifting,catl,8,CATL-SB_8T-02,SCN_Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Spreader bar with Chain slings (SB 8T-02),SCN - INSEE,vn
+lifting,catl,4,CATL-SB_4T-06,SCN_Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Spreader bar with Chain slings (SB 4T-06),SCN - INSEE,vn
+lifting,catl,8,CATL-SB_4T-02,SCN_Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Spreader bar with Chain slings (SB 4T-02),SCN - INSEE,vn
+lifting,catl,0.2T,CATL-G01_LP01,MNF - Lưu động,Tue Nov 12 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Mobile Lifing platform,MNF - INSEE,vn
+lifting,catl,2.3,CATL-CLCS-2T3-01,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Xích cẩu 4 nhánh/ 04 slings chain,Ecocycle,vn
+lifting,catl,2.4,CATL-CLCS-2T4-03,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Xích cẩu 4 nhánh/ 04 slings chain,Ecocycle,vn
+lifting,catl,0.7,CATL-1432216,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,N2 - 1432216 - Drum lifter/Móc cẩu phuy,Ecocycle,vn
+lifting,catl,0.7,CATL-D1432029,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,N2 - 1432216 - Drum lifter/Móc cẩu phuy,Ecocycle,vn
+lifting,catl,3,CATL-SH-1221,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,"Wire rope sling
+SH-1221-01 , 02 , 03 , 04",Ecocycle,vn
+lifting,catl,1,CATL-DLCL-0818_0218,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,"Drum lifter
+DLCL-0818-(01,02,03,04,08) _ 0218-(03,04.05)",Ecocycle,vn
+lifting,catl,2.2,CATL-5055-1T6,Eco Ops - Lưu động,Thu Nov 14 2024 00:00:00 GMT+0700 (Indochina Time),,CATL,,Pallet lifting attachment,Ecocycle,vn
+mobile,thiv,,50XA-5178,,n-a,vu.van.nguyen@siamcitycement.com,,SCN,Xe cuốc,Hoàng Thạnh,vn
+mobile,thiv,,50XA-7087,,n-a,vu.van.nguyen@siamcitycement.com,,SCN,Xe cuốc,Hoàng Thạnh,vn
+mobile,thiv,,50XA-7088,,n-a,son.duong@siamcitycement.com,,Process,Xe quét rác,INSEE,vn
+mobile,thiv,,50XA-5306,,n-a,vu.van.nguyen@siamcitycement.com,,SCN,Excavator,Hoàng Thạnh,vn
+mobile,thiv,,50XA-6054,,n-a,vu.van.nguyen@siamcitycement.com,,SCN,Excavator,Hoàng Thạnh,vn
+mobile,thiv,,50XA-4873,,n-a,vu.van.nguyen@siamcitycement.com,,SCN,Excavator,Hoàng Thạnh,vn
+mobile,thiv,,50LA-3676,,n-a,son.duong@siamcitycement.com,,Process,Excavator,Hoàng Thạnh,vn
+mobile,thiv,,50LA-4356,,n-a,son.duong@siamcitycement.com,,Process,Excavator,Hoàng Thạnh,vn
+mobile,thiv,,50LA-3677,,n-a,son.duong@siamcitycement.com,,Process,Excavator,Hoàng Thạnh,vn
+mobile,thiv,,50XA-4767,,n-a,vu.van.nguyen@siamcitycement.com,,SCN,Excavator,Hoàng Thạnh,vn
+forklift,thiv,,THIV-50LA-2445,Maintenance,16/3/2024,,,Maintenance,INSEE,"Xe nâng
+Mitsubishi",vn
+forklift,thiv,,THIV-61LA-1507,Logistics,Wed May 01 2024 00:00:00 GMT+0700 (Giờ Đông Dương),,,Logistics,Goldbell,"Xe nâng
+Mitsubishi",vn
+lifting,cant,4T,CANT-1,Cảng giao - nhận xi măng,2024-11-17T17:00:00.000Z,,,,Mobile crane,Cty VTT Cần Thơ,vn
+mobile,hiep,,HIEP-50LA-3945,,2023-10-09T17:00:00.000Z,phong.lam@siamcitycement.com,,Quốc Trí,Xe xúc lật,Sản xuất,vn
+mobile,hiep,,HIEP-50LA-3943,,2023-10-09T17:00:00.000Z,phong.lam@siamcitycement.com,,Quốc Trí,Xe xúc lật,Sản xuất,vn
+lifting,hiep,10 tấn,542-EH2,Tiền nghiền 2,2024-11-05T17:00:00.000Z,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,10 tấn,541-EH2,Tiền nghiền 1,2024-10-05T17:00:00.000Z,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,661-EH2,Đóng bao 1,28/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,562-EH3,Nhà nghiền 2,28/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,10 tấn,541-EH1,Tiền nghiền 1,2024-10-05T17:00:00.000Z,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,10 tấn,542-EH1,Tiền nghiền 2,2024-12-05T17:00:00.000Z,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,691-LM1,Cầu chất bao,23/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,661-EH1,Đóng bao 1,2024-12-05T17:00:00.000Z,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,692-LM2,Cầu chất bao,31/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,692-LM1,Cầu chất bao,22/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,662-EH1,Đóng bao 2,23/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,562-EH1,Nhà nghiền 2,29/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,532-EH1,Nhà nghiền 2,29/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,691-LM2,Cầu chất bao,23/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,561-EH1,Nhà nghiền 1,2024-04-05T17:00:00.000Z,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,20 tấn / 15 tấn,562-EH2,Nhà nghiền 2,2024-09-05T17:00:00.000Z,,,,Cầu trục dầm đôi,INSEE,vn
+lifting,hiep,20/5 tấn - 15/5 tấn,561-EH2,Nhà nghiền 1,2024-04-05T17:00:00.000Z,,,,Cầu trục dầm đôi,INSEE,vn
+lifting,hiep,"1,5 tấn",D31-EH1,Máy nén khí,29/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,J51-EH1,Silo đá vôi,30/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,541-EH3,Tiền nghiền 1,24/6/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,542-EH3,Tiền nghiền 2,31/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,561-EH3,Nhà nghiền 1,23/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,662-EH2,Đóng bao 2,28/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,"0,5 tấn",621-EH1,Xá 1,23/6/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,591-EH1,Silo xi măng 1,27/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,2 tấn,592-EH1,Silo xi măng 2,27/5/2024,,,,Tời nâng điện,INSEE,vn
+lifting,hiep,"5,5 tấn",J51-CA1,Cảng nhập liệu,23/5/2024,,,,Cần trục chân đế,INSEE,vn
+lifting,hiep,"0,5 tấn",622-EH1,Xá 2,23/6/2024,,,,Pa lăng điện,INSEE,vn
+lifting,hiep,0.175,Gangway-02,Cảng nhập liệu,23/6/2024,,,,Pa lăng điện,INSEE,vn
+liftinggear,honc,100T,HONC-QRY-CD-100T,Quarry Workshop,,,,QUARRY,CON ĐỘI 100T,QUARRY,vn
+liftinggear,honc,20T,HONC-QRY-GK-20T,Quarry Workshop,,,,QUARRY,GỖ KÊ 20T,QUARRY,vn
+liftinggear,honc,20T,HONC-QRY-TT-20T,Quarry Workshop,,,,QUARRY,TRỤ THÉP 20T,QUARRY,vn
+liftinggear,honc,2T,HONC-QRY-CV-2T,Quarry Workshop,,,,QUARRY,CÁP VẢI 2T,QUARRY,vn
+liftinggear,honc,5T,HONC-QRY-CV-5T,Quarry Workshop,,,,QUARRY,CÁP VẢI 5T,QUARRY,vn
+liftinggear,honc,3T,HONC-QRY-CBC-3T,Quarry Workshop,,,,QUARRY,CHẠC 3 CHÂN,QUARRY,vn
+liftinggear,honc,5T,HONC-QRY-CBC-5T,Quarry Workshop,,,,QUARRY,CHẠC 3 CHÂN,QUARRY,vn
+liftinggear,honc,2T,HONC-QRY-CD-2T,Quarry Workshop,,,,QUARRY,CON ĐỘI 2T,QUARRY,vn
+liftinggear,honc,30T,HONC-QRY-CD-30T,Quarry Workshop,,,,QUARRY,CON ĐỘI 30T,QUARRY,vn
+liftinggear,honc,80T,HONC-QRY-CD-80T,Quarry Workshop,,,,QUARRY,CON ĐỘI 80T,QUARRY,vn
+liftinggear,honc,10T,HONC-QRY-DH-10T,Quarry Workshop,,,,QUARRY,ĐỘI HẦM 10T,QUARRY,vn
+liftinggear,honc,6T,HONC-QRY-DH-6T,Quarry Workshop,,,,QUARRY,ĐỘI HẦM 6T,QUARRY,vn
+liftinggear,honc,0.25T,HONC-QRY-KT-250-Kg,Quarry Workshop,,,,QUARRY,"KẸP TÔN 0,25T",QUARRY,vn
+liftinggear,honc,1.02T,HONC-QRY-KC-1020-Kg,Quarry Workshop,,,,QUARRY,KHOEN CẨU 1.02T,QUARRY,vn
+liftinggear,honc,1.814T,HONC-QRY-KC-1814-Kg,Quarry Workshop,,,,QUARRY,KHOEN CẨU 1.814T,QUARRY,vn
+liftinggear,honc,4.08T,HONC-QRY-KC-4080Kg,Quarry Workshop,,,,QUARRY,KHOEN CẨU 4.08T,QUARRY,vn
+liftinggear,honc,3.25T,HONC-QRY-MN-3250-Kg,Quarry Workshop,,,,QUARRY,MA-NÍ 3.25T,QUARRY,vn
+liftinggear,honc,4.75T,HONC-QRY-MN-4750-Kg,Quarry Workshop,,,,QUARRY,MA-NÍ 4.75T,QUARRY,vn
+liftinggear,honc,2T,HONC-QRY-XNT-2T-01,Quarry Workshop,,,,QUARRY,XE NÂNG TAY 2T,QUARRY,vn
+forklift,hiep,3.5 tấn,HIEP-50LA-3944,Truck loader,25/06/2024,,,Quoc Tri,Xe nâng Lonking,Supply chain,vn
+forklift,hiep,3.0 tấn,HIEP-CPCD30-WS1H,Truck loader,2025-01-03T17:00:00.000Z,,,Quoc Tri,Xe nâng Heli,Supply chain,vn
+vehicle,ho,,HO-50H-03417,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,ho,,HO-50H-43941,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,ho,,HO-60H-20091,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,ho,,HO-50H-30299,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,ho,,HO-61H-05365,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,ho,,HO-50H-68411,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,ho,,HO-50H-08679,,,VN-scn-transport@siamcitycement.com,,Supply Chain,Truck Trailer ,Chuyển Phát Sài Gòn,vn
+vehicle,hiep,,HIEP-51B-21484,,26/09/2024,hang.thanh.nguyen@siamcitycement.com,,Thai Duong,Shuttle bus,Admin,vn
+vehicle,hiep,,HIEP-51G-64529,,2024-01-06T17:00:00.000Z,hang.thanh.nguyen@siamcitycement.com,,Quoc Vinh,Shuttle bus,Admin,vn
+vehicle,hiep,,HIEP-50H-80724,,2025-04-14T17:00:00.000Z,hang.thanh.nguyen@siamcitycement.com,,Thai Duong,Shuttle bus,Admin,vn
+lifting,catl,2.5,CATL-J71-EH1,Silo 1,2024-12-10T17:00:00.000Z,,,,Tời điện (Hoist),MNF - INSEE,vn
+lifting,catl,2.5,CATL-J71-EH2,Silo 2,2024-12-10T17:00:00.000Z,,,,Tời điện (Hoist),MNF - INSEE,vn
+lifting,catl,2.5,CATL-K31-RE1,Reclaimer,2024-12-10T17:00:00.000Z,,,,Tời điện (Hoist),MNF - INSEE,vn
+lifting,catl,3.2,CATL-621-BB1,Jumbo loader,2024-12-10T17:00:00.000Z,,,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,20,CATL-K41-CA1,Roller Mill,,,,,Cầu trục 2 dầm (Over head),MNF - INSEE,vn
+lifting,catl,6,CATL-K31-CA1,Crusher,2024-12-10T17:00:00.000Z,,,,Cầu trục 1 dầm (Over head),MNF - INSEE,vn
+lifting,catl,10,CATL-G01-CA1,WORKSHOP,2024-12-10T17:00:00.000Z,,,,Overhead Crane,MNF - INSEE,vn
+lifting,catl,0.5,CATL-661-EH3,Jetty,2024-12-10T17:00:00.000Z,,,,"Tời nâng 
+(xuồng cứu hộ)",SCN - INSEE,vn
+lifting,catl,"0,25",CATL-XCL-01,Xá 01,2024-12-10T17:00:00.000Z,,,,Tời điện (Xạc xá),SCN - INSEE,vn
+lifting,catl,1T,CATL-FK-01,Workshop,2024-12-10T17:00:00.000Z,,,,Xe nâng tay,MNF - INSEE,vn
+lifting,catl,1,CATL-G01-EH1,Workshop,2024-12-10T17:00:00.000Z,,,,Palang chay điện,MNF - INSEE,vn
+lifting,catl,3.2,CATL-615-EH1,Flyash feeder,,,,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,2,CATL-661-EH2,Ship loading (Thang),,,,,Tời nâng (hoist),MNF - INSEE,vn
+lifting,catl,4,CATL-K91-EH1,Roller Mill,,,,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,6.3/6.0,CATL-651-LM1,Truck loading 1,,,,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6,CATL-651-LM2,Truck loading 2,,,,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6.3/6.0,CATL-651-LM3,Truck loading 3,,,,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6,CATL-651-LM4,Truck loading 4,,,,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6,CATL-651-LM5,Truck loading 5,,,,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,6.3/6.0,CATL-651-LM6,Truck loading 6,,,,,Tời nâng (truckloader hoist),MNF - INSEE,vn
+lifting,catl,8,CATL-661-LM1,Ship loading,,,,,Tời nâng (Ship loader hoist),MNF - INSEE,vn
+lifting,catl,1.6,CATL-641-EH1,Empty bag,,,,,Palang điện (Hoist),MNF - INSEE,vn
+lifting,catl,"0,25",CATL-XCL-02,Xá 02,2024-12-10T17:00:00.000Z,,,,Tời điện (Xạc xá),SCN - INSEE,vn
+lifting,catl,,CATL-CL801-LT9,AIC,2024-12-10T17:00:00.000Z,,,,Cần trục tay 2T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT1,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT2,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT3,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT4,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT5,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT6,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-CL801-LT7,AIC,2024-12-10T17:00:00.000Z,,,,Bàn nâng 0.5 T,AIC - INSEE,vn
+lifting,catl,,CATL-50LD-083.53,Eco Ops - Lưu động,2024-12-10T17:00:00.000Z,,,,Xe cẩu thùng (Truck crane),Eco Ops - INSEE,vn
+lifting,catl,,CATL-52LD-5618,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-52LD-5689,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-50LD-03445,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-50LD-01473,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,,CATL-50LD-03476,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - INSEE,vn
+lifting,catl,9.7-4.6T,CATL-XGC65_50XA-6178,SCN_Lưu động,2024-12-10T17:00:00.000Z,,,,Crawler crane,SCN - Hùng Triệu,vn
+lifting,catl,4/25T,CATL-50LA-4554,Eco Ops - Lưu động,2024-12-10T17:00:00.000Z,,,,Mobile crane,ECO - Việt Long,vn
+lifting,catl,1,CATL-60H-123.45,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-60H-081.31,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-60H-107.59,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-60H-112.12,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - Ngân Hưng,vn
+lifting,catl,1,CATL-50H-354.66,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - CPSG,vn
+lifting,catl,1,CATL-50LD-136.31,Eco Log - Lưu động,,,,,Lifting table _ truck,Eco Log - CPSG,vn
+lifting,catl,8,CATL-SB_8T-02,SCN_Lưu động,2024-12-10T17:00:00.000Z,,,,Spreader bar with Chain slings (SB 8T-02),SCN - INSEE,vn
+lifting,catl,4,CATL-SB_4T-06,SCN_Lưu động,2024-12-10T17:00:00.000Z,,,,Spreader bar with Chain slings (SB 4T-06),SCN - INSEE,vn
+lifting,catl,8,CATL-SB_4T-02,SCN_Lưu động,2024-12-10T17:00:00.000Z,,,,Spreader bar with Chain slings (SB 4T-02),SCN - INSEE,vn
+lifting,catl,0.2T,CATL-G01_LP01,MNF - Lưu động,2024-12-10T17:00:00.000Z,,,,Mobile Lifing platform,MNF - INSEE,vn
+lifting,catl,2.3,CATL-CLCS-2T3-01,Eco Ops - Lưu động,14/11/2024,,,,Xích cẩu 4 nhánh/ 04 slings chain,Ecocycle,vn
+lifting,catl,2.4,CATL-CLCS-2T4-03,Eco Ops - Lưu động,14/11/2024,,,,Xích cẩu 4 nhánh/ 04 slings chain,Ecocycle,vn
+lifting,catl,0.7,CATL-1432216,Eco Ops - Lưu động,14/11/2024,,,,N2 - 1432216 - Drum lifter/Móc cẩu phuy,Ecocycle,vn
+lifting,catl,0.7,CATL-D1432029,Eco Ops - Lưu động,14/11/2024,,,,N2 - 1432216 - Drum lifter/Móc cẩu phuy,Ecocycle,vn
+lifting,catl,3,CATL-SH-1221,Eco Ops - Lưu động,14/11/2024,,,,"Wire rope sling
+SH-1221-01 , 02 , 03 , 04",Ecocycle,vn
+lifting,catl,1,CATL-DLCL-0818_0218,Eco Ops - Lưu động,14/11/2024,,,,"Drum lifter
+DLCL-0818-(01,02,03,04,08) _ 0218-(03,04.05)",Ecocycle,vn
+lifting,catl,2.2,CATL-5055-1T6,Eco Ops - Lưu động,14/11/2024,,,,Pallet lifting attachment,Ecocycle,vn
+lifting,catl,,CATL-K91-EH1,Silo-Mill,,,,,Tời nâng di động,MNF - INSEE,vn
+lifting,honc,4 tấn,68C-08519,Ecocycle,2023-03-09T17:00:00.000Z,,,,Cần trục ô tô HINO,ECO,vn
+lifting,honc,25 tấn,2440-211-CA1,Crusher building,2023-09-09T17:00:00.000Z,,,,Cầu trục,Quarry,vn
+lifting,honc,1 tấn,2440-231-EH1,PGNAA,14/11/2023,,,,Pa-lăng điện,Quarry,vn
+lifting,honc,5 tấn,2440-331-EH1,Raw mill feed building,15/3/2024,,,,Pa-lăng điện,Quarry,vn
+lifting,honc,27 tấn,2440-361-CA1,Raw mill,14/11/2023,,,,Cầu trục,Production,vn
+lifting,honc,8 tấn,2440-391-EH1,Preheater tower-F5,2018-05-02T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,500 kg,2440-421-EH1,Top of 421-BF1,20/2/2024,,,,Pa lăng điện KITO,Production,vn
+lifting,honc,5 tấn,2440-431-EH2,Preheater tower-F9,2023-12-09T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,1600kg,2440-441-EL1,Preheater tower,2024-11-02T17:00:00.000Z,,,,Thang máy,Production,vn
+lifting,honc,6.3 tấn,2440-461-EH1,F2 preheater,28/2/2024,,,,Pa-lăng điện,Production,vn
+lifting,honc,10 tấn,2440-471-EH1,Burner Platform,27/2/2024,,,,Pa-lăng điện,Production,vn
+lifting,honc,3 tấn,2440-471-EH2,Clinker Cooler,27/2/2024,,,,Pa lăng điện,Production,vn
+lifting,honc,7 tấn,2440-471-EH3,Clinker Cooler,27/2/2024,,,,Pa lăng điện,Production,vn
+lifting,honc,2 tấn,2440-481-EH1,Coal mill-Blower room,23/2/2024,,,,Pa-lăng điện,Production,vn
+lifting,honc,5 tấn,2440-491-EH1,Top of Clinker Silo,2024-02-02T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,40 tấn,2440-561-CA1,Cement mill,19/10/2023,,,,Cầu trục,Production,vn
+lifting,honc,6 tấn,2440-591-EH1,Preheater tower-F5,2023-06-09T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,1.600 kg,2440-591-EL1,Cement Silo,22/2/2024,,,,Thang máy,Production,vn
+lifting,honc,3 tấn,2440-651-BB1,Silo 1-Jumbo packing,2024-01-02T17:00:00.000Z,,,,Tời điện đóng bao jumpo A05090277,Packing Plant,vn
+lifting,honc,3 tấn,2440-651-BB2,Silo 1-Jumbo packing,2024-01-02T17:00:00.000Z,,,,Tời điện đóng bao jumpo A05090276,Packing Plant,vn
+lifting,honc,3 tấn,2440-652-BB1,Packing Plant,21/2/2024,,,,Tời điện đóng bao Jumbo mới 1,Packing Plant,vn
+lifting,honc,3 tấn,2440-652-BB2,Packing Plant,2023-04-09T17:00:00.000Z,,,,Tời điện đóng bao Jumbo mới 2,Packing Plant,vn
+lifting,honc,2.5 tấn,2440-661-EH1,Packing Plant-F2,2024-05-02T17:00:00.000Z,,,,Pa-lăng điện,Packing Plant,vn
+lifting,honc,2.5 tấn,2440-661-EH2,Packing Plant-F3,2023-03-09T17:00:00.000Z,,,,Pa-lăng điện,Packing Plant,vn
+lifting,honc,10 tấn,2440-671-CA1,Packing Plant,2023-06-09T17:00:00.000Z,,,,Cầu trục Palletizer 1,Packing Plant,vn
+lifting,honc,10 tấn,2440-672-CA1,Packing Plant,2023-05-09T17:00:00.000Z,,,,Cầu trục Palletizer 2,Packing Plant,vn
+lifting,honc,5 tấn,2440-672-CA2,Packing Plant,2023-05-09T17:00:00.000Z,,,,Cầu trục Palletizer 2,Packing Plant,vn
+lifting,honc,1 tấn,2440-691-LM1-C1,Packing Plant,2024-04-02T17:00:00.000Z,,,,Tời nâng-Băng tải TRUCK,Packing Plant,vn
+lifting,honc,1 tấn,2440-6F1-LM2-C1,Packing Plant,2024-05-02T17:00:00.000Z,,,,Tời nâng-Băng tải SHIP2,Packing Plant,vn
+lifting,honc,1 tấn,2440-6F1-LM1-C1,Packing Plant,2024-04-02T17:00:00.000Z,,,,Tời nâng-Băng tải SHIP1,Packing Plant,vn
+lifting,honc,5 tấn,2440-D41-EH1,Kiln compressor,13/10/2021,,,,Pa-lăng điện,Production,vn
+lifting,honc,5 tấn,2440-D41-EH2,Cement compressor,2023-06-09T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,5 tấn,2440-EG1-EH1,Power Plant,15/3/2024,,,,Cầu trục,Maintenance,vn
+lifting,honc,10 tấn,2440-G11-CA1,Main Workshop,15/3/2024,,,,Cầu trục,Maintenance,vn
+lifting,honc,10 tấn,2440-G11-CA2,Main Workshop,30/9/2023,,,,Cầu trục,Maintenance,vn
+lifting,honc,12.5 tấn,2440-G12-621,Quarry Workshop,2023-12-09T17:00:00.000Z,,,,Cầu trục,Quarry,vn
+lifting,honc,2 tấn,2440-G12-CA1,Quarry Workshop,22/2/2024,,,,Pa-lăng điện,Quarry,vn
+lifting,honc,15 tấn,2440-L61-EH1,Coal mill-F1,2023-04-09T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,1 tấn,2440-L71-UB1,Rice husk unloader,2023-11-09T17:00:00.000Z,,,,Máy tải trấu,ECO,vn
+lifting,honc,1 tấn,2440-L71-UB2,Rice husk unloader,2024-01-02T17:00:00.000Z,,,,Máy tải trấu,ECO,vn
+lifting,honc,2.5 tấn,2440-L91-EH1,Coal mill-F4,2023-03-09T17:00:00.000Z,,,,Pa-lăng điện,Production,vn
+lifting,honc,16 tấn,2440-V81-CA1,ATS Storage,2023-03-09T17:00:00.000Z,,,,Cầu trục ATS,Production,vn
+lifting,honc,25/5 tấn,2440-Y61-CA1,TG building,15/3/2024,,,,Cầu trục,Production,vn
+lifting,honc,5 tấn,2440-G11-IL4,In plant,2022-11-10T17:00:00.000Z,,,,Pa-lăng điện di động (Tời tím),Maintenance,vn
+lifting,honc,500kg,2440-J52-TC1,Logistics,27/2/2024,,,,Tời tải clinker cho salan,SCN,vn
+lifting,honc,10T,50XA-2856,Logistics,2024-02-05T17:00:00.000Z,,,,Crawler crane,Contractor,vn
+lifting,honc,10T,50XA-3441,Logistics,2024-02-03T17:00:00.000Z,,,,Crawler crane,Contractor,vn
+lifting,honc,6T,50XA-0244,Ecocycle,2024-01-03T17:00:00.000Z,,,,Crawler crane,Contractor,vn
+lifting,honc,50T,50LA-2411,Maintenance,2024-03-03T17:00:00.000Z,,,,Mobile crane,Contractor,vn
+lifting,honc,1 tấn,HONC-MM-KILN-TXD1T-01,KILN GROUP,,,,,TỜI XÍCH ĐIỆN 1 TON,Maintenance,vn
+vehicle,catl,,CATL-VT_50H-16280,,18/07/2024,tri.le@siamcitycement.com,,SCN,Flat truck 16T,SCN - Van An,vn
+vehicle,catl,,CATL-VT_50H-16067,,18/07/2024,tri.le@siamcitycement.com,,SCN,Flat truck 16T,SCN - Van An,vn
+vehicle,catl,,CATL-VT_50H-08353,,2023-10-02T17:00:00.000Z,nghiem.vu@siamcitycement.com,,ECO,Xe tải cẩu,Eco Ops - INSEE,vn
+vehicle,catl,,CATL-VT_50LA-4554,,2023-11-07T17:00:00.000Z,nghiem.vu@siamcitycement.com,,ECO,Xe cẩu bánh lốp,Eco Ops - Viet Long,vn
+vehicle,catl,,CATL-VT_51D-07138,,2024-06-26T17:00:00.000Z,nghiem.vu@siamcitycement.com,,ECO,Xe tải,Eco Ops - Viet Long,vn
+vehicle,catl,,CATL-VT_60C-37390,,19/10/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60P-2673,,13/11/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60H-10759,,27/02/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_50H-22849,,16/03/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_60H-11212,,26/02/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60H-08131,,17/08/2024,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_60H-12345,,2024-08-31T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_50H-35466,,18/03/2024,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_50LD-13631,,2023-06-09T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_52LD-5618,,2024-08-06T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_52LD-5689,,2024-08-07T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_52LD-3944,,2024-07-29T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_50LD-03445,,2024-08-15T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_50LD-01473,,2024-07-29T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_50LD-03476,,2024-08-02T17:00:00.000Z,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt,ECO - INSEE,vn
+vehicle,catl,,CATL-VT_51D-823.88,,14/07/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải Van,Eco Log - CPSG,vn
+vehicle,catl,,CATL-VT_51K_385.40,,18/07/2022,bao.tran@siamcitycement.com,,MNF,Xe 7 chỗ,PM - Thái Dương,vn
+vehicle,catl,,CATL-VT_60H-20952,,13/11/2023,duy.thien.le@siamcitycement.com,,ECO,Xe tải mui bạt (BS cũ: 60P-2673),Eco Log - NGAN HUNG,vn
+vehicle,catl,,CATL-VT_50LD_203.54,,29/07/2024,anil.kumara@siamcitycement.com,,MNF,Xe 7 chỗ,Capex_SBS,vn
+vehicle,catl,,CATL-VT_50G-507.67,,28/04/2023,hieu.vi.nguyen@siamcitycement.com,,MNF,Xe 7 chỗ,PRJ - Quốc Vinh,vn
+vehicle,catl,,CATL-VT_50H-93004,,2023-10-10T17:00:00.000Z,nghiem.vu@siamcitycement.com,,ECO,Xe tải 50H-93004,Eco Ops - Viet Long (BS cũ: VT_51C-68797),vn
+vehicle,honc,,50LD-033.61,,,tan.ton@siamcitycement.com,,Admin,Truck Rescue,INSEE,vn
+vehicle,honc,,68C-083.19,,,thao.duong@siamcitycement.com,,OHS,Truck Fire,INSEE,vn
+vehicle,honc,,68LD-000.43,,,thao.duong@siamcitycement.com,,OHS,Ambulance,INSEE,vn
+vehicle,honc,,68C-030.30,,,nguyen.truong@siamcitycement.com,,Production,PICKUP,INSEE,vn
+vehicle,honc,,68C-031.53,,,nguyen.truong@siamcitycement.com,,Production,PICKUP,INSEE,vn
+vehicle,honc,,68C-085.19,,,nguyen.truong@siamcitycement.com,,ECO,Truck Crane,INSEE,vn
+vehicle,honc,,68C-031.54,,,nguyen.truong@siamcitycement.com,,Quarry,PICKUP,INSEE,vn
+vehicle,honc,,68C-095.15,,,nguyen.truong@siamcitycement.com,,Quarry,PICKUP,INSEE,vn
+vehicle,honc,,68C-035.92,,,nguyen.truong@siamcitycement.com,,Quarry,Truck Fuel,INSEE,vn
+vehicle,honc,,T01,,,nguyen.truong@siamcitycement.com,,Quarry,Dump truck,INSEE,vn
+vehicle,honc,,T02,,,nguyen.truong@siamcitycement.com,,Quarry,Dump truck,INSEE,vn
+vehicle,honc,,T03,,,nguyen.truong@siamcitycement.com,,Quarry,Dump truck,INSEE,vn
+vehicle,honc,,T04,,,nguyen.truong@siamcitycement.com,,Quarry,Dump truck,INSEE,vn
+vehicle,honc,,68C-131.50,,,nguyen.truong@siamcitycement.com,,MM,PICKUP,INSEE,vn
+vehicle,honc,,68C-131.77,,,nguyen.truong@siamcitycement.com,,Elec,PICKUP,INSEE,vn
+vehicle,honc,,51D-626.43,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-625.25,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-627.68,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-628.41,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-628.40,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-628.44,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-626.85,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-733.67,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-728.89,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-732.42,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-170.01,,,thang.trieu@siamcitycement.com,,Quarry,PICKUP,BMJC,vn
+vehicle,honc,,51D-733.94,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,51D-731.23,,,thang.trieu@siamcitycement.com,,Quarry,Dump truck,BMJC,vn
+vehicle,honc,,50CD-001.04,,,thang.trieu@siamcitycement.com,,Quarry,Xe bồn tưới nước,BMJC,vn
+vehicle,honc,,50H-206.46,,,trang.hong.le@siamcitycement.com,,Supply Chain,Ô tô đầu kéo,Hoàng Thạnh,vn
+vehicle,honc,,50H-132.45,,,trang.hong.le@siamcitycement.com,,Supply Chain,Ô tô đầu kéo,Hoàng Thạnh,vn
+vehicle,honc,,51G-658.56,,,tan.ton@siamcitycement.com,,Admin,Car 7 seat,Quoc Vinh,vn
+vehicle,honc,,51H-364.67,,,tan.ton@siamcitycement.com,,Admin,Car 7 seat,Quoc Vinh,vn
+vehicle,honc,,68A-181.58,,,tan.ton@siamcitycement.com,,Admin,Car 7 seat,Quoc Vinh,vn
+vehicle,honc,,51B-19578,,,tan.ton@siamcitycement.com,,Admin,Bus 29 Seat,Thai Duong,vn
+vehicle,honc,,51C-671.95,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,51C-667.03,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,68C-006.08,,,trang.hong.le@siamcitycement.com,,Supply Chain,Truck Small,Thống Nhất,vn
+vehicle,honc,,51C-667.22,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,51C-663.63,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,51C-672.53,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,51C-671.81,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,51C-663.80,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,51C-671.97,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,50H-098.21,,,trang.hong.le@siamcitycement.com,,Supply Chain,Dump truck,Thống Nhất,vn
+vehicle,honc,,68C-014.15,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Thanh Hà,vn
+vehicle,honc,,68H-8897,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Thanh Hà,vn
+vehicle,honc,,68C-137.78,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Thanh Hà,vn
+vehicle,honc,,68C-137.67,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Thanh Hà,vn
+vehicle,honc,,68C-024.68,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Thanh Hà,vn
+vehicle,honc,,68C-157.35,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Thanh Hà,vn
+vehicle,honc,,51D-368.63,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Viet Long,vn
+vehicle,honc,,51C-745.78,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Viet Long,vn
+vehicle,honc,,51D-368.27,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Viet Long,vn
+vehicle,honc,,51D-369.55,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Viet Long,vn
+vehicle,honc,,51D-549.45,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,51D-547.93,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,50H-243.07,,,thai.truong@siamcitycement.com,,Production,Fuel Truck,Viet Long,vn
+vehicle,honc,,51C-988.59,,,thai.truong@siamcitycement.com,,Production,PICKUP,Viet Long,vn
+vehicle,honc,,50H-097.49,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,68C-15761,,,huan.tran@siamcitycement.com,,Thanh Hà,Dump truck,ECO,vn
+vehicle,honc,,68C-15740,,,huan.tran@siamcitycement.com,,Thanh Hà,Dump truck,ECO,vn
+vehicle,honc,,68A-43454,,,thang.trieu@siamcitycement.com,,Quarry,Water Truck,INSEE,vn
+vehicle,honc,,50-E-14585,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,50-E-15571,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,50H-91930,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,50H-90571,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,50H-91854,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,51D-40763,,,huan.tran@siamcitycement.com,,ECO,Dump truck,Viet Long,vn
+vehicle,honc,,51D-62923,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,51D-62690,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,51D-62891,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,51D-54812,,,thai.truong@siamcitycement.com,,Production,Dump truck,Viet Long,vn
+vehicle,honc,,51B-24317,,,tan.ton@siamcitycement.com,,Admin,Bus 29 Seat,Thai Duong,vn
+vehicle,honc,,51B-20193,,,tan.ton@siamcitycement.com,,Admin,Bus 29 Seat,Thai Duong,vn
+vehicle,honc,,51B-24711,,,tan.ton@siamcitycement.com,,Admin,Bus 29 Seat,Thai Duong,vn
+vehicle,honc,,51B-30422,,,tan.ton@siamcitycement.com,,Admin,Bus 29 Seat,Thai Duong,vn
+forklift,honc,3 tấn,2440-I11-4M4,Packing Plant and Palletizer,13/10/2023,,,-,Xe nâng 4,Insee,vn
+forklift,honc,5 tấn,2440-I11-4M8,Production,2023-05-09T17:00:00.000Z,,,-,Xe nâng 8,Insee,vn
+forklift,honc,5 tấn,2440-I11-4M9,Production,2023-05-09T17:00:00.000Z,,,-,Xe nâng 9,Insee,vn
+forklift,honc,2 tấn,2440-I11-4MA,Production,29/9/2023,,,-,Xe nâng điện 10,Insee,vn
+forklift,honc,2 tấn,2440-ECO.FL.02,Ecocycle,29/9/2023,,,-,Xe kẹp phuy,Insee,vn
+forklift,honc,3T,2440-I11-4M5,Production,29/9/2023,,,-,Xe nâng 5,Insee,vn
+forklift,honc,3T,ECO-A8FDJ35-67504,Ecocycle,29/9/2023,,,,Forklift,Ecocycle,vn
+forklift,honc,3T,ECO-CF14J-15703,Ecocycle,29/9/2023,,,,Forklift,Ecocycle,vn
+forklift,honc,3T,ECO-CF51-13438,Ecocycle,29/9/2023,,,,Forklift,Ecocycle,vn
+forklift,honc,3T,MM-A8FDJ35-67580,Maintenance,29/9/2023,,,,Forklift,Maintenance,vn
+forklift,honc,3T,PRO-F14E-13939,Production,29/9/2023,,,,Forklift,Production,vn
+lifting,thiv,58T,THIV-561-CA1,Cement Mill,2024-08-04T17:00:00.000Z,,,,Cầu Trục,INSEE,vn
+lifting,thiv,1.6T,THIV-561.EH1,Cement Mill,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,0.5T,THIV-561.EH2,Bag filter 561-BF1,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,3.2T,THIV-491-EH1,Silo clinker,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,5T,THIV-591.EH1,Silo Cement,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,"3,2T",THIV-661.EH1,Packing Plant,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,1.6T,THIV-661.EH2,Packing Plant,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,10T,THIV-WS-EH1,Main Workshop,2024-08-04T17:00:00.000Z,,,,Cầu Trục,INSEE,vn
+lifting,thiv,3T,THIV-651-EH1,Jumbo,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,3T,THIV-651-EH2,Jumbo,2024-08-04T17:00:00.000Z,,,,Tời điện,INSEE,vn
+lifting,thiv,7.5 T,THIV-691.LM1,Packing Plant,2024-08-04T17:00:00.000Z,,,,Truck Loader 1,INSEE,vn
+lifting,thiv,10T,THIV-6F1-LM1,Bag loader Plant,2024-08-04T17:00:00.000Z,,,,Barge Loader 1,INSEE,vn
+lifting,thiv,250 Kg,THIV-621-LA1,Bulk loader 1,2024-08-04T17:00:00.000Z,,,,Bulk loader 1,INSEE,vn
+lifting,thiv,250 Kg,THIV-621-LA2,Bulk loader 2,2024-08-04T17:00:00.000Z,,,,Bulk loader 2,INSEE,vn
+lifting,thiv,"0,5T",THIV-691-PA1,Packing Plant,2024-08-04T17:00:00.000Z,,,,Autotruck,INSEE,vn
+lifting,thiv,5T,THIV-6F1-CA1,Barge Loader,2024-08-04T17:00:00.000Z,,,,Overhead creane,INSEE,vn
+lifting,thiv,1 tấn,THIV-K91EH1,Butket K91-BE1,2024-08-04T17:00:00.000Z,,,,Tời gàu nâng,INSEE,vn
+lifting,thiv,250 kg,THIV-6U1-LA1.B1,Bulk loader 3,2024-08-04T17:00:00.000Z,,,,Bulk loader 3,INSEE,vn
+liftinggear,thiv,"4,5T",THIV-SB-4.5T-02,Overhead crane,2025-04-30T17:00:00.000Z,,,,Lifting equipment,INSEE,vn
+liftinggear,thiv,"4,5T",THIV-SB-4.5T-03,Overhead crane,2025-04-30T17:00:00.000Z,,,,Lifting equipment,INSEE,vn
+vehicle,thiv,,THIV-50F-04896,,,thanh.thi.trinh@siamcitycement.com,,Admin,Shuttle Bus,Green Leaf,vn
+vehicle,thiv,,THIV-51D-33749,,,son.duong@siamcitycement.com,,Process,Dumptruck,Hoàng Thạnh,vn
+vehicle,thiv,,THIV-51D-654.90,,,thanh.thi.trinh@siamcitycement.com,,Admin,Shuttle Bus,Green Leaf,vn
+vehicle,thiv,,THIV-50H-11582,,,vu.van.nguyen@siamcitycement.com,,SCN,Side Wall Truck,Van An,vn
+vehicle,thiv,,THIV-50H-330.16,,,thanh.thi.trinh@siamcitycement.com,,Admin,Shuttle Bus,Green Leaf,vn
+vehicle,thiv,,THIV-50XA-3462,,,son.duong@siamcitycement.com,,Process,Dumptruck,Hoàng Thạnh,vn
+vehicle,thiv,,THIV-51D-33636,,,son.duong@siamcitycement.com,,Process,Dumptruck,Hoàng Thạnh,vn
+vehicle,thiv,,THIV-50H-11534,,,vu.van.nguyen@siamcitycement.com,,SCN,Side Wall Truck,Van An,vn
+vehicle,thiv,,THIV-50F-03604,,,thanh.thi.trinh@siamcitycement.com,,Admin,Shuttle Bus,Green Leaf,vn
+vehicle,thiv,,THIV-51D-47158,,,son.duong@siamcitycement.com,,Process,Dumptruck,Hoàng Thạnh,vn
+vehicle,thiv,,THIV-51D-47002,,,son.duong@siamcitycement.com,,Process,Dumptruck,Hoàng Thạnh,vn
+mobile,honc,,50XA-3587,,,thang.trieu@siamcitycement.com,,Quarry,Excavator,BMJC,vn
+mobile,honc,,50LA-4385,,,thang.trieu@siamcitycement.com,,Quarry,Wheel loader,BMJC,vn
+mobile,honc,,50XA-3110,,,huan.tran@siamcitycement.com,,ECO,Excavator,Thống Nhất,vn
+mobile,honc,,50LA-4451,,,huan.tran@siamcitycement.com,,ECO,Excavator,Thống Nhất,vn
+mobile,honc,,50LA-4790,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-4912,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,Road-Sweeper-MM,,,S.le@siamcitycement.com,,Mechanical Maintenance,Sweeper,INSEE,vn
+mobile,honc,,50CD-00984,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50CD-00964,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50CD-00914,,,thai.truong@siamcitycement.com,,Production,Excavator,Viet Long,vn
+mobile,honc,,JTF21867,,,nguyen.truong@siamcitycement.com,,Quarry,Driller Furu 02,INSEE,vn
+mobile,honc,,51LA-2516,,,nguyen.truong@siamcitycement.com,,Quarry,Wheel loader,INSEE,vn
+mobile,honc,,50XA-3278,,,nguyen.truong@siamcitycement.com,,Quarry,Excavator,INSEE,vn
+mobile,honc,,50XA-6068,,,thang.trieu@siamcitycement.com,,Quarry,Excavator,BMJC,vn
+mobile,honc,,50XA-3873,,,thang.trieu@siamcitycement.com,,Quarry,Bull Dozer,BMJC,vn
+mobile,honc,,50XA-6416,,,thang.trieu@siamcitycement.com,,Quarry,Excavator,BMJC,vn
+mobile,honc,,50LA-3654,,,huan.tran@siamcitycement.com,,ECO,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-4072,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-3656,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-4913,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-4904,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50CD-00930,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50CD-00939,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,T611332,,,nguyen.truong@siamcitycement.com,,Quarry,Excavator PC 800,INSEE,vn
+mobile,honc,,JTF21773,,,nguyen.truong@siamcitycement.com,,Quarry,Driller Furu 03,INSEE,vn
+mobile,honc,,50XA-3055,,,nguyen.truong@siamcitycement.com,,Quarry,Excavator,INSEE,vn
+mobile,honc,,50XA-6067,,,thang.trieu@siamcitycement.com,,Quarry,Excavator,BMJC,vn
+mobile,honc,,50LA-3251,,,trang.hong.le@siamcitycement.com,,Supply Chain,Bobcat,Thống Nhất,vn
+mobile,honc,,50LA-3653,,,huan.tran@siamcitycement.com,,ECO,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-3789,,,huan.tran@siamcitycement.com,,ECO,Wheel loader,Viet Long,vn
+mobile,honc,,50CD-00926,,,thai.truong@siamcitycement.com,,Production,Excavator,Viet Long,vn
+mobile,honc,,68LA-0227,,,nguyen.truong@siamcitycement.com,,ECO,Wheel loader,INSEE,vn
+mobile,honc,,68LA-0226,,,nguyen.truong@siamcitycement.com,,ECO,Excavator,INSEE,vn
+mobile,honc,,JTF21869,,,nguyen.truong@siamcitycement.com,,Quarry,Driller Furu 01,INSEE,vn
+mobile,honc,,68C-033.01,,,nguyen.truong@siamcitycement.com,,Quarry,Sweeper,INSEE,vn
+mobile,honc,,51LA-2515,,,nguyen.truong@siamcitycement.com,,Quarry,Wheel loader,INSEE,vn
+mobile,honc,,50XA-3054,,,nguyen.truong@siamcitycement.com,,Quarry,Bull Dozer,INSEE,vn
+mobile,honc,,Cherry-Picker,,,nguyen.truong@siamcitycement.com,,Mechanical Maintenance,Cherry-Picker,INSEE,vn
+mobile,honc,,50XA-4734,,,thang.trieu@siamcitycement.com,,Quarry,Excavator,BMJC,vn
+mobile,honc,,50XA-3404,,,thang.trieu@siamcitycement.com,,Quarry,Driller,BMJC,vn
+mobile,honc,,50LA-3061,,,thang.trieu@siamcitycement.com,,Quarry,Wheel loader,BMJC,vn
+mobile,honc,,50LA-3709,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50LA-4791,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+mobile,honc,,50XA-2395,,,thai.truong@siamcitycement.com,,Production,Excavator,Viet Long,vn
+mobile,honc,,50XA-7064,,,thai.truong@siamcitycement.com,,Production,Excavator,Viet Long,vn
+mobile,honc,,50LA-4899,,,huan.tran@siamcitycement.com,,ECO,Wheel loader,Van An,vn
+mobile,honc,,50LA-5030,,,huan.tran@siamcitycement.com,,ECO,Wheel loader,Van An,vn
+mobile,honc,,50CD-00944,,,thai.truong@siamcitycement.com,,Production,Wheel loader,Viet Long,vn
+lifting,nhon,12T,NHON-VTC-12T-01,NHON-Jetty,,,,,Cáp thép 12T,Huu Thanh,vn
+lifting,nhon,12T,NHON-VTC-3170,NHON-Jetty,,,,,Ma ní 12T,Huu Thanh,vn
+lifting,nhon,80T,NHON-50XA-3638,NHON-Jetty,,,,,Cần trục bánh xích,Huu Thanh,vn
+lifting,nhon,15T,NHON-VTC-3161,NHON-Jetty,,,,,Cáp thép 15T,Huu Thanh,vn
+lifting,nhon,15T,NHON-VTC-3162,NHON-Jetty,,,,,Cáp thép 15T,Huu Thanh,vn
+lifting,nhon,15T,NHON-VTC-3163,NHON-Jetty,,,,,Cáp thép 15T,Huu Thanh,vn
+lifting,nhon,15T,NHON-VTC-3164,NHON-Jetty,,,,,Cáp thép 15T,Huu Thanh,vn
+lifting,nhon,12T,NHON-VTC-12T-02,NHON-Jetty,,,,,Cáp thép 12T,Huu Thanh,vn
+lifting,nhon,90T,NHON-50XA-5525,NHON-Jetty,,,,,Cần trục bánh xích,Huu Thanh,vn
+lifting,nhon,17T,NHON-VTC-3166,NHON-Jetty,,,,,Ma ní 17T,Huu Thanh,vn
+lifting,nhon,17T,NHON-VTC-3167,NHON-Jetty,,,,,Ma ní 17T,Huu Thanh,vn
+lifting,nhon,12T,NHON-VTC-3169,NHON-Jetty,,,,,Ma ní 12T,Huu Thanh,vn

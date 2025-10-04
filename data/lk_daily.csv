@@ -1,0 +1,35 @@
+﻿area,site,department,status,country,holder,type,details,remark,id,kind,bu,email
+Quarry ,quarry,Transport,,srilanka,DIMO,car,,,254-1007,Double Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Transport,,srilanka,DIMO,car,,,DAH-1022,Single Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Service cab,,srilanka,DIMO,car,,,DAE-6539,Single Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Service cab,,srilanka,UTE,car,,,PT-6408,Single CAB,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,passenger transport,,srilanka,NEM,car,,,LO-1735,Crew Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,passenger transport,,srilanka,NEM,car,,,EJ-0020,Crew Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Service vehicle,,srilanka,ISURU,car,,,NCDAF2566,pickup truck,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Service vehicle,,srilanka,ISURU,car,,,325-2694,pickup truck,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Project support vehicle,,srilanka,ISURU,car,,,HT-3822,pickup truck,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Project support vehicle,,srilanka,ISURU,car,,,LH-1559,pickup truck,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Emergency Transport,,srilanka,ISURU,car,,,GI-2035,Crew Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Service Cab,,srilanka,Sinha,car,,,50-0399,Crew Cab,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Quarry Pit Transport,,srilanka,Transport Service,car,,,NCPD-2820,CAB,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Passenger Transport,,srilanka,Transport Service,car,,,NWPF-4143,VAN,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,Passenger Transport,,srilanka,Transport Service,car,,,NWPI-5423,VAN,lk,sandun.kodithuwakku@siamcitycement.com
+Quarry ,quarry,passenger transport,,srilanka,NEM,car,,,GD-3114,VAN,lk,sandun.kodithuwakku@siamcitycement.com
+PCW,pcw,Main-Stores,,srilanka,,forklift,,,PCW-Main-Stores,Fork Lift,lk,
+PCW,pcw,Ecocycle,,srilanka,,forklift,,,PCW-Tasma-01-TCM,Fork Lift,lk,
+PCW,pcw,Production,,srilanka,,forklift,,,PCW-Tasma-02-KOMATSU,Fork Lift,lk,
+PCW,pcw,Ecocycle,,srilanka,,forklift,,,PCW-Aponsu-01-CAT,Fork Lift,lk,
+PCW,pcw,Ecocycle,,srilanka,,forklift,,,PCW-Aponsu-02-TOYOTA,Fork Lift,lk,
+PCW,pcw,Ecocycle,,srilanka,,forklift,,,PCW-Aponsu-03-KOMATSU,Fork Lift,lk,
+PCW,pcw,Maintance,,srilanka,,forklift,,,PCW-ST-01,Fork Lift,lk,
+PCW,pcw,PackHouse,,srilanka,,forklift,,,PCW-PackHouse,Fork Lift,lk,
+PCW,pcw,LSRT,,srilanka,,forklift,,,PCW-LSRT-01,Fork Lift,lk,
+PCW,pcw,Logistics,,srilanka,,forklift,,,PCW-PWH-SOCMA-50-1,Fork Lift,lk,
+PCW,pcw,Logistics,,srilanka,,forklift,,,PCW-PWH-SOCMA-50-2,Fork Lift,lk,
+PCW,pcw,Logistics,,srilanka,,forklift,,,PCW-PWH-CAT45-1,Fork Lift,lk,
+PCW,pcw,Logistics,,srilanka,,forklift,,,PCW-PWH-CAT45-2,Fork Lift,lk,
+PCW,pcw,Logistics,,srilanka,,forklift,,,PCW-PWH-CAT45-3,Fork Lift,lk,
+Quarry,pcw,DIMO,,srilanka,,forklift,,,PCW-Quarry-KOMATSU-01,Fork Lift,lk,
+PCW,pcw,Production,,srilanka,,forklift,,,PCW-Sanu-Toyota,Fork Lift,lk,
+Logisitic ,elc,Buddika,,srilanka,,forklift,,,ELC-ELCFLKD01,Forklift 5 Ton - ZA 8685,lk,
+Logisitic ,elc,Buddika,,srilanka,,forklift,,,ELC-ELCFLPL01,Forklift 5 Ton - ZA 8685,lk,

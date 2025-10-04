@@ -1,0 +1,3 @@
+user_id,first_name,last_name,email,age,city,country,join_date,is_active,subscription_type
+USR001,John,Doe,john.doe@example.com,28,New York,USA,2023-01-15,true,premium
+USR002,Jane,Smith,jane.smith@example.com,32,London,UK,2023-02-20,true,basic

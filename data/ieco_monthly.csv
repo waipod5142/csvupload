@@ -1,0 +1,307 @@
+﻿site,type,country,bu,id,kind,department,area,details,place,location
+cho,aed,thailand,th,CHO-AED-CHB-No.01,AED,,IECO Chonburi,Semi-Automatic external defibrillator,,
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-001,Fire Hydrant,,,,กำแพงข้างศาล,IECO Chonburi
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-002,Fire Hydrant,,,,กำแพงฝั่ง GLOW,IECO Chonburi
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-003, Fire Hose Reel,,,,Cold Cut,IECO Chonburi
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-004, Fire Hose Reel,,,,Exit Back DECON,IECO Chonburi
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-005,Fire Hydrant,,,,รั้วหลังโรงล้าง,IECO Chonburi
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-006,Fire Hydrant,,,,กำแพงฝั่ง WMS,IECO Chonburi
+cho,hydrant,thailand,th,CHO-FHC-IECO-CHB-007, Fire Hose Reel,,,,ในโรงล้างด้านหน้า,IECO Chonburi
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-001,แบบแขวน,,Entrance-Exit office F1,,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-002,แบบแขวน,,ทางเดินห้องโถง F1,,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-003,แบบแขวน,,Canteen Office,,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-004,แบบแขวน,,Exit Back Office F1,,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-005,แบบกล่องยึดติดผนัง,,ทางลงบันได F2,,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-006,แบบแขวน,,ทางเดินหน้าห้องน้ำ F2,,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-007,แบบแขวน,,Exit Office F2 (ฝั่งตราชั่ง),,IECO Chonburi,
+cho,fireexit,thailand,th,CHO-FP-FXL-CHB-008,แบบกล่องยึดติดผนัง,,Exit Back DECON,,IECO Chonburi,
+cho,extinguisher,thailand,th,CHO-FE-CHB-01,Dry Chemical,,Entrance-Exit Office F1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-02,CO2,,Canteen Office,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-03,CO2,,ทางลงบันได ชั้น 2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-04,Dry Chemical,,หน้าห้องน้ำ ชั้น 2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-05,CO2,,หน้าห้อง Server ชั้น 2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-06,CO2,,Emergency Exit ตราชั่งชั้น 2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-07,CO2,,Lab R.1 No.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-08,CO2,,Lab R.1 No.2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-09,CO2,,Lab R.2 No.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-10,Dry Chemical,,ห้องเก็บสารเคมีชั่วคราว,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-11,CO2,,MDB Room No.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-12,CO2,,MDB Room No.2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-13,Foam,,ข้างห้อง Fuel Tank NO.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-14,Foam,,ข้างห้อง Fuel Tank NO.2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-15,Foam,,ข้างห้อง Fuel Tank NO.3,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-16,Foam,,ข้างห้อง Fuel Tank NO.4,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-17,Dry Chemical,,ริมกำแพงหลังโรงล้าง,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-18,Dry Chemical,,ข้างห้อง Fire Fuel,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-19,Dry Chemical,,ข้างห้อง Fire pump,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-20,Dry Chemical,,กำแพงฝั่ง GLOW,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-21,Dry Chemical,,กำแพงข้างศาล,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-22,Dry Chemical,,ป้อม รปภ.,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-23,Dry Chemical,,Control Room ชั้น2 โรงล้าง,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-24,Dry Chemical,,Exit Back Decon yard,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-25,CO2,,หลัง HPWJ Dome.2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-26,Dry Chemical,,กำแพงฝั่ง WMS,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-27,Dry Chemical,,Cold Cut โรงล้าง,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-28,Dry Chemical,,Exit Side Decon Yard,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-29,Dry Chemical,,Forklift No.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-30,Dry Chemical,,ข้าง HPWJ Dome.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-31,Dry Chemical,,Workshop,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-32,Dry Chemical,,FAB Temporary Area No.1,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-33,Dry Chemical,,FAB Temporary Area No.2,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-34,Dry Chemical,,ประตูหน้าโรงล้าง,,,IECO Chonburi
+cho,extinguisher,thailand,th,CHO-FE-CHB-35,Dry Chemical,,Store Room,,,IECO Chonburi
+cho,shower,thailand,th,CHO-ES-CHB-01,Eye and Shower,,,,Exit Side Decon Yard,IECO 
+cho,emergency,thailand,th,CHO-FP-EL-CHB-01,Emergency Light,,,,,ทางเข้าด้านหน้า Office F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-02,Emergency Light,,,,,ทางเดิน Office F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-03,Emergency Light,,,,,หน้าห้องประชุม F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-04,Emergency Light,,,,,ในห้องประชุม F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-05,Emergency Light,,,,,โต๊ะ Safety
+cho,emergency,thailand,th,CHO-FP-EL-CHB-06,Emergency Light,,,,,ห้องน้ำชาย Office F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-07,Emergency Light,,,,,ห้องน้ำหญิง Office F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-08,Emergency Light,,,,,ห้องครัว Office F1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-09,Emergency Light,,,,,ห้องทำงาน R1 F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-10,Emergency Light,,,,,ทางเดิน Office F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-11,Emergency Light,,,,,Server Room F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-12,Emergency Light,,,,,ห้องน้ำชาย Office F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-13,Emergency Light,,,,,ห้องน้ำหญิง Office F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-14,Emergency Light,,,,,ประตูทางออก F2 (ฝั่งตราชั่ง)
+cho,emergency,thailand,th,CHO-FP-EL-CHB-15,Emergency Light,,,,,Lab R1 F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-16,Emergency Light,,,,,Lab R2 F2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-17,Emergency Light,,,,,Workshop
+cho,emergency,thailand,th,CHO-FP-EL-CHB-18,Emergency Light,,,,,ห้องเก็บเครื่องมือ Workshop
+cho,emergency,thailand,th,CHO-FP-EL-CHB-19,Emergency Light,,,,,DECON Yard No.1 (Front L)
+cho,emergency,thailand,th,CHO-FP-EL-CHB-20,Emergency Light,,,,,DECON Yard No.2 (Front R)
+cho,emergency,thailand,th,CHO-FP-EL-CHB-21,Emergency Light,,,,,DECON Yard No.3 (Cold Cut)
+cho,emergency,thailand,th,CHO-FP-EL-CHB-22,Emergency Light,,,,,DECON Yard No.4 (Side Exit)
+cho,emergency,thailand,th,CHO-FP-EL-CHB-23,Emergency Light,,,,,DECON Yard No.5 (Back)
+cho,emergency,thailand,th,CHO-FP-EL-CHB-24,Emergency Light,,,,,ทางเดินขึ้นไปชั้น 2 OPT control
+cho,emergency,thailand,th,CHO-FP-EL-CHB-25,Emergency Light,,,,,Opt Control Room
+cho,emergency,thailand,th,CHO-FP-EL-CHB-26,Emergency Light,,,,,ห้องน้ำชาย R.1
+cho,emergency,thailand,th,CHO-FP-EL-CHB-27,Emergency Light,,,,,ห้องน้ำชาย R.2
+cho,emergency,thailand,th,CHO-FP-EL-CHB-28,Emergency Light,,,,,MDB Room
+cho,emergency,thailand,th,CHO-FP-EL-CHB-29,Emergency Light,,,,,Fire Pump
+cho,emergency,thailand,th,CHO-FP-EL-CHB-30,Emergency Light,,,,,Fire Pump Fule Room
+cho,emergency,thailand,th,CHO-FP-EL-CHB-31,Emergency Light,,,,,Chemical Storage
+srb,extinguisher,thailand,th,SRB-FE-001,Dry chemical,,Waste Management,,ใน Canteen,
+srb,extinguisher,thailand,th,SRB-FE-002,Dry chemical,,Waste Management,,ในครัว หลังCanteen,
+srb,extinguisher,thailand,th,SRB-FE-003,Dry chemical,,Waste Management,,ห้องน้ำ Canteen,
+srb,extinguisher,thailand,th,SRB-FE-004,Dry chemical,,Waste Management,,ในตู้ Fire hose,
+srb,extinguisher,thailand,th,SRB-FE-005,Dry chemical,,Waste Management,,ชั้น 1 โต๊ะทำงาน,
+srb,extinguisher,thailand,th,SRB-FE-006,Dry chemical,,Waste Management,,ชั้น 1 หน้าห้องน้ำ,
+srb,extinguisher,thailand,th,SRB-FE-007,Dry chemical,,Waste Management,,ชั้น 2 ทางขึ้นบันไดด้านหน้า,
+srb,extinguisher,thailand,th,SRB-FE-008,Dry chemical,,Waste Management,,ชั้น 2 หน้าตู้ดับเพลิงด้านหลัง,
+srb,extinguisher,thailand,th,SRB-FE-009,Dry chemical,,Waste Management,,ชั้น 3 ทางขึ้นบันไดด้านหน้า,
+srb,extinguisher,thailand,th,SRB-FE-010,Dry chemical,,Waste Management,,ชั้น 3 หน้าตู้ดับเพลิงด้านหลัง,
+srb,extinguisher,thailand,th,SRB-FE-011,Dry chemical,,Waste Management,,หน้าห้อง Lab,
+srb,extinguisher,thailand,th,SRB-FE-012,Dry chemical,,Waste Management,,ในห้องเตรียมตัวอย่าง,
+srb,extinguisher,thailand,th,SRB-FE-013,Dry chemical,,Waste Management,,ใน Office Lab,
+srb,extinguisher,thailand,th,SRB-FE-014,ฮาโลตรอน,,Waste Management,,หน้าห้อง ICP,
+srb,extinguisher,thailand,th,SRB-FE-015,ฮาโลตรอน,,Waste Management,,หน้าห้อง Electric Control,
+srb,extinguisher,thailand,th,SRB-FE-016,ฮาโลตรอน,,Waste Management,,Quick test room,
+srb,extinguisher,thailand,th,SRB-FE-017,ฮาโลตรอน,,Waste Management,,ICP room,
+srb,extinguisher,thailand,th,SRB-FE-018,ฮาโลตรอน,,Waste Management,,Ms room,
+srb,extinguisher,thailand,th,SRB-FE-020,Dry chemical,,Waste Management,,Waste storage room,
+srb,extinguisher,thailand,th,SRB-FE-021,Dry chemical,,Waste Management,,หน้าห้อง Weight In,
+srb,extinguisher,thailand,th,SRB-FE-022,ฮาโลตรอน,,Waste Management,,ในห้องControl Weight In,
+srb,extinguisher,thailand,th,SRB-FE-023,Dry chemical,,Waste Management,,บน Platform เก็บตัวอย่าง,
+srb,extinguisher,thailand,th,SRB-FE-024,Dry chemical,,Waste Management,,บน Platform เก็บตัวอย่าง,
+srb,extinguisher,thailand,th,SRB-FE-026,Dry chemical,,Waste Management,,หน้า Office Solid,
+srb,extinguisher,thailand,th,SRB-FE-028,CO2,,Waste Management,,หน้า Elec room ชั้น 1,
+srb,extinguisher,thailand,th,SRB-FE-029,CO2,,Waste Management,,หน้า Elec room ชั้น 2,
+srb,extinguisher,thailand,th,SRB-FE-030,Dry chemical,,Waste Management,,ข้าง Spray Gun 1,
+srb,extinguisher,thailand,th,SRB-FE-031,Dry chemical,,Waste Management,,ข้าง Spray Gun 2,
+srb,extinguisher,thailand,th,SRB-FE-032,Dry chemical,,Waste Management,,ในตู้ดับเพลิง FHC-020,
+srb,extinguisher,thailand,th,SRB-FE-040,Dry chemical,,Waste Management,,ผนังด้านข้าง 6,
+srb,extinguisher,thailand,th,SRB-FE-041,Dry chemical,,Waste Management,,ชั้น 2 หน้าOffice PM,
+srb,extinguisher,thailand,th,SRB-FE-042,Dry chemical,,Waste Management,,หน้าห้องเก็บน้ำมัน,
+srb,extinguisher,thailand,th,SRB-FE-043,Dry chemical,,Waste Management,,หน้าห้องเก็บน้ำมัน,
+srb,extinguisher,thailand,th,SRB-FE-044,Dry chemical,,Waste Management,,หน้า Office Staff room,
+srb,extinguisher,thailand,th,SRB-FE-045,CO2,,Waste Management,,ห้องSub1,
+srb,extinguisher,thailand,th,SRB-FE-046,CO2,,Waste Management,,ห้องSub2,
+srb,extinguisher,thailand,th,SRB-FE-048,Dry chemical,,Waste Management,,ข้างห้อง Control 1,
+srb,extinguisher,thailand,th,SRB-FE-049,Dry chemical,,Waste Management,,ข้างห้อง Control 2,
+srb,extinguisher,thailand,th,SRB-FE-050,Dry chemical,,Waste Management,,Pump 1,
+srb,extinguisher,thailand,th,SRB-FE-053,Dry chemical,,Waste Management,,บ่อ Sludge 2,
+srb,extinguisher,thailand,th,SRB-FE-054,Dry chemical,,Waste Management,,บ่อ Sludge 3,
+srb,extinguisher,thailand,th,SRB-FE-055,Dry chemical,,Waste Management,,บ่อ Sludge 4,
+srb,extinguisher,thailand,th,SRB-FE-056,Dry chemical,,Waste Management,,บ่อ Sludge 5,
+srb,extinguisher,thailand,th,SRB-FE-057,Dry chemical,,Waste Management,,บ่อ Sludge 6,
+srb,extinguisher,thailand,th,SRB-FE-058,Dry chemical,,Waste Management,,บ่อ Sludge 7,
+srb,extinguisher,thailand,th,SRB-FE-064,Dry chemical,,Waste Management,,หน้าห้องเก็บของ Canteen,
+srb,extinguisher,thailand,th,SRB-FE-066,Dry chemical,,Waste Management,,ห้อง Control room LBU,
+srb,extinguisher,thailand,th,SRB-FE-067,Dry chemical,,Waste Management,,ข้างห้องเก็บสารเคมี LBU,
+srb,extinguisher,thailand,th,SRB-FE-068,CO2,,Waste Management,,หน้าห้อง Sub,
+srb,extinguisher,thailand,th,SRB-FE-069,Dry chemical,,Waste Management,,ในอาคาร Solid,
+srb,extinguisher,thailand,th,SRB-FE-072,Dry chemical,,Waste Management,,ทางขึ้น Office ชั้น 3 ไปดาดฟ้า,
+srb,extinguisher,thailand,th,SRB-FE-073,CO2,,Waste Management,,หน้าห้อง Sub S1,
+srb,extinguisher,thailand,th,SRB-FE-074,Dry chemical,,Waste Management,,อาคาร Storage,
+srb,extinguisher,thailand,th,SRB-FE-075,Dry chemical,,Waste Management,,อาคาร Storage,
+srb,extinguisher,thailand,th,SRB-FE-076,Dry chemical,,Waste Management,,อาคาร Storage,
+srb,extinguisher,thailand,th,SRB-FE-077,Dry chemical,,Waste Management,,อาคาร Storage,
+srb,extinguisher,thailand,th,SRB-FE-078,Dry chemical,,Waste Management,,อาคาร Storage,
+srb,extinguisher,thailand,th,SRB-FE-079,Dry chemical,,Waste Management,,อาคาร Storage,
+srb,extinguisher,thailand,th,SRB-FE-081,Dry chemical,,Waste Management,,ป้อม รปภ.ด้านหน้า,
+srb,extinguisher,thailand,th,SRB-FE-082,Dry chemical,,Waste Management,,ห้องน้ำมัน Fire Pump,
+srb,extinguisher,thailand,th,SRB-FE-083,Dry chemical,,Waste Management,,ห้องน้ำมัน PM,
+srb,extinguisher,thailand,th,SRB-FE-084,Dry chemical,,Waste Management,,ห้องน้ำมัน PM,
+srb,extinguisher,thailand,th,SRB-FE-085,ฮาโลตรอน,,Waste Management,,Solar อาคารsolid,
+srb,extinguisher,thailand,th,SRB-FE-086,ฮาโลตรอน,,Waste Management,,Solar อาคารsolid,
+srb,extinguisher,thailand,th,SRB-FE-087,Dry chemical,,Waste Management,,ถังสำหรับงาน Hot Work1,
+srb,extinguisher,thailand,th,SRB-FE-088,Dry chemical,,Waste Management,,ถังสำหรับงาน Hot Work2,
+srb,extinguisher,thailand,th,SRB-FE-089,Dry chemical,,Waste Management,,Solar อาคารstorage,
+srb,extinguisher,thailand,th,SRB-FE-090,Dry chemical,,Waste Management,,Solar อาคารstorage,
+srb,extinguisher,thailand,th,SRB-FE-094,Dry chemical,,Waste Management,,ห้องชั่ง WO,
+srb,extinguisher,thailand,th,SRB-FE-095,Dry chemical,,Waste Management,,ห้อง Fire Pump,
+srb,extinguisher,thailand,th,SRB-FE-019,ฮาโลตรอน,,Waste Management,,ห้อง UPS,
+srb,extinguisher,thailand,th,SRB-FE-096,Foam,,Waste Management,,ห้องน้ำมัน PM,
+srb,extinguisher,thailand,th,SRB-FE-097,Foam,,Waste Management,,ห้องน้ำมัน PM,
+srb,extinguisher,thailand,th,SRB-FE-098,Foam,,Waste Management,,หน้าโหลดใหญ่,
+srb,extinguisher,thailand,th,SRB-FE-099,Foam,,Waste Management,,หน้าโรงถัง,
+srb,extinguisher,thailand,th,SRB-FE-100,Foam,,Waste Management,,ห้อง Fire Pump,
+srb,fallarrest,thailand,th,SRB-FA-SRB-01,Fall arrest (x ton),,LAB,,IECO,SABURI
+srb,fallarrest,thailand,th,SRB-FA-SRB-02,Fall arrest (x ton),,LAB,,IECO,SABURI
+srb,fallarrest,thailand,th,SRB-FA-SRB-03,Fall arrest (x ton),,LAB,,IECO,SABURI
+srb,fallarrest,thailand,th,SRB-FA-SRB-04,Fall arrest (x ton),,LAB,,IECO,SABURI
+srb,fallarrest,thailand,th,SRB-FA-SRB-05,Fall arrest (x ton),,Solid,,IECO,SABURI
+srb,firepump,thailand,th,SRB-FP-SRB-01,Fire pump,,Solid,,IECO,SABURI
+srb,firepump,thailand,th,SRB-FP-SRB-02,Fire pump,,Solid,,IECO,SABURI
+ray,emergency,thailand,th,RAY-EML-OFF-01,Emergency Light,,,,Office 2 หน้าห้องหมอนทอง,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-OFF-02,Emergency Light,,,,Office 2 หน้าทางขึ้นลงบันได,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-OFF-03,Emergency Light,,,,Office 2 MKT&Sale,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-OFF-04,Emergency Light,,,,Office 2 โต๊ะ QHSE(SH&E),IECO Rayong
+ray,emergency,thailand,th,RAY-EML-OFF-05,Emergency Light,,,,Office 1 Lab,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-06,Emergency Light,,,,Office 1 WH,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-07,Emergency Light,,,,หน้าบันไดทางขั้นชั้นลอย WH-A,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-08,Emergency Light,,,,WH-B ประตูหลังฝั่ง WH-A,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-09,Emergency Light,,,,WH-B ประตูหน้าฝั่ง WH-A,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-10,Emergency Light,,,,WH-B ประตูหลังฝั่งจุดพักคอย,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-11,Emergency Light,,,,WH-B ประตูหน้าฝั่งจุดพักคอย,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-12,Emergency Light,,,,WH-C ประตูหลังฝั่งลานคลีน,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-13,Emergency Light,,,,WH-C ประตูหลังฝั่งบ่อน้ำ,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-14,Emergency Light,,,,WH-C ประตูหน้าฝั่งลานคลีน,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-WH-15,Emergency Light,,,,WH-C ประตูหน้าฝั่งบ่อน้ำ,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-MN-16,Emergency Light,,,,ห้องไฟฟ้า,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-MN-17,Emergency Light,,,,สำนักงาน,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-MN-18,Emergency Light,,,,Calibration,IECO Rayong
+ray,emergency,thailand,th,RAY-EML-MN-19,Emergency Light,,,,Balance,IECO Rayong
+skl,emergency,thailand,th,SKL-FP-EL-SKL-01,Emergency Light,,,,Block 1 ด้านหน้า,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-02,Emergency Light,,,,Block 1 ด้านหลัง,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-03,Emergency Light,,,,Block 2 ด้านหน้า,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-04,Emergency Light,,,,Block 3 ด้านหน้า,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-05,Emergency Light,,,,Block 4 ด้านหน้า,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-06,Emergency Light,,,,Block 4 ด้านหลัง,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-07,Emergency Light,,,,ห้องประชุม ,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-08,Emergency Light,,,,Office 1,IECO Songkhla
+skl,emergency,thailand,th,SKL-FP-EL-SKL-09,Emergency Light,,,,Office 2,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-01,Dry chemical,,block1 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-02,Dry chemical,,block1 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-03,Dry chemical,,block1 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-04,Dry chemical,,block1 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-05,Dry chemical,,block1 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-06,Dry chemical,,block1 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-07,Dry chemical,,block1 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-08,Dry chemical,,block1 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-09,Dry chemical,,block2-3 ด้านหน้า,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-10,Dry chemical,,block2 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-11,Dry chemical,,block2 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-12,Dry chemical,,block2 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-13,Dry chemical,,block2 ด้านหลัง,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-14,Dry chemical,,block2-3 ด้านหลัง,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-15,Dry chemical,,block2-3 ด้านหลัง,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-16,Dry chemical,,block2-3 ด้านหลัง,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-17,Dry chemical,,block3 ด้านหลัง,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-18,Dry chemical,,block3 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-19,Dry chemical,,block3 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-20,Dry chemical,,block3 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-21,Dry chemical,,block4 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-22,Dry chemical,,block4 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-23,Dry chemical,,block4 ด้านซ้าย,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-24,Dry chemical,,block4 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-25,Dry chemical,,block4 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-26,Dry chemical,,block4 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-27,Dry chemical,,block4 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-28,Dry chemical,,block4 ด้านขวา,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-29,CO2,,OFFICE 1,,,IECO Songkhla
+skl,extinguisher,thailand,th,SKL-FE-SKL-30,CO2,,OFFICE 2,,,IECO Songkhla
+skl,shower,thailand,th,SKL-ES-SKL-01,Emergency shower and eye wash,,IECO SKL,,Block 3 กลางด้านขวา,IECO Songkhla
+skl,shower,thailand,th,SKL-ES-SKL-02,Emergency shower and eye wash,,IECO SKL,,Block 2-3 ด้านหลัง,IECO Songkhla
+skl,shower,thailand,th,SKL-EW-SKL-01,Emergeccy eye wash,,IECO SKL,,Block 2-3 กลาง,IECO Songkhla
+skl,shower,thailand,th,SKL-EW-SKL-02,Emergency eye wash,,IECO SKL,,Block 2 ด้านหลัง,IECO Songkhla
+ray,extinguisher,thailand,th,RAY-FE-SHE-031,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-039,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-050,Dry chemical,,ประจำรถ Forklift No.1,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-053,Dry chemical,,จุดสูบบุหรี่ 2,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-032,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-036,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-052,Dry chemical,,ประจำรถ Forklift No.4,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-004,CO2,,หน้าห้องพระ,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-007,CO2,,ห้องทดลอง 1 ชั้น1,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-016,Foam,,ข้าง Warehouse B,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-025,Dry chemical,,FAB Shop,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-013,Dry chemical,,Warehouse A,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-037,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-043,Dry chemical,,TIPU,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-003,CO2,,แผนก SH&E,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-015,Dry chemical,,Operation Office,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-002,CO2,,แผนก Operation,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-048,Dry chemical,,FAB Shop,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-005,Dry chemical,,ห้องประชุมหมอนทอง ชั้น1,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-010,Dry chemical,,ทางเข้าห้องน้ำชั้น 1,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-012,Dry chemical,,หน้า Warehouse A,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-018,Dry chemical,,Warehouse B,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-019,Dry chemical,,Warehouse B,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-024,Dry chemical,,FAB Shop,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-045,Dry chemical,,ข้าง Canteen,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-009,Dry chemical,,หน้าห้องพยาบาล ชั้น1,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-035,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-020,Dry chemical,,Maintenance,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-021,CO2,,Maintenance,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-023,CO2,,หน้าห้อง MDB,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-008,CO2,,ห้องทดลอง 2 ชั้น1,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-017,Foam,,ข้าง Warehouse B,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-033,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-034,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-042,Dry chemical,,TIPU,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-038,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-041,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-049,Dry chemical,,ห้องประชุมกระจิบ,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-027,Dry chemical,,Cleaning yard,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-028,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-040,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-001,BF 2000,,หน้าห้อง IT ชั้น2,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-011,Dry chemical,,ป้อม รปภ.,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-026,Dry chemical,,FAB Shop,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-030,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-047,Dry chemical,,ด้านในอาคาร Maintenanc,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-051,Dry chemical,,ประจำรถ Forklift No.2,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-014,CO2,,Operation Office,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-006,CO2,,MKT&Sale office  ชั้น2,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-022,Dry chemical,,หอพักคอย,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-029,Dry chemical,,Warehouse C,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-044,Dry chemical,,บ้านพัก,,,IECO Rayong
+ray,extinguisher,thailand,th,RAY-FE-SHE-046,Dry chemical,,ด้านในอาคาร Maintenanc,,,IECO Rayong
+ray,shower,thailand,th,RAY-ES-RYG-001,Eye wacher and shower ,,,,IECO RYG,
+ray,shower,thailand,th,RAY-ES-RYG-005,Eye wacher Portable,,,,IECO RYG,
+ray,shower,thailand,th,RAY-ES-RYG-002,Eye wacher and shower ,,,,IECO RYG,
+ray,shower,thailand,th,RAY-ES-RYG-003,Eye wacher and shower ,,,,IECO RYG,
+ray,shower,thailand,th,RAY-ES-RYG-004,Eye wacher and shower ,,,,IECO RYG,
+ray,shower,thailand,th,RAY-ES-RYG-006,Eye wacher and shower ,,,,IECO RYG,
+srb,fbh,thailand,th,SRB-FBH-SRB-01,Full body Harness,,LAB,,LAB,IECO SRB
+srb,fbh,thailand,th,SRB-FBH-SRB-03,Full body Harness,,LAB,,LAB,IECO SRB
+srb,fbh,thailand,th,SRB-FBH-SRB-02,Full body Harness,,LAB,,LAB,IECO SRB
+srb,fbh,thailand,th,SRB-FBH-SRB-04,Full body Harness,,Solid,,Solid,IECO SRB
+skl,aed,thailand,th,SKL-AED-SKL-No.01,AED,,,,Block 3 ด้านหน้า,IECO Songkhla
+ray,fireexit,thailand,th,RAY-EL-SHE-004,แบบกล่องยึดติดผนัง,,ประตูทางออกห้องปฏิบัติการ,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-012,แบบกล่องยึดติดผนัง,,ประตูทางออก WH A,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-014,แบบกล่องยึดติดผนัง,,ห้องเขียวเก็บของ AD,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-021,แบบกล่องยึดติดผนัง,,ประตู WH B ด้านหลังฝั่งพักคอย,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-022,แบบกล่องยึดติดผนัง,,ประตูด้านในออฟฟิศ MN,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-023,แบบกล่องยึดติดผนัง,,ประตูคลัง C ด้านหน้าฝั่งลานคลีน,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-024,แบบกล่องยึดติดผนัง,,ประตูคลัง C ด้านหน้าฝั่งบ่อน้ำ,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-025,แบบกล่องยึดติดผนัง,,ประตูคลัง C ด้านหลังฝั่งลานคลีน,,,IECO Rayong
+ray,fireexit,thailand,th,RAY-EL-SHE-026,แบบกล่องยึดติดผนัง,,ประตูคลัง C ด้านหลังฝั่งบ่อน้ำ,,,IECO Rayong
+srb,overheadcrane,thailand,th,SRB-OC-SRB-01,Overhead crane 15 ton,,Work shop,,IECO,SABURI
+srb,overheadcrane,thailand,th,SRB-OC-SRB-02,Overhead crane 10x10 ton,,Khao Noi,,IECO,SABURI
+srb,firealarm,thailand,th,SRB-FA-SRB-No.01,Fire alarm,,Solid,,Solid,IECO SRB
+srb,firealarm,thailand,th,SRB-FA-SRB-No.02,Fire alarm,,Solid,,LBP,IECO SRB
+ray,aed,thailand,th,RAY-AED-RYG-No.01,AED,,,,WH-A,IECO Rayong

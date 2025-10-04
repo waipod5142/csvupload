@@ -1,0 +1,252 @@
+﻿site,type,country,bu,id,kind,owner,place,location
+sccc,aed,thailand,th,SCCC-SRB-AED-01,เครื่องกระตุกหัวใจ AED,"OHS-TH, SRB",อาคารจัดซื้อ ฝ่าย OHS-TH,หน้าห้องประชุมถุงทอง
+sccc,aed,thailand,th,SCCC-COL-AED-02,เครื่องกระตุกหัวใจ AED,Column Tower,อาคารคอลัมน์ทาวเวอร์ ชั้น 12,หน้าห้องคุณเบญฯ
+sccc,aed,thailand,th,SCCC-COL-AED-03,เครื่องกระตุกหัวใจ AED,Column Tower,อาคารคอลัมน์ทาวเวอร์ ชั้น 3,หน้าห้องพยาบาล
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-05,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.12-02,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.12
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.12-05,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.12
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-04,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-04,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.12-04,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.12
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-07,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.12-01,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.12
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-08,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-06,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-OHS-EX-03,ป้ายทางหนีไฟ,"OHS-TH, SRB","OHS-TH, หน้าห้องประชุมถุงทอง",อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-09,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-OHS-EX-02,ป้ายทางหนีไฟ,"OHS-TH, SRB","OHS-TH, หน้าห้องถ่ายเอกสาร",อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-02,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-10,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-01,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-02,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-05,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-06,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.12-03,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.12
+sccc,fireexit,thailand,th,SCCC-OHS-EX-01,ป้ายทางหนีไฟ,"OHS-TH, SRB","OHS-TH, หน้าประตูทางเข้า",อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-03,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-08,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-03,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.10-07,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.10
+sccc,fireexit,thailand,th,SCCC-BKK-EXFL.3-01,ป้ายทางหนีไฟ,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-01,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-02,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-03,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-04,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-05,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-06,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.3-07,Emergency Light,Column tower,-,Column tower ชั้น FL.3
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-01,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-02,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-03,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-04,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-05,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-06,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-07,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-08,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-09,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.10-10,Emergency Down Light,Column tower,-,Column tower ชั้น FL.10
+sccc,emergency,thailand,th,SCCC-BKK-FL.12-01,Emergency Down Light,Column tower,-,Column tower ชั้น FL.12
+sccc,emergency,thailand,th,SCCC-BKK-FL.12-02,Emergency Down Light,Column tower,-,Column tower ชั้น FL.12
+sccc,emergency,thailand,th,SCCC-BKK-FL.12-03,Emergency Down Light,Column tower,-,Column tower ชั้น FL.12
+sccc,emergency,thailand,th,SCCC-BKK-FL.12-04,Emergency Down Light,Column tower,-,Column tower ชั้น FL.12
+sccc,emergency,thailand,th,SCCC-BKK-FL.12-05,Emergency Down Light,Column tower,-,Column tower ชั้น FL.12
+sccc,emergency,thailand,th,SCCC-BKK-FL.12-06,Emergency Down Light,Column tower,-,Column tower ชั้น FL.12
+sccc,emergency,thailand,th,SCCC-OHS-EL-01,ไฟสำรองฉุกเฉิน,"OHS-TH, SRB",สำนักงาน 1,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,emergency,thailand,th,SCCC-OHS-EL-02,ไฟสำรองฉุกเฉิน,"OHS-TH, SRB",สำนักงาน 2,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,emergency,thailand,th,SCCC-OHS-EL-03,ไฟสำรองฉุกเฉิน,"OHS-TH, SRB",สำนักงาน 3,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,emergency,thailand,th,SCCC-OHS-EL-04,ไฟสำรองฉุกเฉิน,"OHS-TH, SRB",หน้าห้องประชุมถุงทอง,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,emergency,thailand,th,SCCC-OHS-EL-05,ไฟสำรองฉุกเฉิน,"OHS-TH, SRB",ห้องประชุมถุงทอง,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,emergency,thailand,th,SCCC-OHS-EL-06,ไฟสำรองฉุกเฉิน,"OHS-TH, SRB",ห้องจัดเก็บของ-เอกสาร,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,emergency,thailand,th,SCCC-PROC-01,ไฟสำรองฉุกเฉิน,"Procurement, SRB",Procurement,อาคารฝ่ายจัดซื้อ
+sccc,emergency,thailand,th,SCCC-PROC-02,ไฟสำรองฉุกเฉิน,"Procurement, SRB",Procurement,อาคารฝ่ายจัดซื้อ
+sccc,emergency,thailand,th,SCCC-PROC-03,ไฟสำรองฉุกเฉิน,"Procurement, SRB","Procurement, ห้องประชุม Red1",อาคารฝ่ายจัดซื้อ
+sccc,emergency,thailand,th,SCCC-PROC-04,ไฟสำรองฉุกเฉิน,"Procurement, SRB","Procurement, ห้องประชุม Red1",อาคารฝ่ายจัดซื้อ
+sccc,emergency,thailand,th,SCCC-PROC-05,ไฟสำรองฉุกเฉิน,"Procurement, SRB","Procurement, หน้าห้องประชุม Red1",อาคารฝ่ายจัดซื้อ
+sccc,extinguisher,thailand,th,SCCC-BKK-19,CO2,Column tower,SCCTR,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-OHS-01,CO2 (11.4Kg.),"OHS-TH, SRB",OHS-TH,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,extinguisher,thailand,th,SCCC-HR-CT-103,ผงเคมีแห้ง,P&OP,สโมสร,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-001),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-012),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-013),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-015),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-I3(ID-1-017),ผงเคมีแห้ง,P&OP,Flat I3,"บ้านพัก1, I3"
+sccc,extinguisher,thailand,th,SCCC-C56(ID-1-036),ผงเคมีแห้ง,P&OP,"บ้าน C 5,6","บ้านพัก1, C5,6"
+sccc,extinguisher,thailand,th,SCCC-C78(ID-1-037),ผงเคมีแห้ง,P&OP,"บ้าน C 7,8","บ้านพัก1, C7,8"
+sccc,extinguisher,thailand,th,SCCC-A2(ID-1-040),ผงเคมีแห้ง,P&OP,บ้าน A2,"บ้านพัก1, A2"
+sccc,extinguisher,thailand,th,SCCC-จอดรถ(ID-1-056),ผงเคมีแห้ง,P&OP,"โรงจอดรถI1,I2","บ้านพัก1, จอดรถ"
+sccc,extinguisher,thailand,th,SCCC-จอดรถ(ID-1-059),ผงเคมีแห้ง,P&OP,"โรงจอดรถI1,I2","บ้านพัก1, จอดรถ"
+sccc,extinguisher,thailand,th,SCCC-D1(ID-1-063),ผงเคมีแห้ง,P&OP,บ้าน D1,"บ้านพัก1, D1"
+sccc,extinguisher,thailand,th,SCCC-TRI1(ID-1-068),"Co2, 15.7kg.",P&OP,Flat I1,"บ้านพัก1, TR.I1"
+sccc,extinguisher,thailand,th,SCCC-HR-J1-101,ผงเคมีแห้ง,P&OP,Flat J1 ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J2-102,ผงเคมีแห้ง,P&OP,Flat J2 ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J2-302,ผงเคมีแห้ง,P&OP,Flat J2 ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-102,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J7-102,ผงเคมีแห้ง,P&OP,Flat J7ชั้น1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-101,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-402,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-YM-202,ผงเคมีแห้ง,P&OP,ยิม 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-SP-201,ผงเคมีแห้ง,P&OP,สระว่ายน้ำ,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-TRสโมสร-002,CO2,P&OP,สโมสร,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-BKK-06,CO2,Column tower,พื้นที่ Renovate ใหม่ของ M&S,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-07,CO2,Column tower,หน้าห้องประชุม M&S (Mobility),Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-09,CO2,Column tower,ข้างห้อง SVP M&S,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-11,CO2,Column tower,General Hot seat,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-OHS-04,CO2 (11Kg.),"OHS-TH, SRB",OHS-TH,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,extinguisher,thailand,th,SCCC-PUC-01,CO2 (11.4Kg.),Procurement,Procurement,อาคารฝ่ายจัดซื้อ
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-025),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-027),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-C12(ID-1-034),ผงเคมีแห้ง,P&OP,"บ้าน C 1,2","บ้านพัก1, C1,2"
+sccc,extinguisher,thailand,th,SCCC-C34(ID-1-035),ผงเคมีแห้ง,P&OP,"บ้าน C 3,4","บ้านพัก1, C3,4"
+sccc,extinguisher,thailand,th,SCCC-D3(ID-1-046),ผงเคมีแห้ง,P&OP,บ้าน D3,"บ้านพัก1, D3"
+sccc,extinguisher,thailand,th,SCCC-กีฬา1(ID-1-049),ผงเคมีแห้ง,P&OP,โรงยิม 1,"บ้านพัก1, กีฬา 1"
+sccc,extinguisher,thailand,th,SCCC-TRI2(ID-1-069),"Co2, 15.9kg.",P&OP,Flat I2,"บ้านพัก1, TR.I2"
+sccc,extinguisher,thailand,th,SCCC-TRI3(ID-1-071),"Co2, 15.6kg.",P&OP,Flat 3,"บ้านพัก1, TR.I3"
+sccc,extinguisher,thailand,th,SCCC-HR-J1-202,ผงเคมีแห้ง,P&OP,Flat J1 ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-101,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-302,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-101,ผงเคมีแห้ง,P&OP,Flat J4ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-401,ผงเคมีแห้ง,P&OP,Flat J4ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-201,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-302,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-102,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J7-101,ผงเคมีแห้ง,P&OP,Flat J7ชั้น1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G5-102,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-TRJ1-001,"CO2, 15.7kg.",P&OP,TR J1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-BKK-18,CO2,Column tower,หน้าห้อง Server,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-BKK-20,CO2,Column tower,หน้าห้องประชุม Chiang Mai,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-OHS-06,CO2 (11.4Kg.),"OHS-TH, SRB",OHS-TH,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,extinguisher,thailand,th,SCCC-HR-OF-101,ผงเคมีแห้ง,P&OP,สำนักงาน P&OP,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-OF-103,ผงเคมีแห้ง,P&OP,สำนักงาน P&OP,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-004),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-011),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-014),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-023),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-024),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-029),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-กีฬา2(ID-1-033),ผงเคมีแห้ง,P&OP,ยิม2,"บ้านพัก1, กีฬา 2"
+sccc,extinguisher,thailand,th,SCCC-A1(ID-1-039),ผงเคมีแห้ง,P&OP,บ้าน A1,"บ้านพัก1, A1"
+sccc,extinguisher,thailand,th,SCCC-จอดรถ(ID-1-060),ผงเคมีแห้ง,P&OP,โรงจอดรถI4,"บ้านพัก1, จอดรถ"
+sccc,extinguisher,thailand,th,SCCC-HR-J1-102,ผงเคมีแห้ง,P&OP,Flat J1 ชั้น1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J2-101,ผงเคมีแห้ง,P&OP,Flat J2 ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-202,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-302,ผงเคมีแห้ง,P&OP,Flat J4ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-202,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-301,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-102,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-201,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-202,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G3-101,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G4-102,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-GA-201,ผงเคมีแห้ง,P&OP,ป้อมยาม,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-YM-201,ผงเคมีแห้ง,P&OP,ยิม2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-BKK-01,CO2,Column tower,แผนก P&OP,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-04,CO2,Column tower,General Hot seat,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-13,CO2,Column tower,หน้าห้อง Group CFO,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-BKK-14,CO2,Column tower,แผนก INDG,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-BKK-17,CO2,Column tower,INDG,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-OHS-02,CO2 (11.4Kg.),"OHS-TH, SRB",OHS-TH,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,extinguisher,thailand,th,SCCC-OHS-03,CO2 (11Kg.),"OHS-TH, SRB",OHS-TH,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,extinguisher,thailand,th,SCCC-OHS-05,CO2 (11Kg.),"OHS-TH, SRB",OHS-TH,อาคารฝ่ายความปลอดภัย OHS-Thailand
+sccc,extinguisher,thailand,th,SCCC-PUC-02,CO2 (11Kg.),Procurement,Procurement,อาคารฝ่ายจัดซื้อ
+sccc,extinguisher,thailand,th,SCCC-HR-CT-101,"Co2, 15.5kg.",P&OP,สโมสร,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-009),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I3(ID-1-020),ผงเคมีแห้ง,P&OP,Flat I3,"บ้านพัก1, I3"
+sccc,extinguisher,thailand,th,SCCC-B4(ID-1-044),ผงเคมีแห้ง,P&OP,บ้าน B4,"บ้านพัก1, B4"
+sccc,extinguisher,thailand,th,SCCC-กีฬา2(ID-1-062),ผงเคมีแห้ง,P&OP,ยิม2,"บ้านพัก1, กีฬา 2"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-066),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-ยิม1ด้านหลัง(ID-1-080),"Co2, 15.5kg.",P&OP,ยิม1,"บ้านพัก1, ยิม1ด้านหลัง"
+sccc,extinguisher,thailand,th,SCCC-TRI3(ID-1-070),"Co2, 15.8kg.",P&OP,Flat I3,"บ้านพัก1, TR.I3"
+sccc,extinguisher,thailand,th,SCCC-TRI4(ID-1-072),ผงเคมีแห้ง,P&OP,Flat 4,"บ้านพัก1, TR.I4"
+sccc,extinguisher,thailand,th,SCCC-HR-J1-201,ผงเคมีแห้ง,P&OP,Flat J1 ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J1-302,ผงเคมีแห้ง,P&OP,Flat J1 ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-402,ผงเคมีแห้ง,P&OP,Flat J4ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-401,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-402,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-402,ผงเคมีแห้ง,P&OP,Flat J6ชั้น4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J7-201,ผงเคมีแห้ง,P&OP,Flat J7ชั้น2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J7-301,ผงเคมีแห้ง,P&OP,Flat J7ชั้น3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-CT-202,ผงเคมีแห้ง,P&OP,สโมสร,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-BKK-03,CO2,Column tower,บริเวณ Reception,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-05,CO2,Column tower,พื้นที่ Renovate ใหม่ของ M&S,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-08,CO2,Column tower,หน้าห้องครัว M&S,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-16,ผงเคมีแห้ง,Column tower,ตู้เก็บอุปกรณ์ผู้นำหนีไฟ,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-PUC-04,CO2 (11Kg.),Procurement,Procurement,อาคารฝ่ายจัดซื้อ
+sccc,extinguisher,thailand,th,SCCC-PUC-05,CO2 (11Kg.),Procurement,Procurement,อาคารฝ่ายจัดซื้อ
+sccc,extinguisher,thailand,th,SCCC-HR-CN-101,ผงเคมีแห้ง,P&OP,สถานพยาบาล,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-CT-102,"Co2, 15.8kg.",P&OP,สโมสร,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-006),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-008),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I3(ID-1-018),ผงเคมีแห้ง,P&OP,Flat I3,"บ้านพัก1, I3"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-026),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-C910(ID-1-038),ผงเคมีแห้ง,P&OP,"บ้าน C 9,10","บ้านพัก1, C9,10"
+sccc,extinguisher,thailand,th,SCCC-D1(ID-1-045),ผงเคมีแห้ง,P&OP,บ้าน D1,"บ้านพัก1, D1"
+sccc,extinguisher,thailand,th,SCCC-E1(ID-1-054),ผงเคมีแห้ง,P&OP,บ้าน E1,"บ้านพัก1, E1"
+sccc,extinguisher,thailand,th,SCCC-E2(ID-1-055),ผงเคมีแห้ง,P&OP,บ้าน E2,"บ้านพัก1, E2"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-003)CO2,"Co2, 15.4kg.",P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-HR-J1-301,ผงเคมีแห้ง,P&OP,Flat J1 ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-201,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-401,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-301,ผงเคมีแห้ง,P&OP,Flat J8ชั้น3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G2-101,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G4-101,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-005),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-007),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I3(ID-1-019),ผงเคมีแห้ง,P&OP,Flat I3,"บ้านพัก1, I3"
+sccc,extinguisher,thailand,th,SCCC-I3(ID-1-021),ผงเคมีแห้ง,P&OP,Flat I3,"บ้านพัก1, I3"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-030),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-031),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-ClubHouse(ID-1-032),ผงเคมีแห้ง,P&OP,สระว่ายน้ำ,"บ้านพัก1, ClubHouse"
+sccc,extinguisher,thailand,th,SCCC-B3(ID-1-043),ผงเคมีแห้ง,P&OP,บ้าน B3,"บ้านพัก1, B3"
+sccc,extinguisher,thailand,th,SCCC-D6(ID-1-048),ผงเคมีแห้ง,P&OP,บ้าน D6,"บ้านพัก1, D6"
+sccc,extinguisher,thailand,th,SCCC-จอดรถ(ID-1-057),ผงเคมีแห้ง,P&OP,"โรงจอดรถI1,I2","บ้านพัก1, จอดรถ"
+sccc,extinguisher,thailand,th,SCCC-HR-J2-202,ผงเคมีแห้ง,P&OP,Flat J2 ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-201,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-301,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-402,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-102,ผงเคมีแห้ง,P&OP,Flat J4ชั้น1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-101,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-101,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-301,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-302,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G3-102,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-BKK-10,CO2,Column tower,บริเวณแผนก Group Strategy,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-BKK-12,CO2,Column tower,แผนก F&C,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-BKK-21,CO2,Column tower,"Group Internal Audit and Compliance, Company secretary",Column tower ชั้น 12
+sccc,extinguisher,thailand,th,SCCC-BKK-22,CO2,Column tower,ด้านข้างห้องประชุมดอยอินทนนท์,Column tower ชั้น 12
+sccc,extinguisher,thailand,th,SCCC-HR-CN-102,"Co2, 15.6kg.",P&OP,สถานพยาบาล,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-002),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-B1(ID-1-041),ผงเคมีแห้ง,P&OP,บ้าน B1,"บ้านพัก1, B1"
+sccc,extinguisher,thailand,th,SCCC-D4(ID-1-047),ผงเคมีแห้ง,P&OP,บ้าน D4,"บ้านพัก1, D4"
+sccc,extinguisher,thailand,th,SCCC-ป้อมยาม(ID-1-050),ผงเคมีแห้ง,P&OP,ป้อมยามบ้านพัก 1,"บ้านพัก1, ป้อมยาม"
+sccc,extinguisher,thailand,th,SCCC-จอดรถ(ID-1-058),ผงเคมีแห้ง,P&OP,"โรงจอดรถI1,I2","บ้านพัก1, จอดรถ"
+sccc,extinguisher,thailand,th,SCCC-I3(ID-1-022)CO2,"Co2, 15.6kg.",P&OP,Flat I3,"บ้านพัก1, I3"
+sccc,extinguisher,thailand,th,SCCC-HR-J2-301,ผงเคมีแห้ง,P&OP,Flat J2 ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J3-401,ผงเคมีแห้ง,P&OP,Flat J3 ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-202,ผงเคมีแห้ง,P&OP,Flat J4ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-301,ผงเคมีแห้ง,P&OP,Flat J4ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J7-202,ผงเคมีแห้ง,P&OP,Flat J7ชั้น2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J7-302,ผงเคมีแห้ง,P&OP,Flat J7ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G1-101,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G1-102,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G5-101,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-CT-201,ผงเคมีแห้ง,P&OP,สโมสร,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-SP-202,"CO2, 15.9kg.",P&OP,สระว่ายน้ำ,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-BKK-02,น้ำยาเหลวระเหย,Column tower,ห้องถ่ายเอกสาร,Column tower ชั้น 3
+sccc,extinguisher,thailand,th,SCCC-BKK-15,CO2,Column tower,LBM,Column tower ชั้น 10
+sccc,extinguisher,thailand,th,SCCC-BKK-23,CO2,Column tower,แผนก Board of Director,Column tower ชั้น 12
+sccc,extinguisher,thailand,th,SCCC-PUC-03,CO2 (11Kg.),Procurement,Procurement,อาคารฝ่ายจัดซื้อ
+sccc,extinguisher,thailand,th,SCCC-HR-OF-102,ผงเคมีแห้ง,P&OP,สำนักงาน P&OP,"ส่วนกลาง, HR"
+sccc,extinguisher,thailand,th,SCCC-I1(ID-1-010),ผงเคมีแห้ง,P&OP,Flat I1,"บ้านพัก1, I1"
+sccc,extinguisher,thailand,th,SCCC-I2(ID-1-016),ผงเคมีแห้ง,P&OP,Flat I2,"บ้านพัก1, I2"
+sccc,extinguisher,thailand,th,SCCC-I4(ID-1-028),ผงเคมีแห้ง,P&OP,Flat I4,"บ้านพัก1, I4"
+sccc,extinguisher,thailand,th,SCCC-B2(ID-1-042),ผงเคมีแห้ง,P&OP,บ้าน B2,"บ้านพัก1, B2"
+sccc,extinguisher,thailand,th,SCCC-จอดรถ(ID-1-061),ผงเคมีแห้ง,P&OP,โรงจอดรถI4,"บ้านพัก1, จอดรถ"
+sccc,extinguisher,thailand,th,SCCC-HR-J2-201,ผงเคมีแห้ง,P&OP,Flat J2 ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J4-201,ผงเคมีแห้ง,P&OP,Flat J4ชั้น2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J5-102,ผงเคมีแห้ง,P&OP,Flat J5ชั้น 1,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J6-202,ผงเคมีแห้ง,P&OP,Flat J6ชั้น 2,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-302,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 3,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-J8-401,ผงเคมีแห้ง,P&OP,Flat J8ชั้น 4,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-G2-102,ผงเคมีแห้ง,P&OP,บ้าน G,"บ้านพัก2, HR"
+sccc,extinguisher,thailand,th,SCCC-HR-GA-202,ผงเคมีแห้ง,P&OP,ป้อมยาม,"บ้านพัก2, HR"
+sccc,socket,thailand,th,SCCC-SOCKET-Test,ผงเคมีแห้ง,P&OP,ป้อมยาม,"บ้านพัก2, HR"
