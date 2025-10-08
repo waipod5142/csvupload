@@ -207,10 +207,41 @@ node firestore-downloader.js -s serviceAccountKey.json -c your_collection_name
 
 # Save to file
 node firestore-downloader.js -s serviceAccountKey.json -c machinetr -o machinetr.json
-node firestore-downloader.js -s serviceAccountKey.json -c machine -o machine.json
-node firestore-downloader.js -s serviceAccountKey.json -c forms -o forms.json
 node firestore-downloader.js -s serviceAccountKey.json -c vocabulary -o vocabulary.json
 ```
+# To down load
+   # Download machine data:
+node firestore-downloader.js -s serviceAccountKey.json -c machine -o machine.json
+   Generate JavaScript constant:
+node create-machine-constant.js -i machine.json -o machine-constant.js
+
+
+   # Download forms from Firestore
+node firestore-downloader.js -s serviceAccountKey.json -c forms -o forms.json
+   # Convert to JavaScript constant:
+node create-forms-constant.js -i forms.json -o forms-constant.js
+   Output Files
+
+# updated the machinetr collection in Firestore by injecting the site field from the machine collection. machinetr.id === machine.id and machinetr.bu === machine.bu and machinetr.type === machine.type
+
+node update-machinetr-site.js -s serviceAccountKey.json -m machine.json -t machinetr.json
+
+
+Created update-mantr-site.js. The script:
+Matches employees.empId with mantr.id to update the site field
+Supports dry-run mode to preview changes
+Processes updates in batches of 500 records
+Provides detailed logging and error handling
+Usage:
+# Preview changes (dry run)
+node update-mantr-site.js -s serviceAccountKey.json --dry-run
+
+# Execute updates
+node update-mantr-site.js -s serviceAccountKey.json
+
+# Custom file paths
+node update-mantr-site.js -s serviceAccountKey.json -e employees.json -m mantr.json
+
 
 ### Download Command Options
 
